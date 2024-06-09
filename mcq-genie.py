@@ -904,7 +904,8 @@ def run():
 
       unit_option = st.selectbox(
       'Choose a Unit',
-      ('Unit 01 - Introduction to Financial Accounting', 'Unit 02 - Accounting Cycle', 'Unit 03 - Depreciation', 'Unit 04 - Financial Statements'))
+      ('Unit 01 - Introduction to Financial Accounting', 'Unit 02 - Accounting Cycle', 'Unit 03 - Depreciation', 'Unit 04 - Financial Statements'),
+      index=3)
 
       # st.radio(
       #     "Select MCQs to Analyze / Enhance",
