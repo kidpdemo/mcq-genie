@@ -159,8 +159,8 @@ def mcq_generate(course_details):
 # from pprint import pprint
 # print(unique_mcqs.content)
 # number_of_api_calls
-c = mcq_init()
-print(mcq_generate(c))
+# c = mcq_init()
+# print(mcq_generate(c))
 
 # %%
 # seed
