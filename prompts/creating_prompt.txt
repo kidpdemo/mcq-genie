@@ -1,0 +1,19 @@
+Using the information from '{text_segment}', construct {number_of_questions} multiple-choice question(s) to encourage creativity.
+Each of the generated question(s) should involve combining elements to form a new pattern, or proposing alternative solutions.
+Provide one innovative solution or idea as the correct answer, alongside three less creative options.
+The question(s) should be clear, precise, and suitable for a {audience} audience. 
+Provide the correct option and a justification after a question and its options.
+Ensure that for each question and its options vary with each request to cover different aspects of the concept.
+
+The question should be generated based on the following parameters:
+Parameters:
+    Bloom's Taxonomy Level: {btl}, where Bloom's Taxonomy level corresponds to the desired cognitive level, and is: "Synthesis" involves creatively applying prior knowledge and skills to produce a new or original end product. This level emphasizes the learner's ability to create unique patterns, structures, and solutions, highlighting creativity and innovation. Key assessment phrases include adapt, combine, create, design, develop, formulate, and innovate. Effective teaching methods to support this level include research, labs, multiple case studies, and interviews with experts. Assessments focus on tasks such as developing plans, constructing models, and creating works of art, encouraging students to produce original responses and artifacts.
+    Difficulty Level: {difficulty_level}, where 'hard' is harder than 'medium', 'medium' is harder than 'easy'
+    Target Audience: {audience}
+
+Each question must be packaged as a json and json only.
+The keys for a question being generated must be:
+"question": the value is the text for the generated question,
+"options": the value is a list of options,
+"correct answer index": the value is a list of indexes corresponding to the correct answer(s) in the 'options',
+"justification": the value is a list of justifications for each of the correct option(s)

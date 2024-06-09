@@ -1,0 +1,465 @@
+ Accounting Conventions: Customs and traditions that guide the accountants to record the financial
+
+transactions.
+
+ Accounting Process: It includes the recording of financial transactions, ledger posting, preparation
+
+of financial statements and analysing and interpretation of them
+
+ Cost Accounting: Accounting relating to the ascertainment of cost of the product
+
+ Management Accounting: Presenting of accounting information in such a way as to assist the
+
+management in taking the important decisions and making the policies
+
+1.9 CASE STUDY: ICAI TOLD TO HASTEN PROCESS FOR DOUBLE-ENTRY
+
+ACCOUNTING SYSTEM
+
+Case Objective
+
+This case study highlights the importance of double-entry accounting system.
+
+A special committee should be formed to transition the single-entry accounting system to the double- entry accounting system. The procedure takes a long time. It should be expedited,” says the author.
+
+11
+
+JGI
+
+JDAE EMED-TOI- BEUNNIVERSITY
+
+Accounting and Finance
+
+Mr. K. Rahman Khan, member of the Institute of Chartered Accountants of India (ICAI) and Honorary Deputy Chairman of the Rajya Sabha, stated.
+
+Mr. Khan stated that the accounting system in local bodies has already been converted to double entry, and that the institute should play an important role in monitoring government expenditure.
+
+“The responsibilities of a chartered accountant should not be limited to his clients alone. It is something he owes to society. The institute, as well as the Comptroller and Auditor General of India, the custodian of government expenditure, have already decided to carry out the conversion. Various Notes The double entry accounting system is now used by governments all around the world. He went on to say, “We need to transition to double entry as soon as possible.”
+
+He corrected his statement by noting, “I am not implying that the government’s accounts are flawed.” We must ensure that there is more transparency. The double entry accounting system would allow us to track cost increases, look into the specifics of total government spending, and so on.”
+
+Mr. G. Ramasamy, the ICAI’s Vice-President, stated that the government’s outlay for the Mahatma Gandhi National Rural Employment Guarantee Act Scheme totalled over 42,000 crores, and that over 6 lakh panchayats across the country were completing their spending statements. He stated, “The institute is assisting the panchayats in preparing the statement.”
+
+He stated that all permissions for the implementation of the International Financial Reporting Standards (IFRS) would be in place by July 31. The institute has begun programmes to educate professionals and restart the process in India, as well as launching an IFRS certification course. “We started with Nifty firms with a turnover of over 1,000 crores in the first phase.
+
+According to him, the institute has signed memorandums of understanding with a number of overseas peers in order to strengthen bilateral ties. “We recently met with professional groups in West Asia to discuss the importance of strengthening networking relationships between members and professionals from both nations. He said, “Among others, we are looking to get into mutual recognition agreements with professional associations in Canada, Singapore, and New Zealand.”
+
+Questions
+
+1. What is a double-entry accounting system?
+
+(Hint: Accounting concept whereby assets = liabilities + owners’ equity)
+
+2. What is the need to set up a separate committee for converting the single-entry accounting system to double entry?
+
+(Hint: This process is rather slow)
+
+3. What is the need of double entry accounting system?
+
+(Hint: The double entry accounting system would help measure cost escalation, go into the details of total public expenditure and so on.”)
+
+4. Do you think double-entry accounting system work?
+
+(Hint: Yes, it works)
+
+5. What is the aim of double-entry accounting system?
+
+(Hint: Reduce the time of accounting)
+
+12
+
+UNIT 01: Introduction to Financial Accounting
+
+JGI
+
+JDAE EMED-TOI- BEUNNIVERSITY
+
+Self-Assessment Questions
+
+A. Multiple Choice Questions
+
+1. Which of the following is the art of recording, classifying and summarising in a significant manner, and in terms of money transactions and events which are in part at least, of a financial character and interpreting the results thereof. b. Ledger
+
+1. Which of the following is the art of recording, classifying and summarising in a significant manner, and in terms of money transactions and events which are in part at least, of a financial character and interpreting the results thereof. b. Ledger
+
+d. None of these
+
+2.
+
+accounting is a form of accounting which enables a business to be conducted more
+
+efficiently.
+
+a. Financial
+
+b. Management
+
+c. Cost
+
+d. None of these
+
+3.
+
+Inflation accounting is also called
+
+a. Revaluation
+
+b. Replacement
+
+c. None
+
+d. All of these
+
+4.
+
+basis is a process of accounting that recognizes the impact of transactions on the financial statements in the time periods when revenues and expenses occur instead of when cash is received.
+
+a. Accrual
+
+b. Cash
+
+c. None
+
+d. a & b
+
+5. A process of accounting where revenue and expense recognition would occur when cash is received and disbursed is called
+
+a. Cash
+
+b. Accrual
+
+c. None
+
+d. a & b
+
+6.
+
+they are the present obligations arising from past events. It also arises when an asset is
+
+created or acquired.
+
+a. Asset
+
+b. Liabilities
+
+c. Equity
+
+d. All of these
+
+7.
+
+is an increase in economic benefits during the accounting period in the form of inflows
+
+or enhancements of assets or a decrease in liabilities, thereby increases equity and net worth.
+
+a. Income
+
+b. Equity
+
+c. Expenses
+
+d. None of these
+
+8. Which of the following is a residual interest in the assets after deducting liabilities?
+
+a. Income
+
+b. Equity
+
+c. Expenses
+
+d. None of these
+
+13
+
+JGI
+
+JDAE EMED-TOI- BEUNNIVERSITY
+
+Accounting and Finance
+
+9. Which of the following is a concept that implies each transaction and event must be expressible in monetary terms ?
+
+a. Money measurement
+
+b. Business Entity
+
+c. Going Concerned
+
+d. None of these
+
+10. Which of the following implies that a business unit is separate and distinct from the person who owns or controls it?
+
+a. Money measurement
+
+b. Business Entity
+
+c. Going Concerned
+
+d. None of these
+
+11. Which of the following concept tells that to recognize revenue it has to be realized?
+
+a. Accrual concept
+
+b. Matching concept
+
+c. Realisation concept
+
+d. None of these
+
+12. The conventions, concepts, rules and procedures that together make up accepted accounting practice at any given time are called
+
+a. AICPA
+
+b. GAAP
+
+c. GAPA
+
+d. None of these
+
+13. Which of the following is the after-tax cash flow generated by a business minus the cost of the capital it has deployed to generate that cash flow?
+
+a. EVA
+
+b. GAAP
+
+c. AICPA
+
+d. None of these
+
+14. Prepaid Insurance A/c is
+
+A/c
+
+a. Real
+
+b. Personal
+
+c. Nominal
+
+d. None of these
+
+15. Outstanding wages A/c is
+
+A/c
+
+a. Personal
+
+b. Real
+
+c. Nominal
+
+d. None of these
+
+16. Bad Debts A/c is
+
+A/c
+
+a. Real
+
+b. Personal
+
+c. Nominal
+
+d. None of these
+
+17. Which of the following accounting system provides a system of checks and balances?
+
+a. Single Entry
+
+b. Financial Entry
+
+c. Double Entry
+
+d. Triple Entry
+
+18. It means that cash is received by the business from the proprietor. It results in the immediate receipt of cash.
+
+a. Antony commenced business with ` 10,000
+
+b. Bought goods for cash ` 2,000
+
+c. Charged commission to Chander ` 100
+
+d. Sold goods for cash `1,000
+
+14
+
+UNIT 01: Introduction to Financial Accounting
+
+19. Debt may be of
+
+types
+
+a. 3
+
+b. 2
+
+c. 5
+
+d. None of these
+
+20. Creditor may be
+
+types
+
+a. 3
+
+b. 2
+
+c. 4
+
+d. 5
+
+. Essay Type Questions
+
+1. What do you understand by the term capital?
+
+2. What are assets?
+
+3. Write a short note on fixed assets.
+
+4. Explain GAAP.
+
+5. Explain Ind AS.
+
+Answers for Self- Assessment questions
+
+Multiple Choice Question Answers:
+
+Q. No MCQ Answers
+
+1
+
+c. Accounting
+
+2
+
+b. Management
+
+3
+
+b. Repalcement
+
+4
+
+a. Accural
+
+5
+
+a. Cash
+
+6
+
+b. Liabilities
+
+7
+
+a. Income
+
+8
+
+b. Equity
+
+9
+
+10
+
+a. Money Management b. Business Entity
+
+11
+
+c.Realisation concept
+
+12
+
+b. GAAP
+
+13
+
+a. EVA
+
+JGI
+
+JDAE EMED-TOI- BEUNNIVERSITY
+
+15
+
+JGI
+
+JDAE EMED-TOI- BEUNNIVERSITY
+
+Accounting and Finance
+
+14
+
+b.Personal
+
+15
+
+a.Personal
+
+16
+
+c.Nominal
+
+17
+
+c.Double Entry
+
+18
+
+A Antony commenced business with ` 10,000
+
+19
+
+a 3
+
+20
+
+c 4
+
+B. Hints for Essay Type Questions
+
+1. Capital is the amount that the business owner has put into the company. It is also known as net worth or owners’ equity. It is the sum of your assets minus your liabilities. Refer to Section Conceptual Framework of Financial Accounting
+
+2. Assets are valuable items or properties that a company uses in its operations. In other terms, an asset is everything that provides a benefit to the company. Refer to Section Conceptual Framework of Financial Accounting
+
+3. Fixed assets are the assets which are purchased for the purpose of operating the business and not for resale such as land and building, plant and machinery and furniture, etc. Refer to Section Conceptual Framework of Financial Accounting
+
+4. Various rules for preparing financial statements are based on basic accounting assumptions and principles. If these financial statements are accurate and relevant, they will provide a wealth of information to the various users of financial statements. Accounting assumptions and principles must be changed in order to prepare honest and fair financial statements. Refer to Section Assumptions and Conventions of Accounting
+
+5. The International Accounting Standard Committee (IASC) has issued the International Standards on a global scale. Leading professional bodies from the United Kingdom, the United States, Australia, France, and Canada are represented on this committee. India is also a member of this committee. India has also prepared its own accounting standards, which are prepared by the Institute of Chartered Accountant of India (ICAI). Refer to Section Introduction to Indian GAAP, IND AS and IFRS
+
+Post Unit Reading Material
+
+ http://vcmdrp. tums.ac.ir/files/financial/istgahe_mali/moton_english/financial_
+
+management_%5Bwww.accfile.com%5D.pdf
+
+ https://jyotinivas.org/pdf/e_content/bcom/bba_financial_management.pdf
+
+ https://mdu.ac.in/UpFiles/UpPdfFiles/2020/Jan/FinancialManagement.pdf
+
+16
+
+UNIT 01: Introduction to Financial Accounting
+
+Discussion Forum
+
+ Discuss with your friends how financial accounting is useful for nowadays.
+
+JGI
+
+JDAE EMED-TOI- BEUNNIVERSITY
+
+17
+
+JGI
+
+18
+
+JDAE EMED-TOI- BEUNNIVERSITY
+
+Accounting and Finance

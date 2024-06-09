@@ -1,0 +1,20 @@
+Generate {number_of_questions} multiple-choice question(s) based on the following concept: {concept}. 
+The question(s) should be clear, precise, and suitable for a {audience} audience. 
+Include one correct answer and three plausible distractors for each question.
+Provide the correct option and a justification after the question and its option.
+Ensure the question and options vary with each request to cover different aspects of the concept.
+
+The question should be generated based on the following parameters:
+Parameters:
+    Domain: {domain}
+    Concept: {concept}
+    Bloom's Taxonomy Level: {btl}, where Bloom's Taxonomy level corresponds to the desired cognitive level
+    Difficulty Level: {difficulty_level}, where 'hard' is harder than 'medium', 'medium' is harder than 'easy'
+    Target Audience: {audience}
+
+Each question must be packaged as a json and json only.
+The keys for a question being generated must be:
+"question": the value is the text for the generated question,
+"options": the value is a list of options with one correct and others as distractors,
+"correct answer index": the value is a list of indexes corresponding to the correct answer(s) in the 'options',
+"justification": the value is a list of justifications for each of the correct option(s)

@@ -1,0 +1,19 @@
+Using the information from '{text_segment}', construct {number_of_questions} multiple-choice question(s) that require analysis of the given information.
+The question should involve breaking down concepts into parts, distinguishing between facts and inferences, or identifying motives or causes.
+Provide one correct analysis and three incorrect analyses as options for each question.
+The question(s) should be clear, precise, and suitable for a {audience} audience.
+Provide the correct option and a justification after the question and its options.
+Ensure the question and options vary with each request to cover different aspects of the concept.
+
+The question should be generated based on the following parameters:
+Parameters:
+    Bloom's Taxonomy Level: {btl}, where Bloom's Taxonomy level corresponds to the desired cognitive level, defined as: The "Analysis" level of Bloom's taxonomy involves decomposing materials into component parts for detailed examination and understanding. At this level, students are expected to analyze the content and structure of the material to develop multiple conclusions about motives, causes, inferences, and generalizations. Key activities include comparing, contrasting, categorizing, criticizing, and examining. Effective teaching methods for fostering these skills include case studies, simulations, discussions, and labs. Assessments might include tasks like essays, exams focused on analysis, and student presentations that require detailed comparison or examination of theories or case studies.
+    Difficulty Level: {difficulty_level}, where 'hard' is harder than 'medium', 'medium' is harder than 'easy'
+    Target Audience: {audience}
+
+Each question must be packaged as a json and json only.
+The keys for a question being generated must be:
+"question": the value is the text for the generated question,
+"options": the value is a list of options with one correct and others as distractors,
+"correct answer index": the value is a list of indexes corresponding to the correct answer(s) in the 'options',
+"justification": the value is a list of justifications for each of the correct option(s)

@@ -1,0 +1,1099 @@
+Accounting and Finance
+
+Unit-04
+
+Financial Statements
+
+Author: Dr. Vinoth
+
+Semester-01
+
+Master of Business Administration
+
+UNIT
+
+04
+
+Financial Statements
+
+Names of Sub-Units
+
+Introduction to Financial Statements, the Concept of Different Financial Statements, the Concept of Outstanding Expenses, Treatment of Closing Stock, Tax Provision, Dividend and Reserves, Finding Earning per Share (EPS).
+
+Overview
+
+This unit begins by meaning of financial statements, it discusses the different financial statements. The unit explains the treatment of closing stock. It also discusses the dividend and reserves, finding Earning per Share (EPS).
+
+Learning Objectives
+
+In this unit, you will learn to:
+
+ Explain the meaning of a financial statement
+
+ Discuss the major characteristics of financial statements
+
+ State the scope of financial statements
+
+ Describe the concept of the profit and loss (P&L) statement
+
+ Detail upon the concept of the balance sheet
+
+JGI
+
+JDAEEMED-T OI- BE UNNIVERSITY
+
+Accounting and Finance
+
+Learning Outcomes
+
+At the end of this unit, you would:
+
+ Access the meaning of a financial statement
+
+ Examine the concept of outstanding expenses
+
+ Analyse the treatment of closing stock
+
+ Evaluate the outstanding expenses
+
+4.1
+
+INTRODUCTION
+
+A financial statement refers to a formal and written record of all the financial activities and conditions of an organisation, entity or a person. Financial statements contain a structured, organised, and detailed summary of all the business processes. These determine the financial condition (whether organisation is profitable or not) and the strengths and weaknesses of a business at the end of an accounting period. Financial statements are prepared with the help of the trial balance that is prepared with the help of ledgers.
+
+There are three major types of financial statements—Profit & Loss (P&L) Account, Balance Sheet and Cash Flow Statement.
+
+The profit and loss account or the income statement shows the revenues and expenses of a company during a particular period. It indicates how revenues are transferred into net income. The main objective of the profit and loss statement is to show managers and investors whether the company has made money or lost money during a reported period.
+
+The balance sheet refers to the summary of the fiscal balances of a business organisation. In the balance sheet, the assets, liabilities and owner’s equity are listed as of a specific date, such as the end of a fiscal year. Very often financial accounts describe the balance sheet as a “snapshot of a company’s financial condition”. The balance sheet is the only financial statement that applies to a single point in time in the business’s calendar year. Financial statement analysis provides a pathway to measure this element of risk and it is a technique that features past performance of the organisation and can be measured in terms of liquidity, profitability, growth potential, efficiency, etc. It focuses on the significant relationship between financial statements.
+
+4.2 DIFFERENT FINANCIAL STATEMENTS
+
+The primary aim of investing money in a business is to earn profit. An organisation needs to periodically evaluate profits earned and losses incurred and its financial standing on a given date. There are different users of accounting information and all of them have different requirements. The information requirements of different users can be fulfilled by preparing final accounts or financial statements. Financial statements provide information regarding the profit earned and the losses suffered by a business. A financial statement is an official record of all financial transactions of an organisation for a particular period. It reflects the financial position (or financial health) and the performance of the organisation. Under a financial statement, the profit and loss account reflects the financial performance of the organisation while the balance sheet reflects the financial position or financial health of the organisation.
+
+According to Section 2 (40) of the Indian Companies Act, 2013, a financial statement in relation to a company includes the balance sheet as at the end of the financial year; the profit and loss account; the
+
+40
+
+UNIT 04: Financial Statements
+
+JGI
+
+JDAEEMED-T OI- BE UNNIVERSITY
+
+cash flow statement for the financial year; the statement of changes in equity; and any explanatory notes annexed to, or forming part of, any document referred to in the above-mentioned financial statements. However, the financial statement with respect to a One Person Company, a small company and a dormant company may not include the cash flow statement.
+
+A business owner would be interested in knowing whether his/her business is running at a profit or incurring loss, the actual financial position of the business, etc. The main aim of financial statements is to inform the owner about the progress of his/her business and the financial position at the right time and in the right manner.
+
+Apart from these three financial statements, a fourth statement is the statement of changes in equity. In a business, the sole purpose of investing money is earning profits. The financial position of an organisation is determined by evaluating the profit earned or loss suffered by an organisation. In addition, different users of accounting need different accounting information. Financial statements are created to fulfil these requirements. Financial statements provide information regarding total profit earned or loss suffered, i.e., the net income and the distribution of income. The preparation of financial statements is the final step in the accounting cycle.
+
+4.2.1
+
+Preparation of Statement of Profit and Loss
+
+The profit and loss account is prepared so as to ascertain the net profit earned and the net loss suffered by a business over a given accounting period. Therefore, this statement depicts the financial position of the business. In other words, the profit and loss account is a statement that shows expenditures, revenues and net income of a company. The company’s profit and loss account is a brief description of the company’s revenue, expenses and net profit (or net loss) for any particular period. It may be produced on a monthly, quarterly, bi-annually or annual basis. In most cases, it is produced on an annual basis along with other financial statements. The profit and loss account is a statement that reflects the company’s financial performance to its investors, management and other interested parties.
+
+In simple words, the profit and loss account is the explanation of the company’s profitability over a particular period. Let us now discuss the components of the profit and loss account which are given as follows:
+
+ Revenue: Revenue is the total amount of money received by a business entity after selling its products or services. Generally, revenue is also known as sales revenue or net sales, and it can be calculated by deducting sales return, discounts and allowances from total sales. It is recorded at the top of the income statement and because of this it is also known as ‘top line’.
+
+ Cost of Goods Sold (COGS): The COGS includes all direct costs involved in the process of production. For example, the costs raw material, labour, factory overheads, depreciation on plant and machinery, etc.
+
+ Gross profit or gross loss: It is the difference between the revenue received and the cost of goods sold
+
+for a particular period.
+
+ Operating expenses: Operating expenses are the expenses that a business entity has to bear in day- to-day business operations. For example, amortisation of intangible assets, advertising and sales expenses, research and development, rent of building, etc.
+
+ Administrative expenses: Administrative expenses are those expenses that are not directly related with the process of production. These expenses are related to management and supporting activities of a business organisation. For example, depreciation on corporate office building, salary of top-level
+
+41
+
+JGI
+
+JDAEEMED-T OI- BE UNNIVERSITY
+
+Accounting and Finance
+
+managers, legal charges, functional cost of the HR department, functional cost of IT department, functional cost of the finance department, etc.
+
+ Operating income: The operating income can be calculated by deducting operating and administrative expenses from gross profit. It is also known as Earnings before Interest and Taxes (EBIT).
+
+ Other income: The other income is the income that is non-operational in nature and is not generated on the basis of core operations of a business. For example, the rent received from the in-house canteen contractor of a factory.
+
+ Other expenses: Other expenses are those expenses that are not related to the core operations of a business enterprise and these expenses do not contribute anything to the process of production. For example, income tax paid to the government, interest paid for borrowings, etc.
+
+ Net profit or net loss: It can be calculated by deducting all expenses from revenue. It is recorded at the end of the income statement and because of this it is also known as ‘bottom line’. Net profit/loss is also known as ‘accounting profit/loss’ because many non-cash transactions such as amortisation, depreciation, etc. are included under it. All the above items appear in the debit or credit side of the profit and loss account. The items that appear on the debit side of the profit and loss account are as follows:
+
+Expenses incurred in a business: This is divided into two parts:
+
+ Direct expenses: These are recorded in the income statement.
+
+
+
+Indirect expenses: These are recorded on the debit side. Indirect expenses are further categorised as follows:
+
+ Selling expenses: These include all expenses relating to sales such as carriage outwards, travelling
+
+expenses, advertising, distribution costs, etc.
+
+ Office expenses: These include all expenses incurred on running an office such as office salaries,
+
+rent, tax, postage, stationery, etc.
+
+ Maintenance expenses: These include all expenses related to the maintenance of assets such as
+
+repairs and renewals, depreciation, etc.
+
+ Financial expenses: These include all expenses related to interest paid on loan, discount allowed,
+
+etc. The items that appear on the credit side of the profit and loss account are as follows:
+
+ Gross profit
+
+ Other gains and incomes of the business such as interest received, rent received, discounts earned
+
+and commission earned.
+
+Particulars
+
+Note No.
+
+Figures as at the end of the current reporting period
+
+Figures as at the end of the previous reporting period
+
+I.
+
+Revenue from operations
+
+II. Other Income
+
+III. Total Revenue (I+II)
+
+XXX XXX XXX
+
+XXX
+
+XXX
+
+XXX
+
+IV.
+
+Expenses:
+
+Cost of materials consumed
+
+XXX
+
+XXX
+
+42
+
+UNIT 04: Financial Statements
+
+JGI
+
+JDAEEMED-T OI- BE UNNIVERSITY
+
+Particulars
+
+Note No.
+
+Figures as at the end of the current reporting period
+
+Figures as at the end of the previous reporting period
+
+Purchases of Stock-in-Trade
+
+Changes in inventories of finished and goods work-in-progress stock-in-trade
+
+XXX
+
+XXX
+
+Employee benefits expense
+
+Finance costs
+
+Depreciation and amortisation expense
+
+Other expenses
+
+V.
+
+Total Expenses
+
+Profit before exceptional and extraordinary items and tax (III- IV)
+
+XXX XXX
+
+XXX
+
+XXX
+
+VI.
+
+Exceptional items
+
+VII. Profit before extraordinary items
+
+XXX XXX
+
+XXX
+
+XXX
+
+and tax (V-VI)
+
+VIII. Extraordinary items
+
+IX.
+
+Profit before tax (VII-VIII)
+
+XXX XXX
+
+XXX
+
+XXX
+
+X.
+
+Tax Expense:
+
+1. Current Tax
+
+2. Deferred Tax
+
+XXX XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+XI.
+
+Profit/(Loss) for the period from continuing operations
+
+XXX
+
+XXX
+
+XII. Profit/(Loss) from discontinuing
+
+XXX
+
+XXX
+
+operations
+
+XIII. Tax expense of discontinuing
+
+XXX
+
+XXX
+
+operations
+
+XIV. Profit/(Loss) from discontinuing
+
+XXX
+
+XXX
+
+operations (after tax)
+
+XV. Profit/(Loss) for the period
+
+XXX
+
+XXX
+
+XVI. Earnings per equity share:
+
+1. Basic
+
+2. Diluted
+
+XXX XXX
+
+XXX
+
+XXX
+
+XXX
+
+XXX
+
+4.2.2
+
+Preparation of Balance Sheet
+
+In simple words, a balance sheet refers to a statement that summarises and presents the financial position of an organisation on any given date. It shows assets and liabilities of the organisation. The main aim of preparing a balance sheet is to determine the exact financial position of the organisation. In a balance sheet, the debit balances are reflected by the assets and credit balances are reflected by the liabilities. A number of steps are involved in preparing a balance sheet. The first step is transferring
+
+43
+
+JGI
+
+JDAEEMED-T OI- BE UNNIVERSITY
+
+Accounting and Finance
+
+all nominal accounts in the trial balance to the trading and profit and loss account. Next, the personal accounts of customers are grouped under the heading of sundry debtors, the entities from whom the amounts of sold goods and services are due.
+
+Similarly, we need to group all balances of suppliers under the single heading of sundry creditors, the entities to whom the organisation owes money or payment. In the end, the real and personal accounts are grouped as assets and liabilities and are arranged in a proper way. The resultant statement obtained is called the balance sheet. The American Institute of Certified Public Accountants defines the balance sheet as “A tabular statement of summary of balances (debits and credits) carried forward after an actual constructive closing of books of account and kept according to the principles of accounting.”
+
+In the balance sheet, assets are represented on the right side and liabilities are shown on the left side. It is also known as the statement of sources of funds and application of funds. The financial position of the organisation includes its economic resources (assets), economic obligations (liabilities), and the owner’s equity. As discussed in the previous chapters, a balance sheet is the detailed summary of the basic accounting equation
+
+Key Objectives:
+
+Shareholders funds: Shareholders' funds represent the portion of a company's equity that belongs to its shareholders. It includes the total value of the company's issued shares and any reserves or retained earnings. Issued shares represent the ownership stakes that shareholders have acquired through stock purchases. Retained earnings are the accumulated profits that the company has kept rather than distributing as dividends.
+
+Shareholders' funds encompass the financial contributions made by shareholders through stock purchases and the cumulative profits retained by the company. These funds serve as a crucial metric in assessing the financial health and net worth of a company, indicating the shareholders' residual interest in the company's assets after deducting liabilities.
+
+Non-Current Liabilities:
+
+Non-current liabilities, also known as long-term liabilities, are financial obligations that a company does not expect to settle within the normal operating cycle, typically extending beyond one year. These liabilities represent the long-term financial obligations a company owes to external parties. Non-current liabilities are an essential component of a company's balance sheet and include items such as long-term loans, bonds, deferred tax liabilities, and other obligations with extended repayment timelines.
+
+Unlike current liabilities that are due within a shorter timeframe, non-current liabilities reflect a company's long-term financing commitments and obligations. Investors and analysts often examine the composition and management of non-current liabilities to assess a company's ability to meet its long- term financial obligations and to gauge its overall financial health and stability. Managing non-current liabilities effectively is crucial for maintaining financial sustainability and meeting long-term strategic objectives.
+
+Current Liabilities:
+
+Current liabilities are obligations that a company expects to settle within the normal operating cycle, typically one year or the current accounting period, whichever is longer. These obligations encompass short-term financial responsibilities that require the use of current assets or the creation of other current liabilities for settlement. Examples of current liabilities include accounts payable, short-term loans,
+
+44
+
+UNIT 04: Financial Statements
+
+JGI
+
+JDAEEMED-T OI- BE UNNIVERSITY
+
+accrued expenses, and any other obligations due within the short-term horizon.
+
+Analyzing current liabilities is crucial for assessing a company's short-term financial obligations and liquidity. The current ratio, calculated by dividing current assets by current liabilities, is a common financial metric used to evaluate a company's ability to cover its short-term obligations. Investors, creditors, and stakeholders often scrutinize this ratio to gauge the company's liquidity position and its capacity to meet immediate financial demands. Managing current liabilities effectively is essential for maintaining a healthy cash flow and ensuring that a company can meet its short-term financial commitments.
+
+Non-Current Assets and Current Assets:
+
+Non-current assets and current assets are two categories on a company's balance sheet, representing different types of assets with distinct characteristics.
+
+Non-current assets, also known as long-term assets or fixed assets, are resources expected to provide economic benefits beyond the current operating period, usually exceeding one year. These assets are not meant for immediate sale or consumption. Common examples include property, plant, equipment, intangible assets like patents or copyrights, and long-term investments. Non-current assets are vital for a company's long-term operations, growth, and revenue generation.
+
+Current assets, on the other hand, are assets expected to be converted into cash or used up within one operating cycle or one year, whichever is longer. These assets facilitate the day-to-day operations and short-term financial obligations of a business. Common examples include cash and cash equivalents, accounts receivable (amounts customers owe), inventory, and short-term investments. Current assets are crucial for maintaining liquidity and meeting short-term financial commitments.
+
+Non-current assets contribute to a company's long-term success, while current assets support its day-to- day operations and short-term financial needs. The balance between these asset categories is essential for a company's overall financial health and strategic planning.
+
+Assets = Liabilities + Owner’s Equity
+
+“The format of a financial statement prescribed in Schedule III of the Companies Act, 2013 is applicable for all companies” voluntarily from April 1, 2015 and mandatorily from April 01, 2016. As per Schedule III, the vertical format has now been permitted for the balance sheet. The balance sheet should include the following items and in the order:
+
+Name ot the Company.........................
+
+Balance Sheet as at...........................
+
+(Rupees in. ........... )
+
+Particulars
+
+Note No.
+
+Figures as at the end of the current reporting period
+
+Figures as at the end of the previous reporting period
+
+1
+
+2
+
+3
+
+4
+
+I. Equity and liabilities
+
+1. Shareholders’ funds
+
+a. Share capital
+
+b. Reserves and surplus
+
+c. Money received against share warrants
+
+45
+
+JGI
+
+JDAEEMED-T OI- BE UNNIVERSITY
+
+Accounting and Finance
+
+2. Share application money pending allotment
+
+3. Non-current liabilities
+
+a. Long-term borrowings
+
+b. Deferred tax liabilities (Net)
+
+c. Other long-term liabilities
+
+d. Long-term provisions
+
+Particulars
+
+Note No.
+
+Figures as at the end of the current reporting period
+
+Figures as at the end of the previous reporting period
+
+4. Current liabilities
+
+a. Short-term borrowings
+
+b. Trade payables
+
+c. Other current liabilities
+
+d. Short-term provisions
+
+Total:
+
+II. Assets
+
+1. Non-current assets
+
+a. Fixed Assets
+
+i. Tangible assets
+
+ii.
+
+Intangible Assets
+
+iii. Capital work-in-progress
+
+iv. Intangible assets
+
+under development
+
+b. Non-current investments
+
+c. Deferred tax assets (net)
+
+d. Long-term Loan and Advances
+
+e. Other Non-current assets
+
+2. Current assets
+
+a. Current investments
+
+b. Inventories
+
+c. Trade receivables
+
+d. Cash and cash equivalents
+
+e. Short-term loans and advances
+
+f. Other current assets
+
+Total:
+
+4.3 OUTSTANDING EXPENSES
+
+During the usual course of a business, there are expenses that will be incurred during the current accounting period and are not paid or in other words, there are certain expenses that take place during
+
+46
+
+UNIT 04: Financial Statements
+
+JGI
+
+JDAEEMED-T OI- BE UNNIVERSITY
+
+the current accounting period but payment for the same are not made, such expenses are called outstanding expenses.
+
+The outstanding expense is a personal account with a credit balance and is treated as a liability for the business. It is recorded on the liability side of the balance sheet of a business.
+
+For accounting accuracy, these expenses need to be realised whether they are paid or not. Like the other expenses incurred by a business, it is also charged against the profit that is obtained for the current year.
+
+4.4 TREATMENT OF CLOSING STOCK
+
+The closing stock implies inventory held at the end of the year. Thus, to derive information relating to closing stock we maintain a real account by name Closing Stock. It provides data relating to the value of stock unsold at the end of the accounting period. The value of closing stock is ascertained by physical verification of stock and its valuation at cost or market price whichever is lower.
+
+Usually, the closing stock does not appear in the Trial Balance when the accounts are being finalized as the closing stock is ascertained by physical verification, which takes time in bringing up the value. Thus, it appears as part of adjustment entry, which has to be passed before the preparation of Final Accounts.
+
+If the closing stock is shown in the trial balance it means the adjustment for the closing stock has already been done and it will be shown as a current asset on the right side of the balance sheet. From the accounting point of view, aspects covered while preparing the accounts are:
+
+1. Closing Stocks as shown on the Credit Side of Trading Account
+
+2. Closing Stocks as shown on the Asset Side of Balance Sheet
+
+However, if the value of the adjusted purchase (the cost of goods sold) is given then, the trial balance will show figures of both adjusted purchases account and Closing Stock Account.
+
+4.5 PREPAID EXPENSES
+
+A prepaid expense is a type of asset on the balance sheet that results from a business making advanced payments for goods or services to be received in the future. Prepaid expenses are initially recorded as assets, but their value is expensed over time onto the income statement. Unlike conventional expenses, the business will receive something of value from the prepaid expense over the course of several accounting periods.
+
+4.6 TAX PROVISION
+
+A tax provision is comprised of two parts: current income tax expense and deferred income tax expense. A company’s current tax expense is based upon current earnings and the current year’s permanent and temporary differences. The deferred tax calculation, which focuses on the effects of temporary differences and other tax attributes over time, is the more complicated part of the provision.
+
+4.7 DIVIDEND AND RESERVES
+
+Dividend
+
+A dividend is a distribution of profits by a corporation to its shareholders. When a corporation earns a profit or surplus, it is able to pay a proportion of the profit as a dividend to shareholders. Dividends can provide stable income and raise morale among shareholders.
+
+47
+
+JGI
+
+JDAEEMED-T OI- BE UNNIVERSITY
+
+Accounting and Finance
+
+Dividends must be approved by the shareholders through their voting rights. Although cash dividends are the most common, dividends can also be issued as shares of stock or other property. Along with companies, various mutual funds and Exchange-Traded Funds (ETF) also pay dividends.
+
+A dividend is a token reward paid to the shareholders for their investment in a company’s equity, and it usually originates from the company’s net profits. While the major portion of the profits is kept within the company as retained earnings—which represent the money to be used for the company’s ongoing and future business activities—the remainder can be allocated to the shareholders as a dividend. At times, companies may still make dividend payments even when they don’t make suitable profits. They may do so to maintain their established track record of making regular dividend payments.
+
+Reserves
+
+A reserve is retained earnings secured by a company to strengthen a company’s financial position, clear debt & credits, buy fixed assets, company expansion, legal requirements, investment and other plans. These are usually done to save the cash from being used for other purposes. Reserve funds do not have any legal restrictions so that the company can use them for any purpose.
+
+Reserves are divided into two types:
+
+1. Revenue Reserves
+
+2. Capital Reserves
+
+4.8 FINDING EARNING PER SHARE (EPS)
+
+Earnings per Share (EPS) is calculated by determining a company›s net profit and allocating that to each outstanding share of common stock
+
+Earnings per share value is calculated as net income (also known as profits or earnings) divided by available shares. A more refined calculation adjusts the numerator and denominator for shares that could be created through options, convertible debt, or warrants. The numerator of the equation is also more relevant if it is adjusted for continuing operations.
+
+To calculate a company’s EPS, the balance sheet and income statement are used to find the period-end number of common shares, dividends paid on preferred stock (if any), and the net income or earnings. It is more accurate to use a weighted average number of common shares over the reporting term because the number of shares can change over time.
+
+Conclusion 4.9 CONCLUSION
+
+ A financial statement refers to a formal and written record of all the financial activities and conditions of an organisation, entity or a person. Financial statements contain a structured, organised, and detailed summary of all the business processes.
+
+ The profit and loss account or the income statement shows the revenues and expenses of a company
+
+during a particular period.
+
+ The balance sheet refers to the summary of the fiscal balances of a business organisation. In the balance sheet, the assets, liabilities and owner’s equity are listed as of a specific date, such as the end of a fiscal year.
+
+ The primary aim of investing money in a business is to earn profit. An organisation needs to periodically evaluate profits earned and losses incurred and its financial standing on a given date.
+
+ The profit and loss account is prepared so as to ascertain the net profit earned and the net loss
+
+48
+
+UNIT 04: Financial Statements
+
+JGI
+
+JDAEEMED-T OI- BE UNNIVERSITY
+
+suffered by a business over a given accounting period.
+
+
+
+In simple words, a balance sheet refers to a statement that summarises and presents the financial position of an organisation on any given date.
+
+ During the usual course of a business, there are expenses that will be incurred during the current
+
+accounting period.
+
+ The closing stock implies inventory held at the end of the year.
+
+ A prepaid expense is a type of asset on the balance sheet that results from a business making
+
+advanced payments for goods or services to be received in the future.
+
+ A tax provision is comprised of two parts: current income tax expense and deferred income tax
+
+expense.
+
+ A dividend is a distribution of profits by a corporation to its shareholders.
+
+ Earnings per share (EPS) is calculated by determining a company›s net profit and allocating that to
+
+each outstanding share of common stock
+
+4.10 GLOSSARY
+
+ Accounting Standards Board: The board consisting of accounting professionals to develop and
+
+implement various accounting guidelines.
+
+ Bottom Line: The net profit of an organisation.
+
+ Carriage outward: The shipping and handling costs incurred by a company that is shipping goods
+
+to a customer.
+
+ Depreciation: The reduction in the value of an asset over time due to wear and tear.
+
+ Sales commission: The amount of commission received by a person depending on the level of sales
+
+obtained by him/her.
+
+4.11 CASE STUDY: SATYAM COMPUTERS LIMITED – BUSINESS ACCOUNTING
+
+FRAUD
+
+Case Objective
+
+The case study explains the impact of fradulent financial reporting on an organisation and its stakeholders.
+
+Satyam Computer Services Limited was among the leading organisations in the outsourced IT services industry in India. The organisation was established in 1987 in Hyderabad by Ramalinga Raju. Satyam Computer Services Limited began with 20 employees and developed rapidly as a global IT company. The company was engaged in providing IT and Business Process Outsourcing services across various sectors. Between 2003-2008, Satyam Computer grew considerably and generated USD $467 million from its total sales. By March 2008, Satyam Computer had grown to USD $2.1 billion. It booked an annual compound growth rate of 35% in that time period.
+
+Satyam was a Level I enterprise as it had a turnover above `50 crores. This implied that it was compulsory for Satyam to comply all accounting standards. These accounting standards improve the credibility and reliability of financial statements, determine managerial accountability, assist accountants and auditors, and enable ease of understanding. However, there have been several frauds in India’s corporate history due to lack of compliance to these standards and inefficient corporate governance.
+
+49
+
+JGI
+
+JDAEEMED-T OI- BE UNNIVERSITY
+
+Accounting and Finance
+
+On January 7, 2009, Ramalinga Raju revealed in a letter addressed to Satyam Computers Limited’s Board of Directors that he had been involved in manipulating the company’s accounting figures for several years. Ramalinga Raju declared that he had overstated the company’s assets on Satyam’s balance sheet by $1.47 billion. He revealed that about $1.04 billion worth of bank loans and cash that Satyam claimed to own did not exist. Besides, Satyam Computers had underreported its liabilities on the balance sheet and had been involved in overstating its income almost every quarter over the course of several years in order to meet the expectations of the critics. Satyam overstated quarterly revenues by 75 per cent and profits by 97 per cent on October 17, 2009. It was also found out that bank accounts were falsified for inflating the balance sheet with balances that actually never existed. In addition, the income statement was exaggerated by declaring interest income from fake bank accounts. It was also exposed that the company owner made 6000 fake salary accounts over the past several years and withdrew the money after the company deposited it.
+
+The result of the fraudulent accounting and financial reporting affected the company’s stockholders and creditors. Besides, the investors’ confidence in the capital market was shaken considerably. The fraud also had an adverse impact on Satyam’s employees who lost their jobs and pension fund. The others that were affected were depositors in Satyam Computers, the company’s underwriters, auditors, attorneys, and insurers and even trustworthy competitors whose reputations suffered owing to their association with Satyam. Some of the main points that organisations must remember after the Satyam Scandal are:
+
+
+
+Investigation of all inaccuracies: The fraud at Satyam started on a small scale initially and grew up to $276 million. Most accounting frauds start out small with the offender assuming that minute changes in the financial statements would go unnoticed. Thus, organisations should be aware when the accounts do not balance or if something seems inaccurate even if it is insignificant.
+
+ Adherence to accounting standards: Organisations should follow a set of guidelines to prepare and present their financial statements. This helps in bringing consistency in the reporting of the accounting information. It also ensures transparency, consistency and comparability of the accounting information by providing uniformity in accounting practices as accountants and auditors follow the same rules and procedures.
+
+ Role division: Dividing responsibilities across a team of individuals would help in detecting
+
+irregularities or misappropriated funds.
+
+Questions
+
+1. Suppose you are the finance manager at an MNC. What measures will you take to avoid financial frauds?
+
+(Hint: Periodically tally the books of accounts, check for the bank balance, investigate the unexpected cash inflows and outflows and check the unbalanced accounts for small and big changes alike.)
+
+2. Briefly explain the Satyam scam and the role played by the board.
+
+(Hint: Prepare a summary by analysing various loopholes in the scandal.)
+
+50
+
+UNIT 04: Financial Statements
+
+JGI
+
+JDAEEMED-T OI- BE UNNIVERSITY
+
+4.12 SELF-ASSESSMENT QUESTIONS
+
+A. Multiple Choice Questions
+
+1. Preparation of the financial statement is the
+
+step of the accounting cycle.
+
+a. first
+
+b. final
+
+c. continuous
+
+d. None of these
+
+2.
+
+In order to achieve , organisations prepare financial statements by following a uniform pattern or standards as instructed by the local Accounting Standards Board (ASB) and the relevant Act.
+
+a. ambiguity
+
+b. affordability
+
+c. comparability
+
+d. obscurity
+
+3.
+
+is the final process for any accounting year.
+
+a. Preparation of principle book
+
+b. Preparation of financial statements
+
+c. Preparation of journal
+
+d. Preparation of subsidiary books
+
+4.
+
+In a profit and loss account, all indirect revenue expenses are shown in the indirect revenue incomes are shown in the
+
+side.
+
+side and the
+
+a. debit; credit
+
+b. credit; debit
+
+c. profit; loss
+
+d. Both (b) and (c)
+
+5. The
+
+refers to a statement that summarises and presents the financial position of a
+
+company on any given date.
+
+a. profit and loss statement
+
+b. income statement
+
+c. balance sheet
+
+d. principle book
+
+6.
+
+In a balance sheet, the
+
+balances are reflected by assets.
+
+a. credit
+
+b. debit
+
+c. positive
+
+d. expenditure
+
+51
+
+JGI
+
+JDAEEMED-T OI- BE UNNIVERSITY
+
+Accounting and Finance
+
+7. As per the reverse order of liquidity format of the balance sheet, which of the following comes under the heading of a fixed asset?
+
+a. Tangible assets
+
+b. Intangible assets
+
+c. Capital work-in-progress
+
+d. All of these
+
+8. Schedule III of the Companies Act, 2013 provides general instructions for the preparation of .
+
+a. financial statements
+
+b. balance sheet only
+
+c. profit and loss statement only
+
+d. cash book
+
+9. The format of financial statements prescribed in Schedule III of the Companies Act, 2013 was .
+
+a. April 2014
+
+b. April 2015
+
+c. April 2016
+
+d. April 2017
+
+10. Schedule III of the Companies Act, 2013 provides instructions for the preparation of the of Indian corporations.
+
+a. Balance sheet and the profit and loss statement
+
+b. Balance sheet, Profit and Loss Statement and cash flow statement
+
+c. Balance sheet, Profit and Loss Statement and Consolidated financial statement
+
+d. Both (b) and (c)
+
+11. If the turnover of the corporate body is below one hundred crore rupees, then which of the following rounding off methods shall apply?
+
+a. Rounded off to the nearest lakhs, millions or crores, more or decimals thereof
+
+b. Rounded off to the nearest hundreds, thousands, rupees lakhs or millions, or decimals thereof
+
+c. Both (a) and (b)
+
+d. None of these
+
+12. Which of these is NOT included in current liabilities?
+
+a. Short-term borrowings
+
+b. Capital work-in-progress
+
+c. Other current liabilities
+
+d. Short-term provisions
+
+52
+
+UNIT 04: Financial Statements
+
+JGI
+
+JDAEEMED-T OI- BE UNNIVERSITY
+
+13. As per Schedule III of the Companies Act, 2013, which of the following represents fixed assets?
+
+a. Capital work-in-progress
+
+b. Tangible and intangible
+
+c. Intangible assets under development
+
+d. All of these
+
+14.
+
+is the balance in the statement of profit and loss disclosing allocations and
+
+appropriations, such as dividend paid, bonus shares and transfer to/from reserves.
+
+a. Surplus
+
+b. Reserves
+
+c. Transfer payments
+
+d. None of these
+
+15. Capital work-in-progress is a
+
+.
+
+a. current asset
+
+b. fixed asset
+
+c. current investment
+
+d. Both (b) and (c)
+
+16. Repairs to building and machinery are categorised under which of the following heads?
+
+a. Non-current liabilities
+
+b. Current liabilities
+
+c. Miscellaneous expenditures
+
+d. Contingent liabilities
+
+17. As per general instructions for the preparation of profit and loss account, in respect of a finance .
+
+a. interest
+
+b. loans
+
+c. other financial services
+
+d. Both a and c
+
+18. Which among the following are the forms of the balance sheet?
+
+a. Horizontal
+
+b. Vertical
+
+c. Horizontal or vertical
+
+d. None of these
+
+53
+
+JGI
+
+JDAEEMED-T OI- BE UNNIVERSITY
+
+19. Profit and loss statement is also called
+
+. Choose the correct option.
+
+a. Statement of income
+
+b. Statement of operation
+
+c. Statement of earnings
+
+d. All of these
+
+20. The Profit and Loss account is prepared to ascertain period. Choose the correct option.
+
+20. The Profit and Loss account is prepared to ascertain period. Choose the correct option.
+
+a. the net profit earned
+
+b. the net loss suffered
+
+c. the gross profit or gross loss
+
+d. both a and b
+
+B. Essay Type Questions
+
+1. What is a financial statement?
+
+2. Why profit and loss account is prepared?
+
+3. What is a balance sheet?
+
+4. What are prepaid expenses?
+
+5. How do you calculate EPS?
+
+4.13 ANSWERS AND HINTS FOR SELF-ASSESSMENT QUESTIONS
+
+A. Answers to Multiple Choice Questions
+
+Q. No.
+
+Answer
+
+1.
+
+b. final
+
+2.
+
+c. comparability
+
+3.
+
+b. Preparation of financial statements
+
+4.
+
+a. debit; credit
+
+5.
+
+c. balance sheet
+
+6.
+
+b. debit
+
+7.
+
+d. All of these
+
+8.
+
+b. balance sheet only
+
+9.
+
+b. April 2015
+
+10.
+
+a. Balance sheet and the profit and loss statement
+
+11.
+
+c. Both (a) and (b
+
+12.
+
+b. Capital work-in-progress
+
+54
+
+Accounting and Finance
+
+UNIT 04: Financial Statements
+
+JGI
+
+JDAEEMED-T OI- BE UNNIVERSITY
+
+13.
+
+d. All of these
+
+14.
+
+a. Surplus
+
+15.
+
+b. fixed asset
+
+16.
+
+c. Miscellaneous expenditures
+
+17.
+
+d. Both a and c
+
+18.
+
+c. Horizontal or vertical
+
+19.
+
+a. Statement of income
+
+20.
+
+d. both a and b
+
+B. Hints for Essay Type Questions 1. A financial statement refers to a formal and written record of all the financial activities and conditions of an organisation, entity or person. Financial statements contain a structured, organised and detailed summary of all the business processes. Refer to Section Different Financial Statements
+
+2. The profit and loss account is prepared so as to ascertain the net profit earned and the net loss suffered by a business over a given accounting period. Refer to Section Different Financial Statements
+
+3.
+
+In simple words, a balance sheet refers to a statement that summarises and presents the financial position of an organisation on any given date. It shows assets and liabilities of the organisation. Refer to Section Different Financial Statements
+
+4. A prepaid expense is a type of asset on the balance sheet that results from a business making advanced payments for goods or services to be received in the future. Refer to Section Prepaid Expenses
+
+@
+
+4.14 POST-UNIT READING MATERIAL
+
+ https://corporatefinanceinstitute.com/resources/knowledge/accounting/three -financial-
+
+statements/
+
+ https://www.accountingtools.com/articles/2017/5/10/financial-statements
+
+ https://www.wikiaccounting.com/five-types-of-financial-statements-ifrs/
+
+ https://courses.lumenlearning.com/boundless-finance/chapter/introducing-financial-statements/
+
+4.15 TOPICS FOR DISCUSSION FORUMS
+
+ Discuss with your friends how financial statements work in a company.
+
+55

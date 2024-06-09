@@ -1,0 +1,687 @@
+Accounting and Finance
+
+Unit-02
+
+Accounting Cycle
+
+Author: Dr. Vinoth
+
+Semester-01
+
+Master of Business Administration
+
+UNIT
+
+02
+
+Accounting Cycle
+
+Names of Sub-Units
+
+Introduction to Accounting Cycle, Concept of Accounting Process, Concept of Preparation of Trial Balance.
+
+Overview
+
+This unit begins by explaining the meaning of accounting cycle. It discusses the concept of accounting process. The unit explains the preparation of trial balance.
+
+Learning Objectives
+
+In this unit, you will learn to:
+
+ Explain the meaning of accounting cycle
+
+ State the concept of accounting process
+
+ Classify the preparation of trial balance
+
+Learning Outcomes
+
+At the end of this unit, you would:
+
+ Assess the importance of the accounting cycle
+
+ Examine the concept of the accounting process and analyse the users of financial accounting
+
+ Evaluate the preparation of trial balance
+
+JGI
+
+JDAEEMED-T OI- BE UNNIVERSITY
+
+Accounting and Finance
+
+2.1 INTRODUCTION
+
+The accounting cycle starts from recording individual transactions in the books of accounts and ends at the preparation of financial statements and closing process. The financial accounting cycle is the process of recording business transactions and processing accounting data to generate useful financial information i.e., financial statements including income statement, balance sheet, cash flow statement and statement of shareholders equity. The time period principle requires that a business should prepare its financial statements after a specified period of time, say a year, a quarter or on a monthly basis. This is achieved by following the accounting cycle during each period. Figure 1 shows the accounting cycle:
+
+Post Closing Trial Balance
+
+Journal Entries
+
+Closing Entries
+
+Ledger Accounts
+
+Financial Statements
+
+Unadjusted Trial Balance
+
+Adjusted Trial Balance
+
+Adjusting Entries
+
+Figure 1: Accounting Cycle
+
+The accounting cycle is a basic, eight-step process for completing a company’s bookkeeping tasks. It provides a clear guide for the recording, analysis, and final reporting of a business’s financial activities.
+
+The accounting cycle is comprehensively used through one full reporting period. Thus, staying organised throughout the process’s time frame can be a key element that helps to maintain the overall efficiency. Accounting cycle periods will vary by reporting needs. Most companies seek to analyze their performance on a monthly basis, though some may focus more heavily on quarterly or annual results.
+
+Regardless, most bookkeepers will have an awareness of the company’s financial position from day- to-day. Overall, determining the amount of time for each accounting cycle is important because it sets specific dates for opening and closing. Once an accounting cycle closes, a new cycle begins, restarting the eight-step accounting process all over again.
+
+2.2Accounting Rule Accounting rules are the principles and standards that guide the process of recording, summarizing, and presenting financial information. These rules ensure consistency and comparability in financial reporting, allowing businesses to communicate their financial health to stakeholders in a standardized manner. In the
+
+18
+
+UNIT 02: Accounting Cycle
+
+JGI
+
+JDAEEMED-T OI- BE UNNIVERSITY
+
+United States, the Generally Accepted Accounting Principles (GAAP) is the primary framework for these rules, while the International Financial Reporting Standards (IFRS) is widely adopted globally. One key principle in accounting is the accrual basis, which dictates that revenues and expenses should be recognized when they are earned or incurred, irrespective of the timing of cash transactions. This principle ensures a more accurate reflection of a company's financial performance over a specific period. Conservatism is another important accounting rule that encourages a cautious approach to financial reporting. It suggests that in situations of uncertainty, companies should err on the side of understating assets and revenues while overstating liabilities and expenses. This principle aims to prevent over-optimistic reporting and promote a more prudent representation of a company's financial position. Consistency is a fundamental rule emphasizing that companies should apply the same accounting methods consistently from one reporting period to the next. This principle enhances the comparability of financial statements over time, allowing stakeholders to identify trends and assess a company's performance more effectively. These accounting rules collectively form the backbone of reliable financial reporting, providing a framework for businesses to transparently communicate their financial information. Adhering to these principles ensures that financial statements accurately represent a company's economic reality, facilitating better decision-making for investors, creditors, and other stakeholders.
+
+Here are some key accounting rules: 1. Accrual Basis:
+
+This rule dictates that revenues and expenses should be recognized when they are earned or incurred, regardless of when the cash is received or paid. It ensures a more accurate representation of a company's financial performance over a specific period.
+
+2. Conservatism:
+
+The principle of conservatism suggests that when faced with uncertainty, a company should adopt a cautious approach. It encourages the understatement of assets and revenues and the overstatement of liabilities and expenses to avoid overly optimistic financial reporting.
+
+3. Consistency:
+
+Consistency is a rule that requires companies to apply the same accounting methods consistently from one reporting period to the next. This enhances the comparability of financial statements over time, allowing stakeholders to analyze trends and make informed decisions.
+
+4. Going Concern:
+
+The going concern assumption is an implicit rule that assumes a company will continue its operations for the foreseeable future. This assumption influences financial statement preparation and presentation, assuming that the entity is not on the brink of liquidation.
+
+5. Materiality:
+
+The materiality rule states that only material items, those likely to influence the decisions of financial statement users, need to be disclosed. It allows companies to focus on relevant information, avoiding unnecessary detail in financial reporting.
+
+6. Matching Principle:
+
+The matching principle requires that expenses should be matched with the revenues they help generate. It ensures that the costs associated with earning revenue are recognized in the same period as the revenue itself.
+
+2.3 ACCOUNTING PROCESS
+
+19
+
+JGI
+
+JDAEEMED-T OI- BE UNNIVERSITY
+
+Accounting and Finance
+
+Accounting cycle refers to the specific tasks involved in completing an accounting process. The length of an accounting cycle can be monthly, quarterly, half-yearly, or annually. It may vary from organisation to organisation but the process remains the same.
+
+Figure 2 shows the steps in the accounting process:
+
+Account
+
+Accounting
+
+Adjustment
+
+Figure 2: Accounting Process
+
+1. Collecting and Analyzing Accounting Documents: It is a very important step in which you examine the source documents and analyse them. For example, cash, bank, sales, and purchase-related documents. This is a continuous process throughout the accounting period.
+
+2. Posting in Journal: On the basis of the above documents, you pass journal entries using double entry system in which debit and credit balance remains equal. This process is repeated throughout the accounting period.
+
+3. Posting in Ledger Accounts: Debit and credit balance of all the above accounts affected through journal entries are posted in ledger accounts. A ledger is simply a collection of all accounts. Usually, this is also a continuous process for the whole accounting period.
+
+4. Preparation of Trial Balance: As the name suggests, trial balance is a summary of all the balances of ledger accounts, irrespective of whether they carry debit balance or credit balance. Since we follow double entry system of accounts, the total of all the debit and credit balance as appearing in the trial balance remains equal. Usually, you need to prepare trial balance at the end of the said accounting period.
+
+5. Posting of Adjustment Entries: In this step, the adjustment entries are first passed through the journal, followed by posting in ledger accounts, and finally in the trial balance. Since in most of the cases, we used accrual basis of accounting to find out the correct value of revenue, expenses, assets 20
+
+UNIT 02: Accounting Cycle
+
+JGI
+
+JDAEEMED-T OI- BE UNNIVERSITY
+
+and liabilities accounts, we need to do these adjustment entries. This process is performed at the end of each accounting period.
+
+6. Adjusted Trial Balance: Taking into account the above adjustment entries, we create the adjusted trial balance. The adjusted trial balance is a platform to prepare the financial statements of a company.
+
+7. Preparation of Financial Statements: Financial statements are the set of statements like the income and expenditure account or trading and profit and loss account, cash flow statement, fund flow statement, balance sheet or statement of affairs Account. With the help of the trial balance, we put all the information into the financial statements. Financial statements clearly show the financial health of a firm by depicting its profits or losses.
+
+8. Post-Closing Entries: All the different accounts of revenue and expenditure of the firm are transferred to the Trading and Profit and Loss account. With the result of these entries, the balance of all the accounts of income and expenditure accounts come to nil. The net balance of these entries represents the profit or loss of the company, which is finally transferred to the owner’s equity or capital.
+
+9. Post-Closing Trial Balance: Post-closing trial balance represents the balances of assets, liabilities and capital account. These balances are transferred to next financial year as an opening balance.
+
+Books of Accounts
+
+There are two main books of accounts—journal and ledger. The journal is used to record economic transactions chronologically. The ledger is used to classify economic activities according to nature.
+
+Books of Account
+
+Journal
+
+Ledger
+
+Purchase Day Book Day Book
+
+Sales
+
+Return Inward Book Outward Book
+
+Return
+
+General Journal
+
+Cash Book
+
+Cash Book
+
+General Ledger
+
+Debtor Ledger
+
+Creditor Ledger
+
+Journal
+
+A journal is a detailed account that records all the financial transactions of a business, to be used for the
+
+21
+
+JGI
+
+JDAEEMED-T OI- BE UNNIVERSITY
+
+Accounting and Finance
+
+future reconciling of accounts and the transfer of information to other official accounting records, such as the general ledger. A journal states the date of a transaction, which accounts were affected, and the amounts, usually in a double-entry bookkeeping method.
+
+Ledger
+
+A general ledger represents the record-keeping system for a company’s financial data, with debit and credit account records validated by a trial balance. It provides a record of each financial transaction that takes place during the life of an operating company and holds account information that is needed to prepare the company’s financial statements. Transaction data is segregated, by type, into accounts for assets, liabilities, owners’ equity, revenues and expenses.
+
+Cash Book
+
+A cash book is a financial journal that contains all cash receipts and disbursements, including bank deposits and withdrawals. Entries in the cash book are then posted into the general ledger.
+
+2.4 PREPARATION OF TRIAL BALANCE
+
+A trial balance is a bookkeeping worksheet in which the balance of all ledgers is compiled into debit and credit account column totals that are equal. The general purpose of producing a trial balance is to ensure the entries in a company’s bookkeeping system are mathematically correct.
+
+Steps in Preparation of Trial Balance 1. Calculate the balances of each of the ledger accounts.
+
+2. Record the debit or credit balances in the trial balance.
+
+3. Calculate the total of the debit column.
+
+4. Calculate total of the credit column.
+
+5. Check if debit is equal to credit.
+
+Conclusion 2.4 CONCLUSION
+
+ The accounting cycle starts from recording individual transactions in the books of accounting and
+
+ends at the preparation of financial statements and closing process.
+
+ The time period principle requires that a business should prepare its financial statements after a
+
+specified period of time, say a year, a quarter or on a monthly basis.
+
+ The accounting cycle is a basic, eight-step process for completing a company’s bookkeeping tasks.
+
+
+
+It provides a clear guide for the recording, analysis, and final reporting of a business’s financial activities.
+
+ The accounting cycle is comprehensively used through one full reporting period.
+
+ The accounting cycle refers to the specific tasks involved in completing an accounting process.
+
+ Debit and credit balance of all the above accounts affected through journal entries are posted in
+
+ledger accounts.
+
+ Financial statements are the set of statements like income and expenditure account or trading and profit and loss account, cash flow statement, fund flow statement, balance sheet or statement of affairs account.
+
+22
+
+UNIT 02: Accounting Cycle
+
+JGI
+
+JDAEEMED-T OI- BE UNNIVERSITY
+
+ All the different accounts of revenue and expenditure of the firm are transferred to the trading and
+
+profit and loss account.
+
+ A trial balance is a bookkeeping worksheet in which the balance of all ledgers is compiled into debit
+
+and credit account column totals that are equal.
+
+2.5 GLOSSARY
+
+ Transactions: A completed agreement between a buyer and a seller to exchange goods, services, or
+
+financial assets.
+
+ Financial Statements: Details of the entity’s financial information.
+
+
+
+Income Statement: A financial statement that shows you the company’s income and expenditure.
+
+ Cash Flow: The net amount of cash and cash equivalent being transferred into and out of a business.
+
+2.6 CASE STUDY: ACCOUNTS SYSTEM IMPROVEMENT
+
+Case Objective
+
+This case study was done in a medium-sized IT consultancy working across the UK and Europe.
+
+The issue with the accounting business process was that the reports lagged behind the true financial situation. The management team developed their own ad hoc systems and spreadsheets to assess their departmental profit and loss status. The system was thought to contain errors—missing records, incorrect filing, incorrect data entry, and issues with accounts reconciliation. The improvement process involved the robust collection and analysis of data to identify the root cause of issues, which could then be appropriately solved. The improvement project demonstrated to the management team the importance of identifying the real root causes of an issue and not making a leap to the most obvious solutions. The root cause was the way that the accounts data flowed into and out of the accounts process and this was only identified through robust data collection and analysis. The project was clearly a success and delivered all tangible and intangible benefits. Fundamental to this success was the change in behaviour at every level in the organization. No matter how small a project, there is value in using appropriate project management tools and techniques to structure delivery, manage uncertainty, and deliver benefits.
+
+Questions
+
+1. What was the issue with the accounting business process?
+
+(Hint: The issue with the accounting business process was that the reports lagged behind the true financial situation.)
+
+2. Why did the management team develop their own ad hoc systems and spreadsheets?
+
+(Hint: to assess their departmental profit and loss status.)
+
+3. What are the improvement processes involved?
+
+(Hint: the robust collection and analysis of data to identify the root cause of issues, which could then be appropriately solved.)
+
+23
+
+JGI
+
+JDAEEMED-T OI- BE UNNIVERSITY
+
+Accounting and Finance
+
+2.7 SELF-ASSESSMENT QUESTIONS
+
+A. Multiple Choice Questions
+
+1. Double entry bookkeeping means
+
+a. Entry in two sets of accounting books
+
+b. Entry at two dates
+
+c. Entry for two aspects of transaction
+
+d. All of these
+
+2. Which one the following documents is prepared for documentary evidence by business?
+
+a.
+
+Invoice
+
+b. Voucher
+
+c. Receipt
+
+d. All of these
+
+3. The basic sequence in the accounting process can best be described as
+
+a. Transaction, journal entry, source document, ledger account, trial balance
+
+b. Source document, transaction, ledger account, journal entry, trial balance
+
+c. Transaction, source document, journal entry, ledger account, trial balance
+
+d. Transaction, source document, journal entry, trial balance, ledger account
+
+4. The accounting system, in which accounting entries are made on the basis of amount, having become due for payment or receipt, is known as?
+
+a. Cash system of accounting
+
+b. Current accounting period
+
+c. Accrual system of accounting
+
+d. None of these
+
+5. Revenue is generally recognized being earned at the point of time when
+
+a. Cash is received
+
+b. Billed to customers
+
+c. Production is completed
+
+d. Goods are delivered
+
+6. Bookkeeping is mainly concerned with
+
+a. Recording the economic activities
+
+b. Interpreting the data
+
+c. Designing the systems for recording, classifying and summarizing
+
+d. All of these
+
+7. Which one of the following systems of recording transactions has a dual aspect concept of accounting?
+
+a. Cash system of accounting
+
+b. Single entry system
+
+c. Accrual system of accounting
+
+d. Double entry system
+
+8. The documents relating to purchase of asset must be authorized by
+
+a. Senior management
+
+b. Middle management
+
+c. Lower-level management
+
+d. None of these
+
+9. Accrual-basis of accounting
+
+a. Results in higher income than cash-basis of accounting
+
+b. Is not acceptable under GAAP
+
+24
+
+UNIT 02: Accounting Cycle
+
+JGI
+
+JDAEEMED-T OI- BE UNNIVERSITY
+
+c. Leads to the reporting of more complete information than cash-basis
+
+d. None of these
+
+10. A manufacturer is considering the point at which a transaction can be recognized within its profit and loss account. At which of the following stages is this permitted?
+
+a. Products accepted by customer
+
+b. Product manufactured
+
+c. Sample products requested by the customer
+
+d. Order placed for the goods
+
+11. Accounting to the rules of debit and credit for balance sheet accounts:
+
+a.
+
+Increase in asset, liability, and owners’ equity accounts are recorded by debits.
+
+b. Decrease in asset and liability accounts are recorded by credits.
+
+c.
+
+Increase in asset and owners’ equity accounts are recorded by debits.
+
+d. Decrease in liability and owners’ equity accounts are recorded by debits.
+
+12. Indicate all of the following statements that correctly describe the net income. Net income
+
+a.
+
+Is equal to revenue minus the sum of expenses and dividends.
+
+b. Is equal to revenue minus the sum of expenses and dividends.
+
+c.
+
+Increases owners’ equity.
+
+d. Is reported by a company for a specific period of time.
+
+13. Trial balance is used to check the accuracy of
+
+a. Balance sheet balances
+
+b. Ledger accounts balances
+
+c. Cash flow statement balances
+
+d.
+
+Income statement balances
+
+14. In the books of account, if a transaction is completely deleted, will it affect the trial balance?
+
+a. No
+
+b. Yes
+
+c. A transaction cannot be omitted
+
+d. Can’t say
+
+15. What is used in preparing trial balance?
+
+a. Specialised journals
+
+b. Balance sheet
+
+c. Ledger accounts
+
+d. General journal
+
+16. What is the trial balance used for?
+
+a.
+
+It is a financial statement
+
+b. It records the balances of a balance sheet
+
+c.
+
+It doesn’t contribute to the accounting cycle
+
+d. It records balances of accounts
+
+17. When debit balance is equal to credit balance, then the trial balance means
+
+a. Account balances are correct
+
+b. Mathematically, Capital + Liabilities = Assets
+
+25
+
+JGI
+
+JDAEEMED-T OI- BE UNNIVERSITY
+
+Accounting and Finance
+
+c. No mistake in recording transactions
+
+d. No mistake in posting entries to ledger accounts
+
+18. When is trial balance prepared?
+
+a. At the end of an accounting period
+
+b. At the end of a year
+
+c. Frequently during the year
+
+d. At the end of a month
+
+19. Which items influence the trial balance agreement?
+
+a. Deposit in transit
+
+b. Compensating errors
+
+c. Complete omission of a transaction
+
+d. Partial omission of a transaction
+
+20. Which of the following accounts with normal balance is shown at the debit side of a trial balance?
+
+a. Creditor’s account
+
+b. Unearned income account
+
+c. Rent income account
+
+d. Cash account
+
+B. Essay Type Questions
+
+1. What is accounting cycle?
+
+2. What do you understand by the term journal?
+
+3. What is trial balance?
+
+4. Explain Accounting Rules.
+
+2.8 ANSWERS AND HINTS FOR SELF-ASSESSMENT QUESTIONS
+
+A. Answers to Multiple Choice Questions
+
+Q. No.
+
+Answer
+
+1.
+
+c. Entry for two aspects of transaction
+
+2.
+
+d. All of these
+
+3.
+
+c. Transaction, source document, journal entry, ledger account, trial balance
+
+4.
+
+c. Accrual system of accounting
+
+5.
+
+b. Billed to customers
+
+6.
+
+a. Recording the economic activities
+
+7.
+
+d. Double entry system
+
+8.
+
+a. Senior management
+
+9.
+
+c. Leads to reporting of more complete information than does cash-basis
+
+10.
+
+d. Order placed for the goods
+
+11.
+
+d. Decrease in liability and owners’ equity accounts are recorded by debits
+
+12.
+
+c. Increases owners’ equity.
+
+13.
+
+b. Ledger accounts balances
+
+14.
+
+a. No
+
+26
+
+UNIT 02: Accounting Cycle
+
+JGI
+
+JDAEEMED-T OI- BE UNNIVERSITY
+
+Q. No.
+
+Answer
+
+15.
+
+c. Ledger accounts
+
+16.
+
+d. It records balances of accounts
+
+17.
+
+b. Mathematically, Capital + Liabilities=Assets
+
+18.
+
+a. At the end of an accounting period
+
+19.
+
+d. Partial omission of a transaction
+
+20.
+
+d. Cash account
+
+B. Hints for Essay Type Questions
+
+1. Accounting cycle refers to the specific tasks involved in completing an accounting process.Refer to Section Accounting Process
+
+2. A journal is a detailed account that records all the financial transactions of a business, to be used for the future reconciling of accounts and the transfer of information to other official accounting records, such as the general ledger. Refer to Section Accounting Process
+
+3. A trial balance is a bookkeeping worksheet in which the balance of all ledgers is compiled into debit and credit account column totals that are equal. The general purpose of producing a trial balance is to ensure the entries in a company’s bookkeeping system are mathematically correct. Refer to Section Preparation of Trial Balance
+
+@
+
+2.9 POST-UNIT READING MATERIAL
+
+ https://www.investopedia.com/terms/a/accounting-cycle.asp
+
+ https://scalefactor.com/ask-the-experts/the-accounting-cycle/
+
+ https://scalefactor.com/ask-the-experts/the-accounting-cycle/
+
+ https://xplaind.com/794246/accounting-cycle
+
+2.10 TOPICS FOR DISCUSSION FORUMS
+
+ Discuss with your friends how to prepare trial balance.
+
+27

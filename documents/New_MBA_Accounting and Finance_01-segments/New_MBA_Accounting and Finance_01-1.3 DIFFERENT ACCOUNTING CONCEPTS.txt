@@ -1,0 +1,81 @@
+The following are the most important concepts of accounting:
+
+1. Money measurement concept
+
+2. Business entity concept
+
+3. Going concern concept
+
+4. Matching concept
+
+5. Accounting period concept
+
+6. Duality or double entry concept
+
+7. Cost concept
+
+8. Revenue recognition concept
+
+9. Full disclosure concept
+
+10. Objectivity Concept
+
+Let us understand each them one by one.
+
+Money Measurement Concept
+
+This concept tunes the accounting system to be effective in capturing the transactions and occurrences of the business solely in terms of money. Money is employed as a denominator as well as a numerator in business events and transactions. Transactions that are not expressed in monetary terms are not allowed to be recorded in the books of accounts.
+
+5
+
+JGI
+
+JDAE EMED-TOI- BEUNNIVERSITY
+
+Accounting and Finance
+
+Business Entity Concept
+
+The owner is treated as a separate entity from the business in this idea. In a nutshell, “Owners are different, and businesses are different.” The capital brought into the firm by the owner at the start of the firm is referred to as capital. The amount of capital that was initially contributed should be returned to the owner as a debt owed to the owner, who was nothing more than a contributor to the capital.
+
+Going Concern Concept
+
+The concept is concerned with the quality of a company enterprise’s long-term viability, regardless of whether the owner is alive or not. The fixed assets are purchased with the purpose of profiting during the business season. Even if assets that are inactive during a business’s slow season are kept for future use, the fact that those assets are typically sold out by the firm shortly after their utility means that they are not fixed assets but traded assets..
+
+Matching Concept
+
+This idea merely serves to make the overall accounting system more useful in determining the volume of a company’s earnings or losses at each level of transaction, which is the result of matching revenues and expenses. The transaction’s value is determined by comparing revenues, which are mostly derived from sales volume, with the firm’s expenses at every level.
+
+Accounting Period Concept
+
+The business’s life span is long, and it is divided into operating periods of varying lengths. The accounting period might be either a calendar year (January to December) or a financial year (April to March). The trading firms’ operational periods are not all the same. This indicates that one firm’s operational time may be shorter than the others. The concept’s ultimate goal is to eliminate the trading practice’s variances in operating periods of diverse traders.
+
+Duality or Double Entry Accounting Concept
+
+It is the only idea that depicts both sides of a single transaction. The entire law of company is based solely on the players’ mutual agreement sharing policy. What method is used to get a mutual agreement?
+
+The entire business principle is based on mutual agreement between the parties from one occasion to the next. Wages are paid solely through the services of labourers by the company. Is there any form of mutual benefit sharing arrangement in place? The labourers services are obtained by the firm by paying wages to them. Similarly, the workers are paid on a monthly basis for their contributions to the company.
+
+Cost Concept
+
+It is a concept that is closely related to the concept of a running business. The transactions are exclusively recorded in terms of cost rather than market value under this idea. Fixed assets are solely recorded in terms of their purchase price, which represents the asset’s original cost at the time of purchase. Depreciation is subtracted from the original value, which is the asset’s initial purchase price, to arrive at the asset’s book value at the end of the accounting period.
+
+6
+
+UNIT 01: Introduction to Financial Accounting
+
+JGI
+
+JDAE EMED-TOI- BEUNNIVERSITY
+
+Revenue Reorganisation Concept
+
+The principle is also known as the revenue realisation principle. According to this principle, revenue is recorded in accounting when sales are made. If a given transaction is expected to occur in the future, it is not documented in accounting. When title to goods goes from the seller to the buyer and the buyer becomes legally responsible to pay, revenue/sales is considered made.
+
+Full Disclosure Concept
+
+According to this principle, financial statements should present a true and fair picture so that users of financial statements can get accurate and sufficient information (the statements which includes the financial data for a particular time period). The disclosure concept states that the owner, creditors, and investors should be given all information relevant to the business’s economic activity. As large commercial organisations are administered as limited firms, this principle is becoming increasingly important. The profit and loss account and the balance sheet of a company must offer a genuine and fair view of the company, according to the Companies Act of 1956.Therefore, companies are showing foot notes for some items as investments, contingent liabilities etc. along with the balance sheet.
+
+Objectivity Concept
+
+It is also known as the concept of objective evidence. The transactions that are recorded in accounting must be objective and factual, according to this principle. Each accounting entry should be accompanied by a voucher or documentary documentation. Personal prejudice must be avoided, and the entry must be based on a rational approach. If the entries are made without supporting documentation, the financial statements’ veracity will be questioned by a number of users. Objective proof is also required for the auditing of financial statements.

@@ -1,0 +1,219 @@
+[
+    {
+        "current_btl": "Understanding",
+        "proposed_btl": "Remembering",
+        "rating": 7,
+        "justification_rating": "The question is asking to recall a fact or definition, which falls under the 'Remembering' category of Bloom's Taxonomy. However, it is rated 7 because it does not fully test the learning outcome of explaining the conceptual framework of accounting including GAAP.",
+        "question": "Which is the first book of entry?",
+        "options": [
+            "A. Ledger\n",
+            "B. Journal\n",
+            "C. Subsidiary book\n",
+            "D. Trial balance\n"
+        ],
+        "correct_answer_index": [
+            1
+        ],
+        "learning_outcomes": [
+            "Explain conceptual framework of accounting including GAAP."
+        ],
+        "unit_numbers": [
+            1
+        ],
+        "audience": "Undergraduate",
+        "token_usage": {
+            "completion_tokens": 513,
+            "prompt_tokens": 11397,
+            "total_tokens": 11910
+        },
+        "model_used": "gpt-4-32k",
+        "validated_answer": "B",
+        "justification_correctness": "The course content mentions that accounting is a process that includes documenting or recording financial transactions. This aligns with the concept of a 'Journal' which is the first book of entry where all business transactions are recorded in chronological order."
+    },
+    {
+        "current_btl": "Applying",
+        "proposed_btl": "Remembering",
+        "rating": 4,
+        "justification_rating": "The question is asking to recall a fact or piece of information without needing to understand the meaning or context, which corresponds to the 'Remembering' BTL level. The question does not require the application of any knowledge or skills, which is why the 'Applying' level is not appropriate. The rating is 4 because while the question does test a basic knowledge of accounting, it does not align with the learning outcome of explaining the conceptual framework of accounting including GAAP.",
+        "question": "Which is a part of financial accounting and is concerned with recording transactions, which is routine and clerical.",
+        "options": [
+            "A. Bookkeeping\n",
+            "B. Accounting\n",
+            "C. Financial Accounting\n",
+            "D. Cost Accounting\n"
+        ],
+        "correct_answer_index": [
+            0
+        ],
+        "learning_outcomes": [
+            "Explain conceptual framework of accounting including GAAP."
+        ],
+        "unit_numbers": [
+            1
+        ],
+        "audience": "Undergraduate",
+        "token_usage": {
+            "completion_tokens": 760,
+            "prompt_tokens": 11486,
+            "total_tokens": 12246
+        },
+        "model_used": "gpt-4-32k",
+        "validated_answer": "A",
+        "justification_correctness": "The course content mentions that accounting involves recording, classifying, and summarising business transactions. However, it does not explicitly distinguish between different types of accounting or define 'bookkeeping'. However, it is implied that the routine and clerical task of recording transactions, as mentioned in the question, would fall under the first function of accounting i.e., 'recording'. This is what 'bookkeeping' typically involves, thus option A is the most suitable answer based on the given course content."
+    },
+    {
+        "current_btl": "Analyzing",
+        "proposed_btl": "Remembering",
+        "rating": 4,
+        "justification_rating": "The question is simply asking for a recall of a fact or a definition, which corresponds to the 'Remembering' BTL level. The 'Analyzing' level would require the student to break information into parts to explore understandings and relationships, which is not required in this question. The rating is 4 because while the question does test a basic understanding, it does not align with the higher learning outcome of 'Analyzing'.",
+        "question": "Who is responsible for designing the financial accounting system carrying on supervision, and preparing reports based on recorded data, and interpreting the reports.",
+        "options": [
+            "A. Bookkeeper\n",
+            "B. Accountant\n",
+            "C. Auditor\n",
+            "D. Bookkeeper, Accountant and Auditor\n"
+        ],
+        "correct_answer_index": [
+            1
+        ],
+        "learning_outcomes": [
+            "Explain conceptual framework of accounting including GAAP."
+        ],
+        "unit_numbers": [
+            1
+        ],
+        "audience": "Undergraduate",
+        "token_usage": {
+            "completion_tokens": 657,
+            "prompt_tokens": 11569,
+            "total_tokens": 12226
+        },
+        "model_used": "gpt-4-32k",
+        "validated_answer": "don't know",
+        "justification_correctness": "The course content does not provide specific information about who is responsible for designing the financial accounting system, carrying on supervision, and preparing and interpreting reports based on recorded data. Therefore, it is not possible to definitively choose one of the provided options based on the course content."
+    },
+    {
+        "current_btl": "Understanding",
+        "proposed_btl": "Remembering",
+        "rating": 7,
+        "justification_rating": "The question is asking to recall who the external users of accounting information are, which is a basic fact and falls under the 'Remembering' BTL level. However, it is still somewhat related to the learning outcome of understanding the conceptual framework of accounting, hence the rating of 7.",
+        "question": "Which of the following is the external user of accounting information?",
+        "options": [
+            "A. Owners\n",
+            "B. Management\n",
+            "C. Employees\n",
+            "D. Government\n"
+        ],
+        "correct_answer_index": [
+            3
+        ],
+        "learning_outcomes": [
+            "Explain conceptual framework of accounting including GAAP."
+        ],
+        "unit_numbers": [
+            1
+        ],
+        "audience": "Undergraduate",
+        "token_usage": {
+            "completion_tokens": 541,
+            "prompt_tokens": 11389,
+            "total_tokens": 11930
+        },
+        "model_used": "gpt-4-32k",
+        "validated_answer": "D",
+        "justification_correctness": "According to the course content, the government is an external user of accounting information. The text mentions that the government wants to know if the business has paid all taxes, fees, and other obligations. Thus, the government uses accounting information to assess the business's compliance with tax and other financial regulations."
+    },
+    {
+        "current_btl": "Understanding",
+        "proposed_btl": "Remembering",
+        "rating": 5,
+        "justification_rating": "The MCQ is clear and unambiguous, and it tests a basic but important piece of knowledge in the conceptual framework of accounting. However, it does not test the student's ability to explain the conceptual framework of accounting including GAAP, which is the learning outcome.",
+        "question": "Which of the following is not the external user of accounting information?",
+        "options": [
+            "A. Government\n",
+            "B. Management\n",
+            "C. Investors\n",
+            "D. Creditors\n"
+        ],
+        "correct_answer_index": [
+            1
+        ],
+        "learning_outcomes": [
+            "Explain conceptual framework of accounting including GAAP."
+        ],
+        "unit_numbers": [
+            1
+        ],
+        "audience": "Undergraduate",
+        "token_usage": {
+            "completion_tokens": 938,
+            "prompt_tokens": 11405,
+            "total_tokens": 12343
+        },
+        "model_used": "gpt-4-32k",
+        "validated_answer": "B",
+        "justification_correctness": "The course content mentions that business transactions must be recorded for the benefit of the owners and other interested parties, including those who provide resources, products, and services to businesses, governments, and society at large. This includes creditors and the government. However, it does not mention management as an external user of accounting information. Therefore, the option 'Management' is the correct answer as it is not an external user of accounting information."
+    },
+    {
+        "current_btl": "Understanding",
+        "proposed_btl": "Remembering",
+        "rating": 6,
+        "justification_rating": "The question is asking to identify an internal user of accounting information, which is a simple recall from the study material. Hence, the BTL level is 'Remembering'. However, the question is rated 6 because it does not fully align with the learning outcome of explaining the conceptual framework of accounting including GAAP.",
+        "question": "Which of the following is the internal user of accounting information?",
+        "options": [
+            "A. Government\n",
+            "B. Investors\n",
+            "C. Owners\n",
+            "D. Creditors\n"
+        ],
+        "correct_answer_index": [
+            2
+        ],
+        "learning_outcomes": [
+            "Explain conceptual framework of accounting including GAAP."
+        ],
+        "unit_numbers": [
+            1
+        ],
+        "audience": "Undergraduate",
+        "token_usage": {
+            "completion_tokens": 570,
+            "prompt_tokens": 11397,
+            "total_tokens": 11967
+        },
+        "model_used": "gpt-4-32k",
+        "validated_answer": "C",
+        "justification_correctness": "The course content mentions that business transactions must be recorded for the benefit of the owners and other interested parties. This suggests that owners are internal users of accounting information, which aligns with option C."
+    },
+    {
+        "current_btl": "Understanding",
+        "proposed_btl": "Remembering",
+        "rating": 6,
+        "justification_rating": "The question is asking to recall who the internal users of accounting information are, which is a 'Remembering' level task according to Bloom's Taxonomy. However, the question is not directly related to the learning outcome of explaining the conceptual framework of accounting including GAAP. Therefore, the rating is 6 as it partially meets the learning outcome by testing the basic knowledge about accounting information users.",
+        "question": "Which of the following is not the internal user of accounting information?",
+        "options": [
+            "A. Owners\n",
+            "B. Management\n",
+            "C. Employees\n",
+            "D. Investors\n"
+        ],
+        "correct_answer_index": [
+            3
+        ],
+        "learning_outcomes": [
+            "Explain conceptual framework of accounting including GAAP."
+        ],
+        "unit_numbers": [
+            1
+        ],
+        "audience": "Undergraduate",
+        "token_usage": {
+            "completion_tokens": 694,
+            "prompt_tokens": 11397,
+            "total_tokens": 12091
+        },
+        "model_used": "gpt-4-32k",
+        "validated_answer": "D",
+        "justification_correctness": "The course content does not provide specific information about the internal users of accounting information. Therefore, based on the provided course content, it cannot be determined which of the options (Owners, Management, Employees, Investors) is not an internal user of accounting information."
+    }
+]

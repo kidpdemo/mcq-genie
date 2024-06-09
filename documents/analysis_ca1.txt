@@ -1,0 +1,755 @@
+{'CO': 'Analyze and evaluate financial data to make informed decisions related '
+       'to investments, capital budgeting, and financing strategies, '
+       'considering risk and return.',
+ 'Rating': 2,
+ 'current btl': 'Comprehension',
+ 'justification': 'The given MCQ only tests the basic knowledge of accounting '
+                  "terms and doesn't require any analysis or evaluation of "
+                  'financial data for decision making related to investments, '
+                  'budgeting or financing strategies. It is a simple recall '
+                  "based question which doesn't align with the given course "
+                  'outcome. Hence, it is rated low on the scale of meeting the '
+                  'specified course outcome.',
+ 'proposed btl': 'Knowledge',
+ 'question': '\n'
+             'Which is the first book of entry?\n'
+             'A. Ledger\n'
+             'B. Journal\n'
+             'C. Subsidiary book\n'
+             'D. Trial balance\n'
+             '\n'
+             'The correct option is: B\n',
+ 'unit_no': 1,
+ 'validated answer': 'B'}
+-----------------------------------------------------------------------------
+{'CO': 'Formulate and implement financial strategies that align with a '
+       "company's overall goals and objectives.",
+ 'Rating': 3,
+ 'current btl': 'Application',
+ 'justification': 'The given MCQ only tests the basic knowledge of bookkeeping '
+                  'and does not require the application of any concepts. It '
+                  'does not align well with the specified course outcome of '
+                  'formulating and implementing financial strategies. To '
+                  'better meet the course outcome, the MCQ should be framed to '
+                  "test the student's ability to apply financial accounting "
+                  'concepts in strategic decision making.',
+ 'proposed btl': 'Knowledge',
+ 'question': '\n'
+             'Which is a part of financial accounting and is concerned with '
+             'recording transactions, which is routine and clerical.\n'
+             'A. Bookkeeping\n'
+             'B. Accounting\n'
+             'C. Financial Accounting\n'
+             'D. Cost Accounting\n'
+             '\n'
+             'The correct option is: A\n',
+ 'unit_no': 1,
+ 'validated answer': 'A'}
+-----------------------------------------------------------------------------
+{'CO': 'Identify, assess, and manage financial risks, and ensure compliance '
+       'with relevant financial regulations and standards.',
+ 'Rating': 2,
+ 'current btl': 'Analysis',
+ 'justification': 'The given question only tests the basic knowledge of '
+                  'financial accounting roles and responsibilities. It does '
+                  'not require any higher level cognitive skills like '
+                  'analysis, application or evaluation. The question is not '
+                  'closely aligned with the specified course outcome of '
+                  'identifying, assessing and managing financial risks and '
+                  'ensuring compliance. It tests very basic factual knowledge '
+                  'instead.',
+ 'proposed btl': 'Knowledge',
+ 'question': '\n'
+             'Who is responsible for designing the financial accounting system '
+             'carrying on supervision, and preparing reports based on recorded '
+             'data, and interpreting the reports.\n'
+             'A. Bookkeeper\n'
+             'B. Accountant\n'
+             'C. Auditor\n'
+             'D. Bookkeeper, Accountant and Auditor\n'
+             '\n'
+             'The correct option is: B\n',
+ 'unit_no': 1,
+ 'validated answer': 'B'}
+-----------------------------------------------------------------------------
+{'CO': 'Apply various valuation methods to assess the worth of financial '
+       'assets, including stocks, bonds, and other securities, and understand '
+       'the principles of asset management.',
+ 'Rating': 3,
+ 'current btl': 'Comprehension',
+ 'justification': "The given question tests the student's ability to recall or "
+                  'recognize the classification of external users of '
+                  'accounting information, which falls under the Knowledge '
+                  "level of Bloom's Taxonomy. The question does not require a "
+                  'deeper understanding, application, analysis, evaluation, or '
+                  'synthesis of the concept. Additionally, the question does '
+                  'not directly align with the specified course outcome of '
+                  'applying valuation methods and understanding asset '
+                  'management principles.',
+ 'proposed btl': 'Knowledge',
+ 'question': '\n'
+             'Which of the following is the external user of accounting '
+             'information?\n'
+             'A. Owners\n'
+             'B. Management\n'
+             'C. Employees\n'
+             'D. Government\n'
+             '\n'
+             'The correct option is: D\n',
+ 'unit_no': 1,
+ 'validated answer': 'D'}
+-----------------------------------------------------------------------------
+{'CO': 'Recommend decisions on financial, investment, dividend and working '
+       'capital management.',
+ 'Rating': 5,
+ 'current btl': 'Comprehension',
+ 'justification': 'The question tests the basic knowledge of identifying the '
+                  'users of accounting information. It does not require '
+                  'comprehension or higher level thinking. The question is of '
+                  'average quality in meeting the specified course outcome as '
+                  'it tests knowledge related to accounting information users, '
+                  'which is somewhat relevant to financial decision making but '
+                  'does not directly test the ability to recommend decisions.',
+ 'proposed btl': 'Knowledge',
+ 'question': '\n'
+             'Which of the following is not the external user of accounting '
+             'information?\n'
+             'A. Government\n'
+             'B. Management\n'
+             'C. Investors\n'
+             'D. Creditors\n'
+             '\n'
+             'The correct option is: B\n',
+ 'unit_no': 1,
+ 'validated answer': 'B'}
+-----------------------------------------------------------------------------
+{'CO': 'Analyze and evaluate financial data to make informed decisions related '
+       'to investments, capital budgeting, and financing strategies, '
+       'considering risk and return.',
+ 'Rating': 2,
+ 'current btl': 'Comprehension',
+ 'justification': 'The given question only tests the basic knowledge of '
+                  'identifying the internal user of accounting information. It '
+                  'does not require any deeper understanding, application, '
+                  'analysis, evaluation or synthesis skills related to the '
+                  'provided course outcome of analyzing and evaluating '
+                  'financial data for informed decision making. The question '
+                  'is too basic to effectively assess the achievement of the '
+                  'specified course outcome.',
+ 'proposed btl': 'Knowledge',
+ 'question': '\n'
+             'Which of the following is the internal user of accounting '
+             'information?\n'
+             'A. Government\n'
+             'B. Investors\n'
+             'C. Owners\n'
+             'D. Creditors\n'
+             '\n'
+             'The correct option is: C\n',
+ 'unit_no': 1,
+ 'validated answer': 'C'}
+-----------------------------------------------------------------------------
+{'CO': 'Formulate and implement financial strategies that align with a '
+       "company's overall goals and objectives.",
+ 'Rating': 2,
+ 'current btl': 'Comprehension',
+ 'justification': 'The question tests basic recall of accounting concepts, '
+                  'specifically the categorization of users of accounting '
+                  'information. It does not require a deeper understanding, '
+                  'application, analysis, evaluation or synthesis of financial '
+                  'strategies aligning with company goals, as stated in the '
+                  'course outcome. Therefore, this question poorly aligns with '
+                  'the specified course outcome.',
+ 'proposed btl': 'Knowledge',
+ 'question': '\n'
+             'Which of the following is not the internal user of accounting '
+             'information?\n'
+             'A. Owners\n'
+             'B. Management\n'
+             'C. Employees\n'
+             'D. Investors\n'
+             '\n'
+             'The correct option is: D\n',
+ 'unit_no': 1,
+ 'validated answer': 'D'}
+-----------------------------------------------------------------------------
+{'CO': 'Analyze and evaluate financial data to make informed decisions related '
+       'to investments, capital budgeting, and financing strategies, '
+       'considering risk and return.',
+ 'Rating': 2,
+ 'current btl': 'Analysis',
+ 'justification': 'The question only tests the basic knowledge of accounting '
+                  'terminology and does not require any analysis or evaluation '
+                  'of financial data to make informed decisions. It is a '
+                  'simple recall question that does not align with the given '
+                  'course outcome of analyzing and evaluating financial data '
+                  'for decision making related to investments, capital '
+                  'budgeting, and financing strategies.',
+ 'proposed btl': 'Knowledge',
+ 'question': '\n'
+             'What is the collective process of recording, processing, '
+             'classifying, and summarizing the business transactions in '
+             'financial statements is known as ?\n'
+             'A. Accounting period\n'
+             'B. Accounting Cycle\n'
+             'C. Accounting equation\n'
+             'D. Bookkeeping cycle\n'
+             '\n'
+             'The correct option is: B\n',
+ 'unit_no': 2}
+-----------------------------------------------------------------------------
+{'CO': 'Formulate and implement financial strategies that align with a '
+       "company's overall goals and objectives.",
+ 'Rating': 2,
+ 'current btl': 'Analysis',
+ 'justification': "The given question only tests the student's ability to "
+                  'recall the definition of a specific accounting term. It '
+                  'does not require any higher-level thinking skills such as '
+                  'analysis, evaluation, or synthesis that align with the '
+                  'specified course outcome of formulating and implementing '
+                  'financial strategies. The question is very basic and does '
+                  "not effectively assess the student's ability to meet the "
+                  'stated course outcome.',
+ 'proposed btl': 'Knowledge',
+ 'question': '\n'
+             'The series of steps begins when a business transaction occurs '
+             'and ends when the financial statements are prepared. What is '
+             'this process called as?\n'
+             'A. Accounting period\n'
+             'B. Accounting Cycle\n'
+             'C. Accounting equation\n'
+             'D. Bookkeeping cycle\n'
+             '\n'
+             'The correct option is: D\n',
+ 'unit_no': 2}
+-----------------------------------------------------------------------------
+{'CO': 'Identify, assess, and manage financial risks, and ensure compliance '
+       'with relevant financial regulations and standards.',
+ 'Rating': 2,
+ 'current btl': 'Comprehension',
+ 'justification': 'The given MCQ tests factual recall of an accounting term '
+                  'and does not require comprehension, application or higher '
+                  'cognitive levels. It also does not align well with the '
+                  'stated course outcome of identifying, assessing and '
+                  'managing financial risks and ensuring compliance with '
+                  'regulations and standards. The question is testing basic '
+                  'terminology rather than skills needed for the course '
+                  'outcome.',
+ 'proposed btl': 'Knowledge',
+ 'question': '\n'
+             'What is the other name of Journal entry?\n'
+             'A. Journalising\n'
+             'B. Prime entry\n'
+             'C. Ledger\n'
+             'D. Narration\n'
+             '\n'
+             'The correct option is: B\n',
+ 'unit_no': 2}
+-----------------------------------------------------------------------------
+{'CO': 'Apply various valuation methods to assess the worth of financial '
+       'assets, including stocks, bonds, and other securities, and understand '
+       'the principles of asset management.',
+ 'current btl': 'Analysis',
+ 'justification': 'The given question simply asks for the term used to '
+                  'describe the process of recording transactions in a '
+                  'journal. It does not require any application, analysis, or '
+                  'evaluation of valuation methods or asset management '
+                  'principles as specified in the course outcome. The question '
+                  'tests basic terminology knowledge, making it suitable for '
+                  "the Knowledge level of Bloom's Taxonomy. As the question "
+                  'does not align with the stated course outcome, it receives '
+                  'a low rating of 1 out of 10.',
+ 'proposed btl': 'Knowledge',
+ 'question': '\n'
+             'What is the process of recording the transactions into a journal '
+             'called as?\n'
+             'A. Journalising\n'
+             'B. Prime entry\n'
+             'C. Ledger\n'
+             'D. Narration\n'
+             '\n'
+             'The correct option is: A\n',
+ 'rating': 1,
+ 'unit_no': 2}
+-----------------------------------------------------------------------------
+{'CO': 'Recommend decisions on financial, investment, dividend and working '
+       'capital management.',
+ 'Rating': 2,
+ 'current btl': 'Application',
+ 'justification': 'The given MCQ simply tests the recall of a basic accounting '
+                  'rule. It does not involve application of any financial, '
+                  'investment, dividend or working capital management '
+                  'concepts, which is the specified course outcome. The MCQ is '
+                  'at the lowest BTL level of Knowledge and not Application as '
+                  'currently associated. Since the current BTL level is higher '
+                  'than Knowledge, a low rating of 2 out of 10 is given for '
+                  'meeting the specified course outcome.',
+ 'proposed btl': 'Knowledge',
+ 'question': '\n'
+             'Debit the receiver and credit the giver is the golden rule of '
+             'which type of account?\n'
+             'A. Real\n'
+             'B. Nominal\n'
+             'C. Personal\n'
+             'D. Real and nominal\n'
+             '\n'
+             'The correct option is: C\n',
+ 'unit_no': 2}
+-----------------------------------------------------------------------------
+{'CO': 'Analyze and evaluate financial data to make informed decisions related '
+       'to investments, capital budgeting, and financing strategies, '
+       'considering risk and return.',
+ 'Rating': 2,
+ 'current btl': 'Application',
+ 'justification': 'The given MCQ only tests the basic recall of the golden '
+                  'rule of accounting for different account types. It does not '
+                  'involve any application, analysis or evaluation of '
+                  'financial data to make informed decisions related to '
+                  'investments, capital budgeting or financing strategies, as '
+                  'specified in the course outcome. Therefore, this MCQ rates '
+                  'poorly in terms of meeting the stated course outcome.',
+ 'proposed btl': 'Knowledge',
+ 'question': '\n'
+             'Debit what comes in and credit what goes out is the golden rule '
+             'of which type of account?\n'
+             'A. Real\n'
+             'B. Nominal\n'
+             'C. Personal\n'
+             'D. Real and nominal\n'
+             '\n'
+             'The correct option is: A\n',
+ 'unit_no': 2}
+-----------------------------------------------------------------------------
+{'CO': 'Formulate and implement financial strategies that align with a '
+       "company's overall goals and objectives.",
+ 'Rating': 2,
+ 'current btl': 'Application',
+ 'justification': 'The given MCQ simply tests the knowledge of accounting '
+                  'rules and does not require application of any financial '
+                  'strategies to meet company goals and objectives as '
+                  'specified in the course outcome. Hence, the current BTL of '
+                  'Application is incorrect and should be Knowledge. As the '
+                  'MCQ does not align with the specified course outcome, it '
+                  'receives a low rating of 2 out of 10.',
+ 'proposed btl': 'Knowledge',
+ 'question': '\n'
+             'Debit all expenses and losses and credit all income and gains is '
+             'the golden rule of which type of account?\n'
+             'A. Real\n'
+             'B. Nominal\n'
+             'C. Personal\n'
+             'D. Real and nominal\n'
+             '\n'
+             'The correct option is: B\n',
+ 'unit_no': 2}
+-----------------------------------------------------------------------------
+{'CO': 'Analyze and evaluate financial data to make informed decisions related '
+       'to investments, capital budgeting, and financing strategies, '
+       'considering risk and return.',
+ 'Rating': 5,
+ 'current btl': 'Application',
+ 'justification': 'The question only tests the recall of a basic financial '
+                  'concept, depreciation. It does not require application of '
+                  'knowledge to a specific scenario or analysis of financial '
+                  'data to make informed decisions. While it is related to the '
+                  'broad domain of the course outcome, it does not '
+                  'sufficiently test the higher-order skills of analysis and '
+                  'evaluation mentioned in the outcome statement. To better '
+                  'align with the stated outcome, the question could be '
+                  'improved by presenting a scenario where the student needs '
+                  "to analyze the impact of depreciation on the company's "
+                  'financial statements and investment decisions.',
+ 'proposed btl': 'Knowledge',
+ 'question': '\n'
+             'A cloth manufacturing company that purchased a truck in 2010 for '
+             'Rs.50 lakh to transport finished goods to its dealers. The '
+             "truck's value will decrease each year with regular use over "
+             'time. What is the decrease in value of the truck called?\n'
+             'A. Appreciation\n'
+             'B. Depreciation\n'
+             'C. Revaluation\n'
+             'D. Devaluation\n'
+             '\n'
+             'The correct option is: B\n',
+ 'unit_no': 3}
+-----------------------------------------------------------------------------
+{'CO': 'Formulate and implement financial strategies that align with a '
+       "company's overall goals and objectives.",
+ 'current btl': 'Comprehension',
+ 'justification': "The given MCQ only tests the student's ability to recall "
+                  'basic facts about depreciation factors, which falls under '
+                  "the Knowledge level of Bloom's Taxonomy. It does not "
+                  'require a deeper understanding or application of financial '
+                  "strategies that align with a company's goals and "
+                  'objectives, which is the specified course outcome. '
+                  'Therefore, the MCQ is not well-suited to assess the '
+                  'achievement of the stated course outcome.',
+ 'proposed btl': 'Knowledge',
+ 'question': '\n'
+             'Which of the following is not the factors affecting '
+             'depreciation?\n'
+             'A. Estimated residual value of the asset\n'
+             'B. Actual cost of the asset\n'
+             'C. Estimated useful life of the asset\n'
+             'D. Wear and tear\n'
+             '\n'
+             'The correct option is: D\n',
+ 'rating': 2,
+ 'unit_no': 3}
+-----------------------------------------------------------------------------
+{'CO': 'Identify, assess, and manage financial risks, and ensure compliance '
+       'with relevant financial regulations and standards.',
+ 'Rating': 2,
+ 'current btl': 'Comprehension',
+ 'justification': 'The given MCQ only tests the recall of a specific term and '
+                  'does not require comprehension, application, analysis, '
+                  'evaluation or synthesis skills. It is not strongly aligned '
+                  'with the stated course outcome of identifying, assessing '
+                  'and managing financial risks and ensuring compliance with '
+                  'regulations and standards. The question is too basic and '
+                  'narrow in scope to effectively assess the higher-order '
+                  'skills needed to achieve the course outcome.',
+ 'proposed btl': 'Knowledge',
+ 'question': '\n'
+             'What is the other name of Actual cost?\n'
+             'A. Estimated cost\n'
+             'B. Historical cost\n'
+             'C. Current cost\n'
+             'D. Future cost\n'
+             '\n'
+             'The correct option is: B\n',
+ 'unit_no': 3}
+-----------------------------------------------------------------------------
+{'CO': 'Apply various valuation methods to assess the worth of financial '
+       'assets, including stocks, bonds, and other securities, and understand '
+       'the principles of asset management.',
+ 'Rating': 5,
+ 'current btl': 'Analysis',
+ 'justification': "The given question tests the student's knowledge of a "
+                  'specific concept, i.e., the expected value that may be '
+                  'realized when an asset is sold or exchanged at the end of '
+                  'its estimated useful life. It does not require any '
+                  'higher-order thinking skills such as analysis, evaluation, '
+                  'or synthesis. The question is somewhat related to the '
+                  'course outcome of understanding the principles of asset '
+                  "management, but it does not directly test the student's "
+                  'ability to apply valuation methods to assess the worth of '
+                  'financial assets.',
+ 'proposed btl': 'Knowledge',
+ 'question': '\n'
+             'What is the expected value that may be realised when the asset '
+             'is sold or exchanged at the end of its estimated useful life?\n'
+             'A. Estimated residual value of the asset\n'
+             'B. Actual cost of the asset\n'
+             'C. Estimated useful life of the asset\n'
+             'D. Wear and tear\n'
+             '\n'
+             'The correct option is: A\n',
+ 'unit_no': 3}
+-----------------------------------------------------------------------------
+{'CO': 'Recommend decisions on financial, investment, dividend and working '
+       'capital management.',
+ 'Rating': 2,
+ 'current btl': 'Comprehension',
+ 'justification': "The given question only tests the student's ability to "
+                  'recall the causes of depreciation, which falls under the '
+                  "Knowledge level of Bloom's Taxonomy. It does not require a "
+                  'deeper understanding or application of the concept. '
+                  'Moreover, the question is not directly related to the '
+                  'specified course outcome of recommending decisions on '
+                  'financial, investment, dividend, and working capital '
+                  'management. Therefore, the quality of the question in '
+                  'meeting the course outcome is low, resulting in a rating of '
+                  '2 out of 10.',
+ 'proposed btl': 'Knowledge',
+ 'question': '\n'
+             'Which of the following is not the causes of depreciation?\n'
+             'A. Wear and tear\n'
+             'B. Efflux of time\n'
+             'C. Actual cost of the asset\n'
+             'D. Obsolescence\n'
+             '\n'
+             'The correct option is: C\n',
+ 'unit_no': 3}
+-----------------------------------------------------------------------------
+{'CO': 'Analyze and evaluate financial data to make informed decisions related '
+       'to investments, capital budgeting, and financing strategies, '
+       'considering risk and return.',
+ 'Rating': 5,
+ 'current btl': 'Analysis',
+ 'justification': 'The question involves applying the concept of depreciation '
+                  'to calculate the amount for a specific scenario. It does '
+                  'not require analyzing or evaluating financial data to make '
+                  'informed decisions related to investments, capital '
+                  'budgeting, or financing strategies, which is the specified '
+                  'course outcome. Therefore, the current BTL of Analysis is '
+                  'too high for this question. The proposed BTL of Application '
+                  'is more appropriate. The rating of 5 is given because while '
+                  'the question tests the application of depreciation, it does '
+                  'not fully align with the course outcome of analyzing and '
+                  'evaluating financial data for decision-making in '
+                  'investments, capital budgeting, and financing strategies.',
+ 'proposed btl': 'Application',
+ 'question': '\n'
+             'On 1st August, 2008, a company purchased a machine for Rs '
+             '3,90,000 and spent Rs 10,000 on its installation. It decided to '
+             'provide depreciation @ 15% per annum. Accounting period ending '
+             'is 31st March, 2009. Calculate the amount of Depreciation.\n'
+             'A. 40000\n'
+             'B. 60000\n'
+             'C. 20000\n'
+             'D. 30000\n'
+             '\n'
+             'The correct option is: A\n',
+ 'unit_no': 3}
+-----------------------------------------------------------------------------
+{'CO': 'Formulate and implement financial strategies that align with a '
+       "company's overall goals and objectives.",
+ 'Rating': 4,
+ 'current btl': 'Analysis',
+ 'justification': "The given question tests the student's ability to apply the "
+                  'concept of depreciation to a specific scenario, which '
+                  "aligns with the Application level of Bloom's Taxonomy. "
+                  'However, the question does not significantly contribute to '
+                  'the stated course outcome of formulating and implementing '
+                  "financial strategies that align with a company's overall "
+                  'goals and objectives. The question focuses on a narrow, '
+                  'specific calculation rather than broader strategic '
+                  'decision-making.',
+ 'proposed btl': 'Application',
+ 'question': '\n'
+             'Metropol Ltd. acquired a machine for Rs 5,40,000 on 1st April '
+             '2009. Depreciation was to be charged at 20% per annum. Calculate '
+             'depreciation if the accounting year ends on 31st March.\n'
+             'A. 54000\n'
+             'B. 108000\n'
+             'C. 100000\n'
+             'D. 90000\n'
+             '\n'
+             'The correct option is: B\n',
+ 'unit_no': 3}
+-----------------------------------------------------------------------------
+{'CO': 'Identify, assess, and manage financial risks, and ensure compliance '
+       'with relevant financial regulations and standards.',
+ 'Rating': 3,
+ 'current btl': 'Analysis',
+ 'justification': 'The given MCQ is testing the application of the straight '
+                  'line depreciation method to calculate the rate of '
+                  'depreciation. It does not involve any higher-level skills '
+                  'like analysis, evaluation or synthesis. The question is not '
+                  'directly related to the specified course outcome of '
+                  'identifying, assessing and managing financial risks, and '
+                  'ensuring compliance with financial regulations and '
+                  'standards. Therefore, the quality of the MCQ in meeting the '
+                  'specified course outcome is low, hence the rating of 3 out '
+                  'of 10.',
+ 'proposed btl': 'Application',
+ 'question': '\n'
+             'Calculate the Rate of Depreciation under Straight Line Method '
+             '(SLM) from the following: Purchased a second-hand machine for ₹ '
+             '96,000, spent ₹ 24,000 on its cartage, repairs and installation, '
+             'estimated useful life of machine 4 years. Estimated residual '
+             'value ₹ 72,000\n'
+             'A. 0.12\n'
+             'B. 0.1\n'
+             'C. 0.15\n'
+             'D. 0.2\n'
+             '\n'
+             'The correct option is: B\n',
+ 'unit_no': 3}
+-----------------------------------------------------------------------------
+{'CO': 'Analyze and evaluate financial data to make informed decisions related '
+       'to investments, capital budgeting, and financing strategies, '
+       'considering risk and return.',
+ 'Rating': 2,
+ 'current btl': 'Application',
+ 'justification': 'The given MCQ only tests the basic knowledge of what a '
+                  'favourable balance indicates in a cash book. It does not '
+                  'require the student to analyze or evaluate financial data '
+                  'to make informed decisions related to investments, capital '
+                  'budgeting, or financing strategies, as specified in the '
+                  'course outcome. Therefore, the MCQ does not effectively '
+                  'assess the higher-order thinking skills required to meet '
+                  'the stated course outcome.',
+ 'proposed btl': 'Knowledge',
+ 'question': '\n'
+             'In Cash book, what does favourable balance indicates?\n'
+             'A. Credit balance\n'
+             'B. Debit balance\n'
+             'C. Bank overdraft\n'
+             'D. Adjusted balance\n'
+             '\n'
+             'The correct option is: B\n',
+ 'unit_no': 4}
+-----------------------------------------------------------------------------
+{'CO': 'Formulate and implement financial strategies that align with a '
+       "company's overall goals and objectives.",
+ 'Rating': 2,
+ 'current btl': 'Comprehension',
+ 'justification': 'The given question only tests the basic knowledge of '
+                  'financial terminology and does not require any higher level '
+                  'of understanding or application. It does not align well '
+                  'with the specified course outcome of formulating and '
+                  'implementing financial strategies. The question is too '
+                  "basic and does not adequately assess the student's ability "
+                  'to meet the learning objective.',
+ 'proposed btl': 'Knowledge',
+ 'question': '\n'
+             'On the bank statement, what is the cash deposited by the company '
+             'will be called as?\n'
+             'A. Credit balance\n'
+             'B. Liability\n'
+             'C. Debit\n'
+             'D. Expenses\n'
+             '\n'
+             'The correct option is: A\n',
+ 'unit_no': 4}
+-----------------------------------------------------------------------------
+{'CO': 'Identify, assess, and manage financial risks, and ensure compliance '
+       'with relevant financial regulations and standards.',
+ 'Rating': 2,
+ 'current btl': 'Analysis',
+ 'justification': 'The given question tests the basic knowledge of bank '
+                  "reconciliation statements and what 'Deposit in transit' "
+                  'means. It does not require any analysis, application, or '
+                  'higher-level thinking skills. The question is not directly '
+                  'related to the specified course outcome of identifying, '
+                  'assessing, and managing financial risks, and ensuring '
+                  'compliance with financial regulations and standards. '
+                  'Therefore, the quality of the question in meeting the '
+                  'stated course outcome is low.',
+ 'proposed btl': 'Knowledge',
+ 'question': '\n'
+             'What is “Deposit in transit” in bank reconciliation?\n'
+             'A. Added to Bank Balance\n'
+             'B. Subtracted from Bank balance\n'
+             'C. Subtracted from cash book balance\n'
+             'D. Added to the cash book balance\n'
+             '\n'
+             'The correct option is: A\n',
+ 'unit_no': 4}
+-----------------------------------------------------------------------------
+{'CO': 'Apply various valuation methods to assess the worth of financial '
+       'assets, including stocks, bonds, and other securities, and understand '
+       'the principles of asset management.',
+ 'Rating': 2,
+ 'current btl': 'Comprehension',
+ 'justification': "The question simply asks for the meaning of 'NSF' marked on "
+                  'a returned cheque, which tests recall of factual '
+                  'information rather than comprehension, application, or '
+                  'higher-level thinking skills. It does not align well with '
+                  'the stated course outcome of applying valuation methods to '
+                  'assess the worth of financial assets. The question is more '
+                  'of a basic banking concept rather than related to asset '
+                  'valuation principles.',
+ 'proposed btl': 'Knowledge',
+ 'question': '\n'
+             'What does ‘NSF’ marked in cheque sent back by the bank '
+             'indicates?\n'
+             'A. Cheque has been forged\n'
+             "B. A bank couldn't verify the identity\n"
+             'C. Not sufficient funds\n'
+             "D. A cheque cannot be cashed because it's illegal\n"
+             '\n'
+             'The correct option is: C\n',
+ 'unit_no': 4}
+-----------------------------------------------------------------------------
+{'CO': 'Recommend decisions on financial, investment, dividend and working '
+       'capital management.',
+ 'Rating': 2,
+ 'current btl': 'Comprehension',
+ 'justification': 'The given MCQ tests basic factual knowledge about the '
+                  'composition of a bank reconciliation statement. It does not '
+                  'require comprehension, application, analysis, evaluation or '
+                  'synthesis skills. Moreover, the MCQ is not closely aligned '
+                  'with the specified course outcome of recommending decisions '
+                  'on financial, investment, dividend and working capital '
+                  'management. Knowing the facts about a bank reconciliation '
+                  'statement has limited relevance in meeting that outcome.',
+ 'proposed btl': 'Knowledge',
+ 'question': '\n'
+             'What is Bank reconciliation description composed of?\n'
+             'A. Bank Accountant\n'
+             'B. Business Manager\n'
+             'C. Business Accountant\n'
+             'D. Controller of the Bank\n'
+             '\n'
+             'The correct option is: C\n',
+ 'unit_no': 4}
+-----------------------------------------------------------------------------
+{'CO': 'Analyze and evaluate financial data to make informed decisions related '
+       'to investments, capital budgeting, and financing strategies, '
+       'considering risk and return.',
+ 'Rating': 3,
+ 'current btl': 'Analysis',
+ 'justification': 'The given MCQ tests the basic knowledge of what a Bank '
+                  'Reconciliation Statement compares with. It does not require '
+                  'any analysis or higher-order thinking skills to answer the '
+                  'question. The question is not directly related to the '
+                  'specified course outcome of analyzing and evaluating '
+                  'financial data for making informed decisions about '
+                  'investments, budgeting, and financing strategies while '
+                  'considering risk and return. Therefore, the quality of the '
+                  'MCQ in meeting the stated course outcome is low, hence the '
+                  'rating of 3 out of 10.',
+ 'proposed btl': 'Knowledge',
+ 'question': '\n'
+             'What does Bank reconciliation statement compares a bank '
+             'statement with?\n'
+             'A. Cash payment journal\n'
+             'B. Cash receipt journal\n'
+             'C. Financial statement\n'
+             'D. Cash Book\n'
+             '\n'
+             'The correct option is: D\n',
+ 'unit_no': 4}
+-----------------------------------------------------------------------------
+{'CO': 'Formulate and implement financial strategies that align with a '
+       "company's overall goals and objectives.",
+ 'Rating': 1,
+ 'current btl': 'Analysis',
+ 'justification': "The given MCQ tests the student's basic knowledge about the "
+                  'reasons for an unadjusted cash book balance. It does not '
+                  'align with the specified course outcome of formulating and '
+                  'implementing financial strategies. The question is at the '
+                  'lowest cognitive level of Knowledge, simply asking the '
+                  'student to recall facts, and does not involve any '
+                  'higher-order thinking skills like analysis, evaluation or '
+                  'synthesis that would be required to meet the given course '
+                  'outcome.',
+ 'proposed btl': 'Knowledge',
+ 'question': '\n'
+             'An unadjusted balance in cash book is because of the result of '
+             'which error?\n'
+             'A. Deposit in transit\n'
+             'B. The omission of bank charges\n'
+             'C. Outstanding cheques\n'
+             'D. Unpresented cheques\n'
+             '\n'
+             'The correct option is: B\n',
+ 'unit_no': 4}
+-----------------------------------------------------------------------------
+{'CO': 'Identify, assess, and manage financial risks, and ensure compliance '
+       'with relevant financial regulations and standards.',
+ 'Rating': 2,
+ 'current btl': 'Comprehension',
+ 'justification': 'The question tests only factual knowledge and does not '
+                  'require any higher level cognitive skills like '
+                  'comprehension, application or analysis. Additionally, the '
+                  'question is not closely aligned with the specified course '
+                  'outcome of identifying, assessing and managing financial '
+                  'risks and ensuring compliance with regulations. Knowing the '
+                  'alternate name for unpresented cheques is very low level '
+                  'knowledge that does not directly contribute to the stated '
+                  'course outcome.',
+ 'proposed btl': 'Knowledge',
+ 'question': '\n'
+             'What is the other name for Unpresented cheques ?\n'
+             'A. Bounced cheques\n'
+             'B. Outstanding cheques\n'
+             'C. Uncredited cheques\n'
+             'D. Uncollected cheques\n'
+             '\n'
+             'The correct option is: B\n',
+ 'unit_no': 4}
+-----------------------------------------------------------------------------

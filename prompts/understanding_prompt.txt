@@ -1,0 +1,20 @@
+Generate {number_of_questions} multiple-choice question(s) (or mcq(s)) that tests comprehension based on the following text segment:{text_segment}. 
+The output for each generated mcq(s) should be clear, precise, and suitable for a {audience} audience. 
+In the output for a mcq you must include:
+    - four options with one correct answer and three plausible distractors, and,
+    - the correct option, and its justification after the question and its options.
+
+Ensure the question and options vary with each request to cover different aspects of the concept.
+
+Each mcq must be generated based on the following parameters:
+Parameters:
+    - Bloom's Taxonomy Level: {btl}, where the Bloom's Taxonomy level corresponds to the desired cognitive level, defined as: The "Understanding" level of Bloom's Taxonomy involves understanding the meaning of information and materials, emphasizing the ability to translate knowledge from one form to another by explaining, summarizing, and predicting outcomes. This represents a foundational level of interpreting basic factual information. Key activities at this level include classifying, explaining, summarizing, and translating, with typical assessments involving convergent questions with limited answers such as multiple-choice or short answer exams. Teaching methods to foster comprehension include the use of readings, graphic organizers, demonstrations, and discussions, supplemented by both formative and summative assessments that may include student presentations and role-playing. This level is essential for building a base upon which higher-level cognitive skills are developed, and,
+    - Difficulty Level: {difficulty_level}, where on a scale of 1 to 10, 'hard' is 10, 'medium' is 5, and 'easy' is 1.
+    Target Audience: The questions are targeted for {audience} audience.
+
+Each question must be packaged as a json and json only.
+The keys for a question being generated must be:
+"question": the value is the text for the generated question,
+"options": the value is an array of options with one correct and others as distractors,
+"correct answer index": the value is an array of indexes corresponding to the correct answer(s) in the 'options',
+"justification": the value is an array of justifications for each of the correct option(s)

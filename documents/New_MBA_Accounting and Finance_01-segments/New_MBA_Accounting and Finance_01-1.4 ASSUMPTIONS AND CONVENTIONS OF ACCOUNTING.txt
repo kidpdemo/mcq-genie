@@ -1,0 +1,69 @@
+The owner and business are treated as two distinct entities and we record those viewpoint of business:
+
+ Separate Business Entity: According to this concept, a company is regarded a different entity from its owner (s). This assumption aids in keeping commercial transactions free of the impact of the owner’s personal affairs. For example, if a person begins a business with $200,000 in cash, this amount raises the cash balance at the point of business, while the owner is classified as a liability and is shown as owner’s capital on the liability side of the balance sheet. For this transaction, this journal entry is passed:
+
+Cash A/c
+
+Dr.
+
+2,00,000
+
+To Owner’s capita A/c
+
+2,00,000
+
+This concept is becoming more popular because in one sense capital itself may be regarded as a liability—the amount due from the business to the owner. This concept is applicable to the all forms of business organisations whether it is a limited company, partnership firm or a sole trader.
+
+ Going Concern Concept: It is a fundamental accounting assumption underlying the creation of financial statements, according to International Accounting Standards. “The enterprise is typically seen as a going concern, that is, as continuing in operation for the foreseeable future,” according to this assumption. To compute true profit, all assets are shown at cost price rather than market pricing, and depreciation is reported on cost price. The firm is assumed to have neither the intention nor the need to liquidate or drastically reduce the sale of its operations.” Under this assumption
+
+7
+
+JGI
+
+JDAE EMED-TOI- BEUNNIVERSITY
+
+Accounting and Finance
+
+the assets of the business are valued by the accountants on the basis of going concern concept, historical cost and expected life of the assets.
+
+ Money Measurement Concept: Money is medium to value quantities. As per this assumption, only those transactions of the business are recorded in the accounting which can be measured in money. Those transactions/activities of the business which cannot be measured in Note’s money are not recorded in accounting.
+
+ Accounting Period Assumption: The income of a firm might be measured at the time of liquidation or when the business is sold, according to the going concern principle. However, it is really difficult to wait for such a long period of time that is also uncertain. As a result, accountants have agreed that the economic life of a business is separated into several segments for the purpose of generating financial statements and calculating earnings. This period of time is usually one year, either a calendar year or a financial year. It may be less than a year at times, such as quarterly, half-yearly, or annually. Reports made for less than twelve months are called interim reports and are less reliable than annual reports. At the end of each segment (period) profit and loss account and balance sheet are prepared.
+
+The various rules for preparing financial statements are based on basic accounting assumptions and principles. If these financial statements are accurate and relevant, they will provide a wealth of information to the various users of financial statements. Accounting assumptions and principles must be changed in order to prepare honest and fair financial statements. These modified accounting principles are as follows:
+
+ Conservation (Prudence): According to the law of conservatism, while creating financial statements, all potential losses must be considered but all anticipated profits/gains must be excluded. In other words, the accounts must adhere to the “play it safe” guideline. Similarly, stock-in-trade is valued at the lower of “market price or cost,” and provisions for bad and doubtful debt, depreciation on fixed assets, and other items are kept. This notion is currently being attacked since it contradicts the principle of disclosure. The provision of bad and dubious debts, depreciation, and stock valuation are all used by accountants to construct a secret reserve. The genuine and unbiased view of the financial statements is lost. The profit and loss statement reflects lesser earnings, but the balance sheet understates the company’s assets and obligations.
+
+Prudence has supplanted conservatism as the law of the day. It suggests that conservatism is only used when there are unavoidable doubts and uncertainties. Accountants should also provide justifications for using specific accounting procedures, methods, and rules without being overly conservative.
+
+ Consistency: In order to enable the management to do the comparison of the results of the several years of the business, whatever accounting policy is adopted in a year, must be adopted in the coming years. There should be uniformity in accounting process, rules & methods. As a result, biasness of accountant is removed.
+
+According to Kohlar, there are three forms of consistency:
+
+(a) Vertical consistency is used in the different financial statements of the business on the same date. For instance, depreciation on fixed assets is used in the income statement and the balance sheet on the same date.
+
+(b) Horizontal consistency enables the comparison of the profit or performance of a business in a
+
+year with the performance of another year for example the depreciation methods.
+
+(c) Third Dimensional consistency refers to the same principles or practices of accounting adopted
+
+by the different firms in an industry.
+
+8
+
+UNIT 01: Introduction to Financial Accounting
+
+JGI
+
+JDAE EMED-TOI- BEUNNIVERSITY
+
+ Timeliness: Accounting information given in the financial statements must be reliable and relevant. In order to be relevant, this information must be supplied in time. If late and obsolete information is provided, it will hamper the management and the users of the financial statements to take appropriate, timely and rational decision.
+
+ Materiality: The term “materiality” refers to the fact that only that information should be reported and attached to financial statements that has an impact on the decisions of shareholders, investors, and creditors, and that all other details should be ignored. Furthermore, an item of knowledge may be relevant for one purpose but irrelevant for another. This is a matter of opinion. The cost of a component, for example, may be very important to a small businessman but trivial to a large businessman. In one more example, the Companies Act permits to ignore the paise at the time of preparation of financial statements while for the income tax purpose the income is rounded off to the nearest ten.
+
+ Cost-Benefit Principle: As per this principle, the cost of using an accounting principle should not exceed its benefits. It does not mean that to curtail the costs, no information or a little information should be given to the users of the financial statements.
+
+
+
+Industry Practice: In different industries, different accounting principles/practices are used. The current accounting procedures in a given industry should be kept in mind while generating financial reports and presenting accounting information. Disclosing investments and stock at cost or market price, whichever is lower, is an example. As a result, we can observe that the accounting techniques that are currently in use in a certain industry have a significant impact on the accounting methods that are adopted.

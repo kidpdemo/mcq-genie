@@ -1,0 +1,796 @@
+{'CO': 'Analyze and evaluate financial data to make informed decisions related '
+       'to investments, capital budgeting, and financing strategies, '
+       'considering risk and return.',
+ 'Rating': 4,
+ 'current btl': 'Analysis',
+ 'justification': "The given MCQ tests the student's ability to apply the "
+                  'concept of contribution, which is calculated by subtracting '
+                  'variable costs from sales. It does not require analysis or '
+                  'evaluation of financial data to make informed decisions '
+                  'related to investments, capital budgeting, or financing '
+                  'strategies. The question focuses on a straightforward '
+                  'calculation rather than a higher-level analysis. Therefore, '
+                  'the BTL level should be Application instead of Analysis. '
+                  'The MCQ only partially aligns with the specified course '
+                  'outcome, as it does not cover the full scope of analyzing '
+                  'and evaluating financial data for decision-making purposes.',
+ 'proposed btl': 'Application',
+ 'question': '\n'
+             'If Sales is 1,00,000 and Variable cost is 20,000 then Compute '
+             'Contribution.\n'
+             'A. 1,00,000\n'
+             'B. 20000\n'
+             'C. 1,20,000\n'
+             'D. 80000\n'
+             '\n'
+             'The correct option is: D\n',
+ 'unit_no': 9}
+-----------------------------------------------------------------------------
+{'CO': 'Formulate and implement financial strategies that align with a '
+       "company's overall goals and objectives.",
+ 'Rating': 8,
+ 'current btl': 'Comprehension',
+ 'justification': 'The given question requires the student to evaluate the '
+                  'different objectives of an enterprise and determine the '
+                  "most appropriate one. This aligns with the 'Evaluation' "
+                  "level of Bloom's Taxonomy, as it involves making judgments "
+                  'based on criteria and standards. The question is of good '
+                  'quality in terms of meeting the specified course outcome, '
+                  "as it assesses the student's ability to identify and "
+                  "prioritize financial strategies that align with a company's "
+                  'overall goals. However, to further improve the question, '
+                  'more context could be provided about the specific company '
+                  'and its situation to make the evaluation more '
+                  'comprehensive.',
+ 'proposed btl': 'Evaluation',
+ 'question': '\n'
+             'Which is the appropriate objective of an enterprise?\n'
+             'A. Profit maximisaton\n'
+             'B. Wealth maximisation\n'
+             'C. Dividend decision\n'
+             'D. Cost minimization\n'
+             '\n'
+             'The correct option is: B\n',
+ 'unit_no': 9}
+-----------------------------------------------------------------------------
+{'CO': 'Identify, assess, and manage financial risks, and ensure compliance '
+       'with relevant financial regulations and standards.',
+ 'Rating': 4,
+ 'current btl': 'Analysis',
+ 'justification': 'The given MCQ only tests the recall of the definition of '
+                  "stockholder's current wealth of a firm. It does not require "
+                  'any higher-order thinking skills such as analysis, '
+                  'evaluation, or synthesis. The MCQ is not directly related '
+                  'to the specified course outcome of identifying, assessing, '
+                  'and managing financial risks, and ensuring compliance with '
+                  'financial regulations and standards. Therefore, the quality '
+                  'of the MCQ in meeting the specified course outcome is '
+                  'relatively low, warranting a rating of 4 out of 10.',
+ 'proposed btl': 'Knowledge',
+ 'question': '\n'
+             "How is stockholder's current wealth of a firm measured?\n"
+             'A. Maximum market price X Number of shares \n'
+             'B. Revenue X Market price\n'
+             'C. Cost x Capital\n'
+             'D. Number of shares owned X Current stock price\n'
+             '\n'
+             'The correct option is: D\n',
+ 'unit_no': 9}
+-----------------------------------------------------------------------------
+{'CO': 'Apply various valuation methods to assess the worth of financial '
+       'assets, including stocks, bonds, and other securities, and understand '
+       'the principles of asset management.',
+ 'current btl': 'Analysis',
+ 'justification': 'The question requires understanding of the different types '
+                  'of financial decisions and identifying which decision is '
+                  'related to determining the total number of assets to be '
+                  'held by the firm. This falls under the Comprehension level '
+                  "of Bloom's Taxonomy. The question does not require "
+                  'application, analysis, evaluation or synthesis of the '
+                  'concepts, so the current BTL of Analysis is higher than the '
+                  'appropriate level. The question partially aligns with the '
+                  'course outcome of understanding asset management '
+                  'principles, but does not cover the application of valuation '
+                  'methods to assess the worth of financial assets. Therefore, '
+                  'a rating of 6 out of 10 is given.',
+ 'proposed btl': 'Comprehension',
+ 'question': '\n'
+             'Which decision is related to determination of total number of '
+             'assets to be held in the firm?\n'
+             'A. Financing decisions\n'
+             'B. Investment decisions\n'
+             'C. Dividend decisions\n'
+             'D. Working capital decisions\n'
+             '\n'
+             'The correct option is: B\n',
+ 'rating': 6,
+ 'unit_no': 9}
+-----------------------------------------------------------------------------
+{'CO': 'Recommend decisions on financial, investment, dividend and working '
+       'capital management.',
+ 'Rating': 7,
+ 'current btl': 'Analysis',
+ 'justification': 'The question tests the understanding of different types of '
+                  'financial decisions and the ability to classify them '
+                  'correctly. It does not involve any higher-order thinking '
+                  'skills such as analysis, evaluation, or synthesis. The '
+                  'question is of good quality in terms of testing the '
+                  'comprehension of financial decision-making, which is a part '
+                  'of the specified course outcome. However, it does not test '
+                  'the ability to recommend decisions, which is a higher-level '
+                  'skill.',
+ 'proposed btl': 'Comprehension',
+ 'question': '\n'
+             'Finding the overall capital structure of a firm is related to '
+             'which decision?\n'
+             'A. Financing decisions\n'
+             'B. Investment decisions\n'
+             'C. Dividend decisions\n'
+             'D. Working capital decisions\n'
+             '\n'
+             'The correct option is: A\n',
+ 'unit_no': 9}
+-----------------------------------------------------------------------------
+{'CO': 'Analyze and evaluate financial data to make informed decisions related '
+       'to investments, capital budgeting, and financing strategies, '
+       'considering risk and return.',
+ 'Rating': 2,
+ 'current btl': 'Application',
+ 'justification': 'The given MCQ tests basic recall of knowledge about '
+                  'accounting principles. It does not involve any application, '
+                  'analysis or evaluation of financial data to make informed '
+                  'decisions related to investments, capital budgeting or '
+                  'financing strategies. The MCQ is testing a foundational '
+                  'concept rather than the specified higher-level course '
+                  'outcome. To better align with the stated outcome, the MCQ '
+                  'should present a scenario requiring analysis and evaluation '
+                  'of financial data to make a decision while considering risk '
+                  'and return factors.',
+ 'proposed btl': 'Knowledge',
+ 'question': '\n'
+             'The loyalty of workers being intangible cannot be quantified, '
+             "and thus the same can find no place in the books of accounts', "
+             'This is an example of which accounting principle?\n'
+             'A. Money measurement concept\n'
+             'B. Separate Business Entity\n'
+             'C. Cost concept\n'
+             'D. Matching concept\n'
+             '\n'
+             'The correct option is: A\n',
+ 'unit_no': 9}
+-----------------------------------------------------------------------------
+{'CO': 'Formulate and implement financial strategies that align with a '
+       "company's overall goals and objectives.",
+ 'Rating': 2,
+ 'current btl': 'Application',
+ 'justification': 'The given question only tests the basic knowledge of '
+                  'accounting conventions. It does not require any application '
+                  'skills. Moreover, the question is not closely aligned with '
+                  'the specified course outcome of formulating and '
+                  'implementing financial strategies. To better meet the '
+                  'course outcome, the question should be framed in a way that '
+                  "tests the student's ability to apply the concept of "
+                  'conservatism in making financial decisions or in developing '
+                  'financial strategies.',
+ 'proposed btl': 'Knowledge',
+ 'question': '\n'
+             'Which accounting convention states that the accountants must '
+             'follow the policy of \'\'playing safe" while recording business '
+             'transactions and events?\n'
+             'A. Conservatism\n'
+             'B. Materiality\n'
+             'C. Consistency\n'
+             'D. Disclosure\n'
+             '\n'
+             'The correct option is: A\n',
+ 'unit_no': 9}
+-----------------------------------------------------------------------------
+{'CO': 'Analyze and evaluate financial data to make informed decisions related '
+       'to investments, capital budgeting, and financing strategies, '
+       'considering risk and return.',
+ 'Rating': 2,
+ 'current btl': 'Application',
+ 'justification': 'The question is testing the basic knowledge of the purpose '
+                  'of preparing a Profit and Loss account. It does not require '
+                  'any analysis or evaluation of financial data to make '
+                  'informed decisions related to investments, capital '
+                  'budgeting, or financing strategies. The question is not '
+                  'aligned with the specified course outcome and hence '
+                  'receives a low rating of 2 out of 10.',
+ 'proposed btl': 'Knowledge',
+ 'question': '\n'
+             'Why is a Profit and Loss account prepared in an accounting '
+             'period?\n'
+             'A. To ascertain Net Profits only\n'
+             'B. To ascertain Net Profit/Loss\n'
+             'C. To ascertain Gross Profit only\n'
+             'D. To ascertain Gross profit/loss\n'
+             '\n'
+             'The correct option is: B\n',
+ 'unit_no': 10}
+-----------------------------------------------------------------------------
+{'CO': 'Formulate and implement financial strategies that align with a '
+       "company's overall goals and objectives.",
+ 'Rating': 2,
+ 'current btl': 'Application',
+ 'justification': 'The given MCQ tests basic knowledge of the purpose of '
+                  'preparing a Trading account. It does not require '
+                  'application of any concepts or strategies related to '
+                  'formulating and implementing financial strategies aligned '
+                  'with company goals, which is the specified course outcome. '
+                  'The MCQ is at a lower cognitive level compared to the '
+                  'expected outcome.',
+ 'proposed btl': 'Knowledge',
+ 'question': '\n'
+             'Why is a Trading account prepared in an accounting period?\n'
+             'A. To ascertain Net Profit only\n'
+             'B. To ascertain Net Profit/Loss\n'
+             'C. To ascertain Gross Profit only\n'
+             'D. To ascertain Gross profit/loss\n'
+             '\n'
+             'The correct option is: D\n',
+ 'unit_no': 10}
+-----------------------------------------------------------------------------
+{'CO': 'Identify, assess, and manage financial risks, and ensure compliance '
+       'with relevant financial regulations and standards.',
+ 'Rating': 3,
+ 'current btl': 'Comprehension',
+ 'justification': 'The question only tests recall of basic facts about bank '
+                  'reconciliation statements, which falls under the Knowledge '
+                  "level of Bloom's Taxonomy. It does not sufficiently test "
+                  'higher level skills related to identifying, assessing and '
+                  'managing financial risks or ensuring compliance with '
+                  'financial regulations and standards as specified in the '
+                  'course outcome.',
+ 'proposed btl': 'Knowledge',
+ 'question': '\n'
+             'What do we compare with bank statement in a Bank reconciliation '
+             'statement?\n'
+             'A. Cash payment journal\n'
+             'B. Cash receipt journal\n'
+             'C. Financial statements\n'
+             'D. Cash book\n'
+             '\n'
+             'The correct option is: D\n',
+ 'unit_no': 10}
+-----------------------------------------------------------------------------
+{'CO': 'Apply various valuation methods to assess the worth of financial '
+       'assets, including stocks, bonds, and other securities, and understand '
+       'the principles of asset management.',
+ 'Rating': 4,
+ 'current btl': 'Comprehension',
+ 'justification': 'The question only tests the basic knowledge of the main '
+                  'categories of accounting ratios. It does not require any '
+                  'deeper understanding, application, analysis, evaluation or '
+                  'synthesis of the concepts related to asset valuation '
+                  'methods or principles of asset management, which is the '
+                  'specified course outcome. The question is not closely '
+                  'aligned with assessing the stated course outcome.',
+ 'proposed btl': 'Knowledge',
+ 'question': '\n'
+             'Accounting ratios are divided into four main categories. Which '
+             'one of the following was not included in it?\n'
+             'A. Liquidity ratios\n'
+             'B. solvency ratios\n'
+             'C. control ratios\n'
+             'D. profitability ratios\n'
+             '\n'
+             'The correct option is: C\n',
+ 'unit_no': 10}
+-----------------------------------------------------------------------------
+{'CO': 'Recommend decisions on financial, investment, dividend and working '
+       'capital management.',
+ 'Rating': 6,
+ 'current btl': 'Comprehension',
+ 'justification': 'The question is testing the basic knowledge of financial '
+                  'ratios, specifically the current ratio which measures the '
+                  'relationship between current assets and current '
+                  'liabilities. It does not require a deeper understanding, '
+                  'application, analysis, evaluation or synthesis of the '
+                  'concept. The question is of decent quality in assessing the '
+                  'knowledge of financial ratios but does not comprehensively '
+                  'test the ability to recommend decisions on financial, '
+                  'investment, dividend and working capital management as per '
+                  'the specified course outcome.',
+ 'proposed btl': 'Knowledge',
+ 'question': '\n'
+             'Which ratio explains the relationship between current assets and '
+             'current liabilities?\n'
+             'A. Current ratio\n'
+             'B. Quick ratio\n'
+             'C. Inventory turnover ratio\n'
+             'D. Working capital turnover\n'
+             '\n'
+             'The correct option is: A\n',
+ 'unit_no': 10}
+-----------------------------------------------------------------------------
+{'CO': 'Analyze and evaluate financial data to make informed decisions related '
+       'to investments, capital budgeting, and financing strategies, '
+       'considering risk and return.',
+ 'Rating': 4,
+ 'current btl': 'Analysis',
+ 'justification': 'The given MCQ tests the basic knowledge of financial '
+                  'ratios, specifically the Debtors Turnover Ratio. It does '
+                  'not require any higher-level cognitive skills such as '
+                  'analysis, evaluation, or synthesis of financial data to '
+                  'make informed decisions. The question simply asks for the '
+                  'identification of the ratio used to calculate the speed of '
+                  'collections from debtors and receivables. Therefore, the '
+                  "current BTL level of 'Analysis' is too high for this MCQ, "
+                  "and it should be assigned the BTL level of 'Knowledge'. As "
+                  'the MCQ does not effectively assess the given course '
+                  'outcome of analyzing and evaluating financial data for '
+                  'decision-making, considering risk and return, it is given a '
+                  'relatively low rating of 4 out of 10.',
+ 'proposed btl': 'Knowledge',
+ 'question': '\n'
+             'Which ratio is known to calculate the speed at which the '
+             'collections are done from sundry debtors and receivables?\n'
+             'A. Inventory turnover ratio\n'
+             'B. Working capital turnover\n'
+             'C. Quick ratio\n'
+             'D. Debtors turnover ratio\n'
+             '\n'
+             'The correct option is: D\n',
+ 'unit_no': 10}
+-----------------------------------------------------------------------------
+{'CO': 'Formulate and implement financial strategies that align with a '
+       "company's overall goals and objectives.",
+ 'Rating': 6,
+ 'current btl': 'Analysis',
+ 'justification': 'The question requires applying the formula for Working '
+                  'Capital Turnover Ratio using the given financial data. It '
+                  "aligns with the Application level of Bloom's Taxonomy. The "
+                  'question partially addresses the course outcome of '
+                  'formulating financial strategies by testing the ability to '
+                  'calculate a key financial ratio. However, it does not '
+                  'comprehensively assess the implementation of financial '
+                  'strategies or their alignment with overall company goals '
+                  'and objectives.',
+ 'proposed btl': 'Application',
+ 'question': '\n'
+             'From the following information, calculate Working Capital '
+             'Turnover Ratio: Cost of Revenue from Operations (Cost of Goods '
+             'Sold) Rs.20,00,000, Current Assets Rs. 10,00,000, Current '
+             'Liabilities Rs.6,00,000\n'
+             'A. 1 times\n'
+             'B. 3 times\n'
+             'C. 5 times\n'
+             'D. 7 times\n'
+             '\n'
+             'The correct option is: C\n',
+ 'unit_no': 10}
+-----------------------------------------------------------------------------
+{'CO': 'Analyze and evaluate financial data to make informed decisions related '
+       'to investments, capital budgeting, and financing strategies, '
+       'considering risk and return.',
+ 'current btl': 'Comprehension',
+ 'justification': 'The question tests the basic knowledge of financial terms '
+                  'and concepts, specifically the definition of compounding. '
+                  'It does not require higher-level thinking skills such as '
+                  'analysis or evaluation to answer the question correctly. '
+                  'While the question is related to the course outcome of '
+                  'analyzing and evaluating financial data, it does not '
+                  "directly test the student's ability to perform these tasks "
+                  'in the context of investments, capital budgeting, or '
+                  'financing strategies. Therefore, the question receives a '
+                  'moderate rating of 5 out of 10 in terms of its alignment '
+                  'with the stated course outcome.',
+ 'proposed btl': 'Knowledge',
+ 'question': '\n'
+             'What is the technique under which a future sum of money is '
+             'calculated for a given period of time at a specified rate of '
+             'return?\n'
+             'A. Discounting\n'
+             'B. Compounding\n'
+             'C. Both discounting and compounding\n'
+             'D. Neither discounting or compounding\n'
+             '\n'
+             'The correct option is: B\n',
+ 'rating': 5,
+ 'unit_no': 11}
+-----------------------------------------------------------------------------
+{'CO': 'Formulate and implement financial strategies that align with a '
+       "company's overall goals and objectives.",
+ 'Rating': 6,
+ 'current btl': 'Analysis',
+ 'justification': 'The given question tests the ability to apply the formula '
+                  'for calculating future value of a sum, which aligns with '
+                  "the Application level of Bloom's Taxonomy. However, the "
+                  'question does not fully align with the specified course '
+                  'outcome of formulating and implementing financial '
+                  'strategies. While calculating future value is a component '
+                  'of financial planning, the question does not test the '
+                  'higher-level skills of formulating and implementing '
+                  'comprehensive financial strategies that align with a '
+                  "company's goals. Therefore, the rating is a 6 out of 10.",
+ 'proposed btl': 'Application',
+ 'question': '\n'
+             'Calculate the future value of a sum of Rs 1,000 if it is '
+             'invested at 8% interest for a period of one year\n'
+             'A. 1000\n'
+             'B. 1080\n'
+             'C. 1800\n'
+             'D. 1808\n'
+             '\n'
+             'The correct option is: B\n',
+ 'unit_no': 11}
+-----------------------------------------------------------------------------
+{'CO': 'Identify, assess, and manage financial risks, and ensure compliance '
+       'with relevant financial regulations and standards.',
+ 'Rating': 7,
+ 'current btl': 'Analysis',
+ 'justification': "The given MCQ tests the student's ability to apply the "
+                  'concept of future value calculation, which is an '
+                  'application-level skill. The question provides the '
+                  'necessary information and requires the student to calculate '
+                  'the future value using the appropriate formula. While the '
+                  'MCQ aligns with the course outcome of assessing and '
+                  'managing financial risks, it does not fully test the '
+                  'higher-level skills of analysis, evaluation, or synthesis. '
+                  'Therefore, a rating of 7 out of 10 is assigned.',
+ 'proposed btl': 'Application',
+ 'question': '\n'
+             'Calculate the future value of a sum of Rs 1,000 if it is '
+             'invested for a year with compounding period semi annually at the '
+             'rate of interest 10%.\n'
+             'A. 1102\n'
+             'B. 902\n'
+             'C. 802\n'
+             'D. 702\n'
+             '\n'
+             'The correct option is: A\n',
+ 'unit_no': 11}
+-----------------------------------------------------------------------------
+{'CO': 'Apply various valuation methods to assess the worth of financial '
+       'assets, including stocks, bonds, and other securities, and understand '
+       'the principles of asset management.',
+ 'Rating': 6,
+ 'current btl': 'Analysis',
+ 'justification': 'The question requires applying the concept of compound '
+                  'interest to determine the number of years it would take to '
+                  'double an investment at a given interest rate. This aligns '
+                  "with the 'Application' level of Bloom's Taxonomy. The "
+                  'question is of moderate quality in meeting the specified '
+                  "course outcome, as it tests the student's ability to apply "
+                  'a valuation method (compound interest) to assess the growth '
+                  'of a financial asset. However, it does not directly address '
+                  'the assessment of stocks, bonds, or other securities, or '
+                  'the broader principles of asset management.',
+ 'proposed btl': 'Application',
+ 'question': '\n'
+             'In how many years a sum will be doubled if it is invested at 8%\n'
+             'A. 7\n'
+             'B. 8\n'
+             'C. 9\n'
+             'D. 10\n'
+             '\n'
+             'The correct option is: C\n',
+ 'unit_no': 11}
+-----------------------------------------------------------------------------
+{'CO': 'Recommend decisions on financial, investment, dividend and working '
+       'capital management.',
+ 'Rating': 4,
+ 'current btl': 'Comprehension',
+ 'justification': "The question only tests the student's ability to recall the "
+                  'approach used for discounting techniques, which falls under '
+                  "the Knowledge level of Bloom's Taxonomy. It does not "
+                  "effectively assess the student's ability to recommend "
+                  'decisions on financial, investment, dividend, and working '
+                  'capital management, which would require higher-order '
+                  'thinking skills such as Analysis, Evaluation, or Synthesis. '
+                  'To better align with the course outcome, the question '
+                  'should be reformed to present a scenario where the student '
+                  'must apply their knowledge of discounting techniques to '
+                  'make a recommendation or decision.',
+ 'proposed btl': 'Knowledge',
+ 'question': '\n'
+             'What is the approach followed for discounting techniques?\n'
+             'A. Forward approach\n'
+             'B. Backward approach\n'
+             'C. Both forward and backward\n'
+             'D. neither forward and backward\n'
+             '\n'
+             'The correct option is: B\n',
+ 'unit_no': 11}
+-----------------------------------------------------------------------------
+{'CO': 'Analyze and evaluate financial data to make informed decisions related '
+       'to investments, capital budgeting, and financing strategies, '
+       'considering risk and return.',
+ 'Rating': 3,
+ 'current btl': 'Comprehension',
+ 'justification': 'The given MCQ requires analyzing different decision options '
+                  'related to capital budgeting and determining which one '
+                  'relates to the situation of having many profitable '
+                  'proposals but limited resources. This aligns with the '
+                  "'Analysis' level of Bloom's Taxonomy. However, the MCQ does "
+                  "not effectively assess the student's ability to evaluate "
+                  'financial data and make informed decisions considering risk '
+                  'and return, as stated in the course outcome. The options '
+                  'provided are also not comprehensive enough to fully test '
+                  'the analytical skills required. Therefore, the quality of '
+                  'the MCQ in meeting the specified course outcome is rated as '
+                  '3 out of 10.',
+ 'proposed btl': 'Analysis',
+ 'question': '\n'
+             'Which decision relate to the many profitable proposal?\n'
+             'A. Accept decision\n'
+             'B. Mutually Exclusive\n'
+             'C. Capital Rationing\n'
+             'D. Reject decision\n'
+             '\n'
+             'The correct option is: C\n',
+ 'unit_no': 11}
+-----------------------------------------------------------------------------
+{'CO': 'Formulate and implement financial strategies that align with a '
+       "company's overall goals and objectives.",
+ 'Rating': 4,
+ 'current btl': 'Comprehension',
+ 'justification': "The given question only tests the student's ability to "
+                  'recall the traditional method of capital budgeting from the '
+                  'provided options. It does not require any deeper '
+                  'understanding, application or analysis of the concepts. To '
+                  'better align with the specified course outcome of '
+                  'formulating and implementing financial strategies, the '
+                  'question should be framed to test higher order thinking '
+                  'skills like application of capital budgeting methods in a '
+                  'practical scenario, analyzing pros and cons of different '
+                  'methods, or evaluating the suitability of a method in a '
+                  'given context. In its current form, the question is too '
+                  'basic to effectively assess the stated learning outcome.',
+ 'proposed btl': 'Knowledge',
+ 'question': '\n'
+             'Which of the following is the traditional method of capital '
+             'budgeting?\n'
+             'A. NPV\n'
+             'B. IRR\n'
+             'C. PI\n'
+             'D. Payback Period\n'
+             '\n'
+             'The correct option is: D\n',
+ 'unit_no': 11}
+-----------------------------------------------------------------------------
+{'CO': 'Identify, assess, and manage financial risks, and ensure compliance '
+       'with relevant financial regulations and standards.',
+ 'Rating': 6,
+ 'current btl': 'Analysis',
+ 'justification': 'The question requires the student to apply the formula for '
+                  'calculating payback period and perform the necessary '
+                  'calculations to arrive at the correct answer. While it does '
+                  'involve some level of analysis, the primary focus is on '
+                  'applying a learned concept to a given problem. The question '
+                  'partially aligns with the specified course outcome of '
+                  'managing financial risks, as payback period is a tool used '
+                  'in assessing the risk and viability of investments. '
+                  'However, it does not comprehensively cover the entire scope '
+                  'of the outcome, which includes risk assessment, management, '
+                  'and compliance with regulations and standards.',
+ 'proposed btl': 'Application',
+ 'question': '\n'
+             "Calculate Payback Period. A project's initial cost outlay is "
+             '100,000\n'
+             ' Cash inflows – 1 – 10000; 2 – 30000 ; 3 – 40000; 4 – 20000 ; 5 '
+             '– 40000\n'
+             'A. 4\n'
+             'B. 5\n'
+             'C. 2\n'
+             'D. 3\n'
+             '\n'
+             'The correct option is: A\n',
+ 'unit_no': 11}
+-----------------------------------------------------------------------------
+{'CO': 'Analyze and evaluate financial data to make informed decisions related '
+       'to investments, capital budgeting, and financing strategies, '
+       'considering risk and return.',
+ 'Rating': 7,
+ 'current btl': 'Analysis',
+ 'justification': 'The given MCQ requires the student to apply the concept of '
+                  'earnings available to equity shareholders by using the '
+                  'provided financial information. It involves performing '
+                  'calculations using the given data to arrive at the correct '
+                  'answer. While the question does involve some level of '
+                  "analysis, it primarily tests the student's ability to apply "
+                  'the relevant formula or concept to solve the problem. '
+                  'Therefore, the BTL level of Application is more appropriate '
+                  'for this MCQ. The question is of good quality in terms of '
+                  "testing the student's understanding and application of the "
+                  'concept, aligning with the specified course outcome of '
+                  'analyzing financial data to make informed decisions. '
+                  'However, to further improve the rating, the question could '
+                  'provide more context or a more complex scenario to test '
+                  'higher-level analytical skills.',
+ 'proposed btl': 'Application',
+ 'question': '\n'
+             'A company expects a net income of Rs 80,000. it has Rs 2,00,000, '
+             '8% debentures. The equity capitalization rate is 10%. Determine '
+             'Earnings available to Equity Shareholder.\n'
+             'A. 80000\n'
+             'B. 16000\n'
+             'C. 96000\n'
+             'D. 64000\n'
+             '\n'
+             'The correct option is: D\n',
+ 'unit_no': 12}
+-----------------------------------------------------------------------------
+{'CO': 'Formulate and implement financial strategies that align with a '
+       "company's overall goals and objectives.",
+ 'Rating': 6,
+ 'current btl': 'Analysis',
+ 'justification': 'The given question requires the student to apply the '
+                  'formula for calculating the overall cost of capital using '
+                  'the provided values of EBIT, sales, and debt. This aligns '
+                  "with the Application level of Bloom's Taxonomy. The "
+                  'question partially addresses the course outcome of '
+                  'formulating and implementing financial strategies, as it '
+                  'focuses on a specific financial calculation rather than the '
+                  'broader strategic decision-making process. Therefore, a '
+                  'rating of 6 out of 10 is given.',
+ 'proposed btl': 'Application',
+ 'question': '\n'
+             'If EBIT is RS 80,000; S = 6,40,000; D = 2,00,000; Compute '
+             'Overall cost of capital.\n'
+             'A. 0.0952\n'
+             'B. 0.1052\n'
+             'C. 0.0852\n'
+             'D. 0.0752\n'
+             '\n'
+             'The correct option is: A\n',
+ 'unit_no': 12}
+-----------------------------------------------------------------------------
+{'CO': 'Identify, assess, and manage financial risks, and ensure compliance '
+       'with relevant financial regulations and standards.',
+ 'Rating': 2,
+ 'current btl': 'Analysis',
+ 'justification': 'The given MCQ tests the ability to apply the formula for '
+                  'operating leverage (OL) using the provided values of '
+                  'contribution and EBIT. It does not involve analyzing or '
+                  'evaluating financial risks or ensuring compliance with '
+                  'regulations, which are the key aspects of the given course '
+                  'outcome. The question is more focused on performing a '
+                  'calculation using a specific formula rather than directly '
+                  'addressing the broader concepts mentioned in the course '
+                  'outcome.',
+ 'proposed btl': 'Application',
+ 'question': '\n'
+             'If contribution = 2,83,000; EBIT = 2,08,000; Compute OL\n'
+             'A. 2.36\n'
+             'B. 3.36\n'
+             'C. 4.36\n'
+             'D. 1.36\n'
+             '\n'
+             'The correct option is: D\n',
+ 'unit_no': 12}
+-----------------------------------------------------------------------------
+{'CO': 'Apply various valuation methods to assess the worth of financial '
+       'assets, including stocks, bonds, and other securities, and understand '
+       'the principles of asset management.',
+ 'Rating': 5,
+ 'current btl': 'Analysis',
+ 'justification': 'The given question tests the understanding of the concept '
+                  'of break-even point, which is a fundamental concept in '
+                  'financial analysis. However, it does not require the '
+                  'application of valuation methods or asset management '
+                  'principles, which are the key aspects of the specified '
+                  'course outcome. Therefore, while the question is relevant '
+                  'to financial analysis, it does not fully align with the '
+                  'stated course outcome.',
+ 'proposed btl': 'Comprehension',
+ 'question': '\n'
+             'What is the level at which cost of production is equal to the '
+             'sales?\n'
+             'A. Profit\n'
+             'B. Loss\n'
+             'C. Break Even\n'
+             'D. Profit & Loss\n'
+             '\n'
+             'The correct option is: C\n',
+ 'unit_no': 12}
+-----------------------------------------------------------------------------
+{'CO': 'Apply various valuation methods to assess the worth of financial '
+       'assets, including stocks, bonds, and other securities, and understand '
+       'the principles of asset management.',
+ 'Rating': 8,
+ 'current btl': 'Analysis',
+ 'justification': 'The question requires the student to apply the concept of '
+                  'after-tax cost of debt to a given scenario. They need to '
+                  'use the provided information about the perpetual debt, tax '
+                  'rate, and premium to calculate the correct after-tax cost '
+                  'of capital. This aligns well with the course outcome of '
+                  'applying valuation methods to assess the worth of financial '
+                  'assets. The question is well-structured and tests the '
+                  "student's ability to apply the relevant formula in a "
+                  'practical context.',
+ 'proposed btl': 'Application',
+ 'question': '\n'
+             'A company has 10% perpetual debt of Rs. 1,00,000. the tax rate '
+             'is 35%. which one of the following is the after tax cost of '
+             'capital assuming that the debt is issued at 10% premium?\n'
+             'A. 0.1\n'
+             'B. 0.0591\n'
+             'C. 0.065\n'
+             'D. 0.0722\n'
+             '\n'
+             'The correct option is: B\n',
+ 'unit_no': 12}
+-----------------------------------------------------------------------------
+{'CO': 'Analyze and evaluate financial data to make informed decisions related '
+       'to investments, capital budgeting, and financing strategies, '
+       'considering risk and return.',
+ 'Rating': 5,
+ 'current btl': 'Analysis',
+ 'justification': 'The question requires applying the formula for operating '
+                  'leverage using the given financial data. It does not '
+                  'involve analyzing or evaluating the financial data to make '
+                  'informed decisions related to investments, capital '
+                  'budgeting, or financing strategies. Therefore, the current '
+                  'BTL of Analysis is higher than the appropriate level of '
+                  'Application for this question. The question partially meets '
+                  'the specified course outcome, as it only tests the '
+                  'application of a specific concept rather than a '
+                  'comprehensive analysis and evaluation of financial data.',
+ 'proposed btl': 'Application',
+ 'question': '\n'
+             'If EBIT = Rs. 1,00,000, Current Assets = Rs. 2,00,000, Sales = '
+             'Rs. 10,00,000 and Variable Cost = Rs. 7,00,000. What shall be '
+             'the Operating Leverage?\n'
+             'A. 2\n'
+             'B. 3\n'
+             'C. 6\n'
+             'D. 4\n'
+             '\n'
+             'The correct option is: B\n',
+ 'unit_no': 12}
+-----------------------------------------------------------------------------
+{'CO': 'Formulate and implement financial strategies that align with a '
+       "company's overall goals and objectives.",
+ 'Rating': 5,
+ 'current btl': 'Application',
+ 'justification': 'The given question tests the understanding of a specific '
+                  'concept related to capital structure decisions, which falls '
+                  "under the Comprehension level of Bloom's Taxonomy. The "
+                  'question does not require the application of the concept to '
+                  'solve a problem or analyze a situation. The rating of 5 is '
+                  'given because while the question tests the understanding of '
+                  'an important concept related to financial strategies, it '
+                  'does not directly address the formulation and '
+                  'implementation of these strategies in alignment with a '
+                  "company's overall goals and objectives.",
+ 'proposed btl': 'Comprehension',
+ 'question': '\n'
+             'What is the important assumption under Net Income Approach ( '
+             'capital structure decisions) ?\n'
+             'A. Change in leverage impacts overall cost of capital\n'
+             'B. Change in leverage is irrelevant to the cost of capital\n'
+             'C. Change in leverage impacts cost of capital marginally\n'
+             'D. Change in leverage and Cost of Capital have no correlation '
+             'and not interdependent\n'
+             '\n'
+             'The correct option is: A\n',
+ 'unit_no': 12}
+-----------------------------------------------------------------------------
+{'CO': 'Identify, assess, and manage financial risks, and ensure compliance '
+       'with relevant financial regulations and standards.',
+ 'Rating': 3,
+ 'current btl': 'Comprehension',
+ 'justification': 'The question only tests the basic knowledge of what a '
+                  'financially unlevered firm is, and does not require any '
+                  'deeper understanding, application, analysis, evaluation or '
+                  'synthesis related to financial risk management or '
+                  'compliance with financial regulations and standards, which '
+                  'are the key aspects of the given course outcome. Therefore, '
+                  'the question is not well-aligned with the specified course '
+                  'outcome, resulting in a low rating of 3 out of 10.',
+ 'proposed btl': 'Knowledge',
+ 'question': '\n'
+             'A firm is said to be financially unlevered firm if the firm '
+             'has?\n'
+             'A. only debts in its capital structure\n'
+             'B. only owner‘s equity in its capital structure\n'
+             "C. both external equity and owner's equity in its capital "
+             'structure along with Debts\n'
+             'D. only equity share capital in its capital structure and no '
+             'debts\n'
+             '\n'
+             'The correct option is: D\n',
+ 'unit_no': 12}
+-----------------------------------------------------------------------------

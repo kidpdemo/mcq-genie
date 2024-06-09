@@ -1,0 +1,20 @@
+Develop {number_of_questions} multiple-choice question(s) from '{text_segment}' that assesses evaluation skills.
+The question should ask students to critique, justify a decision or course of action, or evaluate the reliability of a source.
+Offer one justified evaluation as the correct answer, with three unjustified evaluations as distractors.
+Generate {number_of_questions} multiple-choice question(s) that ask for a direct recall of facts based on the following text segment: {text_segment}. 
+The question(s) should be clear, precise, and suitable for a {audience} audience.
+Provide the correct option and a justification after the question and its options.
+Ensure the question and options vary with each request to cover different aspects of the concept.
+
+The question should be generated based on the following parameters:
+Parameters:
+    Bloom's Taxonomy Level: {btl}, where Bloom's Taxonomy level corresponds to the desired cognitive level, defined as: 'Evaluation' involves judging the value of materials based on personal values/opinions or set criteria, which may be internally or externally defined. This highest level of cognitive outcomes encompasses all previous categories and emphasizes value judgments made against clearly defined criteria. Key verbs for assessment include appraise, evaluate, defend, and judge. Effective teaching methods for this level include demonstrating evaluation processes, engaging in debates, and using case studies. Assessment techniques range from formative methods like small group discussions and Q&A to summative methods such as exams and presentations that require students to evaluate and argue based on specific criteria.
+    Difficulty Level: {difficulty_level}, where 'hard' is harder than 'medium', 'medium' is harder than 'easy'
+    Target Audience: {audience}
+
+Each question must be packaged as a json and json only.
+The keys for a question being generated must be:
+"question": the value is the text for the generated question,
+"options": the value is a list of options with one correct and others as distractors,
+"correct answer index": the value is a list of indexes corresponding to the correct answer(s) in the 'options',
+"justification": the value is a list of justifications for each of the correct option(s)

@@ -1,0 +1,758 @@
+[
+    {
+        "current_btl": "Understanding",
+        "proposed_btl": "Remembering",
+        "rating": 7,
+        "justification_rating": "The question is asking to recall a fact or definition, which falls under the 'Remembering' category of Bloom's Taxonomy. However, it is rated 7 because it does not fully test the learning outcome of explaining the conceptual framework of accounting including GAAP.",
+        "question": "Which is the first book of entry?",
+        "options": [
+            "A. Ledger\n",
+            "B. Journal\n",
+            "C. Subsidiary book\n",
+            "D. Trial balance\n"
+        ],
+        "correct_answer_index": [
+            1
+        ],
+        "learning_outcomes": [
+            "Explain conceptual framework of accounting including GAAP."
+        ],
+        "unit_numbers": [
+            1
+        ],
+        "audience": "Undergraduate",
+        "token_usage": {
+            "completion_tokens": 513,
+            "prompt_tokens": 11397,
+            "total_tokens": 11910
+        },
+        "model_used": "gpt-4-32k",
+        "validated_answer": "B",
+        "justification_correctness": "The course content mentions that accounting is a process that includes documenting or recording financial transactions. This aligns with the concept of a 'Journal' which is the first book of entry where all business transactions are recorded in chronological order.",
+        "enhanced": [
+            {
+                "question": "What is the first function of accounting according to the course content?",
+                "options": [
+                    "Summarising",
+                    "Interpreting",
+                    "Recording",
+                    "Classifying"
+                ],
+                "correct_answer_index": [
+                    2
+                ],
+                "hardness": 2,
+                "justification_opt": [
+                    "The course content mentions that the first function of accounting is recording."
+                ],
+                "justification_btl": "The question requires the understanding of the sequence of accounting functions as described in the course content.",
+                "btl": "Understanding",
+                "token_usage": {
+                    "completion_tokens": 150,
+                    "prompt_tokens": 231,
+                    "total_tokens": 381
+                },
+                "model_used": "gpt-4-32k",
+                "section": "New_MBA_Accounting and Finance_01-1.1 INTRODUCTION.txt"
+            },
+            {
+                "question": "According to Prof. R.R. Gupta, what should be done before delivering goods or rendering services?",
+                "options": [
+                    "Payment should be received",
+                    "Goods should be inspected",
+                    "The transaction should be recorded",
+                    "The delivery date should be confirmed"
+                ],
+                "correct_answer_index": [
+                    2
+                ],
+                "hardness": 5,
+                "justification_opt": [
+                    "As per the course content, Prof. R.R. Gupta suggests that transactions should be recorded before delivering goods or rendering services."
+                ],
+                "justification_btl": "The question requires understanding of the advice given by Prof. R.R. Gupta in the context of accounting practices.",
+                "btl": "Understanding",
+                "token_usage": {
+                    "completion_tokens": 150,
+                    "prompt_tokens": 231,
+                    "total_tokens": 381
+                },
+                "model_used": "gpt-4-32k",
+                "section": "New_MBA_Accounting and Finance_01-1.1 INTRODUCTION.txt"
+            },
+            {
+                "question": "What does the American Institute of Certified Public Accountants define accounting as?",
+                "options": [
+                    "The process of documenting, classifying, summarising and interpreting financial transactions",
+                    "The process of documenting, summarising, interpreting and analysing financial transactions",
+                    "The process of classifying, summarising, interpreting and analysing financial transactions",
+                    "The process of documenting, classifying, interpreting and analysing financial transactions"
+                ],
+                "correct_answer_index": [
+                    0
+                ],
+                "hardness": 7,
+                "justification_opt": [
+                    "The course content defines accounting as 'the process of documenting, classifying, summarising in a meaningful manner financial transaction and eventually interpreting the outcomes.'"
+                ],
+                "justification_btl": "The question requires understanding and recalling the exact definition of accounting as given by the American Institute of Certified Public Accountants in the course content.",
+                "btl": "Understanding",
+                "token_usage": {
+                    "completion_tokens": 150,
+                    "prompt_tokens": 231,
+                    "total_tokens": 381
+                },
+                "model_used": "gpt-4-32k",
+                "section": "New_MBA_Accounting and Finance_01-1.1 INTRODUCTION.txt"
+            }
+        ]
+    },
+    {
+        "current_btl": "Applying",
+        "proposed_btl": "Remembering",
+        "rating": 4,
+        "justification_rating": "The question is asking to recall a fact or piece of information without needing to understand the meaning or context, which corresponds to the 'Remembering' BTL level. The question does not require the application of any knowledge or skills, which is why the 'Applying' level is not appropriate. The rating is 4 because while the question does test a basic knowledge of accounting, it does not align with the learning outcome of explaining the conceptual framework of accounting including GAAP.",
+        "question": "Which is a part of financial accounting and is concerned with recording transactions, which is routine and clerical.",
+        "options": [
+            "A. Bookkeeping\n",
+            "B. Accounting\n",
+            "C. Financial Accounting\n",
+            "D. Cost Accounting\n"
+        ],
+        "correct_answer_index": [
+            0
+        ],
+        "learning_outcomes": [
+            "Explain conceptual framework of accounting including GAAP."
+        ],
+        "unit_numbers": [
+            1
+        ],
+        "audience": "Undergraduate",
+        "token_usage": {
+            "completion_tokens": 760,
+            "prompt_tokens": 11486,
+            "total_tokens": 12246
+        },
+        "model_used": "gpt-4-32k",
+        "validated_answer": "A",
+        "justification_correctness": "The course content mentions that accounting involves recording, classifying, and summarising business transactions. However, it does not explicitly distinguish between different types of accounting or define 'bookkeeping'. However, it is implied that the routine and clerical task of recording transactions, as mentioned in the question, would fall under the first function of accounting i.e., 'recording'. This is what 'bookkeeping' typically involves, thus option A is the most suitable answer based on the given course content.",
+        "enhanced": [
+            {
+                "question": "Which of the following best describes the function of recording in accounting?",
+                "options": [
+                    "It involves interpreting the outcomes of financial transactions",
+                    "It involves documenting and classifying financial transactions",
+                    "It involves the process of waiting for payment from creditors",
+                    "It involves the process of paying all taxes, fees, and other obligations"
+                ],
+                "correct_answer_index": [
+                    1
+                ],
+                "hardness": 2,
+                "justification_opt": [
+                    "Recording in accounting involves documenting and classifying financial transactions as stated in the course content."
+                ],
+                "justification_btl": "The question requires the understanding of the concept of recording in accounting as explained in the course content.",
+                "btl": "Understanding",
+                "token_usage": {
+                    "completion_tokens": 171,
+                    "prompt_tokens": 235,
+                    "total_tokens": 406
+                },
+                "model_used": "gpt-4-32k",
+                "section": "New_MBA_Accounting and Finance_01-1.1 INTRODUCTION.txt"
+            },
+            {
+                "question": "According to Prof. R.R. Gupta, why is it important to record business transactions?",
+                "options": [
+                    "To ensure the firm is able to pay creditors later",
+                    "To ensure the business has paid all taxes, fees, and other obligations",
+                    "To use as evidence in case of future disagreements or errors",
+                    "To interpret the outcomes of financial transactions"
+                ],
+                "correct_answer_index": [
+                    2
+                ],
+                "hardness": 5,
+                "justification_opt": [
+                    "Prof. R.R. Gupta emphasizes the importance of recording business transactions to use as evidence in case of future disagreements or errors, as stated in the course content."
+                ],
+                "justification_btl": "The question requires the understanding of Prof. R.R. Gupta's perspective on the importance of recording business transactions.",
+                "btl": "Understanding",
+                "token_usage": {
+                    "completion_tokens": 171,
+                    "prompt_tokens": 235,
+                    "total_tokens": 406
+                },
+                "model_used": "gpt-4-32k",
+                "section": "New_MBA_Accounting and Finance_01-1.1 INTRODUCTION.txt"
+            },
+            {
+                "question": "What is the primary purpose of recording business transactions according to the American Institute of Certified Public Accountants?",
+                "options": [
+                    "To ensure the solvency of the business",
+                    "To document, classify, summarise and interpret the outcomes of financial transactions",
+                    "To wait for payment from creditors",
+                    "To pay all taxes, fees, and other obligations"
+                ],
+                "correct_answer_index": [
+                    1
+                ],
+                "hardness": 8,
+                "justification_opt": [
+                    "According to the American Institute of Certified Public Accountants, the primary purpose of recording business transactions is to document, classify, summarise and interpret the outcomes of financial transactions, as stated in the course content."
+                ],
+                "justification_btl": "The question requires the understanding of the American Institute of Certified Public Accountants' definition of accounting and the purpose of recording business transactions.",
+                "btl": "Understanding",
+                "token_usage": {
+                    "completion_tokens": 171,
+                    "prompt_tokens": 235,
+                    "total_tokens": 406
+                },
+                "model_used": "gpt-4-32k",
+                "section": "New_MBA_Accounting and Finance_01-1.1 INTRODUCTION.txt"
+            }
+        ]
+    },
+    {
+        "current_btl": "Analyzing",
+        "proposed_btl": "Remembering",
+        "rating": 4,
+        "justification_rating": "The question is simply asking for a recall of a fact or a definition, which corresponds to the 'Remembering' BTL level. The 'Analyzing' level would require the student to break information into parts to explore understandings and relationships, which is not required in this question. The rating is 4 because while the question does test a basic understanding, it does not align with the higher learning outcome of 'Analyzing'.",
+        "question": "Who is responsible for designing the financial accounting system carrying on supervision, and preparing reports based on recorded data, and interpreting the reports.",
+        "options": [
+            "A. Bookkeeper\n",
+            "B. Accountant\n",
+            "C. Auditor\n",
+            "D. Bookkeeper, Accountant and Auditor\n"
+        ],
+        "correct_answer_index": [
+            1
+        ],
+        "learning_outcomes": [
+            "Explain conceptual framework of accounting including GAAP."
+        ],
+        "unit_numbers": [
+            1
+        ],
+        "audience": "Undergraduate",
+        "token_usage": {
+            "completion_tokens": 657,
+            "prompt_tokens": 11569,
+            "total_tokens": 12226
+        },
+        "model_used": "gpt-4-32k",
+        "validated_answer": "don't know",
+        "justification_correctness": "The course content does not provide specific information about who is responsible for designing the financial accounting system, carrying on supervision, and preparing and interpreting reports based on recorded data. Therefore, it is not possible to definitively choose one of the provided options based on the course content.",
+        "enhanced": [
+            {
+                "question": "What are the three broad functions of accounting?",
+                "options": [
+                    "Recording, Classifying, Summarising",
+                    "Recording, Analyzing, Interpreting",
+                    "Documenting, Summarising, Interpreting",
+                    "Classifying, Analyzing, Interpreting"
+                ],
+                "correct_answer_index": [
+                    0
+                ],
+                "hardness": 2,
+                "justification_opt": [
+                    "The course content clearly states that accounting is broadly classified into three different functions: Recording, Classifying, Summarising."
+                ],
+                "justification_btl": "This question requires the understanding of the basic functions of accounting as mentioned in the course content.",
+                "btl": "Understanding",
+                "token_usage": {
+                    "completion_tokens": 143,
+                    "prompt_tokens": 237,
+                    "total_tokens": 380
+                },
+                "model_used": "gpt-4-32k",
+                "section": "New_MBA_Accounting and Finance_01-1.1 INTRODUCTION.txt"
+            },
+            {
+                "question": "Who is interested in the recorded business transactions?",
+                "options": [
+                    "Owners and other interested parties",
+                    "Only the government",
+                    "Only the creditors",
+                    "Only the owners"
+                ],
+                "correct_answer_index": [
+                    0
+                ],
+                "hardness": 5,
+                "justification_opt": [
+                    "The course content mentions that business transactions must be recorded for the benefit of the owners and other interested parties. The other interested parties include those who provide resources, products, and services to businesses, governments, and society at large."
+                ],
+                "justification_btl": "This question requires understanding of the stakeholders interested in the recorded business transactions as mentioned in the course content.",
+                "btl": "Understanding",
+                "token_usage": {
+                    "completion_tokens": 143,
+                    "prompt_tokens": 237,
+                    "total_tokens": 380
+                },
+                "model_used": "gpt-4-32k",
+                "section": "New_MBA_Accounting and Finance_01-1.1 INTRODUCTION.txt"
+            },
+            {
+                "question": "What is the purpose of recording business transactions according to Prof. R.R. Gupta?",
+                "options": [
+                    "To resolve future disagreements or rectify errors",
+                    "To calculate taxes",
+                    "To evaluate the solvency of the business",
+                    "To analyze the financial performance of the business"
+                ],
+                "correct_answer_index": [
+                    0
+                ],
+                "hardness": 8,
+                "justification_opt": [
+                    "The course content mentions that according to Prof. R.R. Gupta, business transactions must be recorded before one delivers goods or renders the services and if there is any disagreement in future, use the writing or record as an evidence to resolve the misunderstanding or rectifying the error."
+                ],
+                "justification_btl": "This question requires understanding of the purpose of recording business transactions as mentioned in the course content.",
+                "btl": "Understanding",
+                "token_usage": {
+                    "completion_tokens": 143,
+                    "prompt_tokens": 237,
+                    "total_tokens": 380
+                },
+                "model_used": "gpt-4-32k",
+                "section": "New_MBA_Accounting and Finance_01-1.1 INTRODUCTION.txt"
+            }
+        ]
+    },
+    {
+        "current_btl": "Understanding",
+        "proposed_btl": "Remembering",
+        "rating": 7,
+        "justification_rating": "The question is asking to recall who the external users of accounting information are, which is a basic fact and falls under the 'Remembering' BTL level. However, it is still somewhat related to the learning outcome of understanding the conceptual framework of accounting, hence the rating of 7.",
+        "question": "Which of the following is the external user of accounting information?",
+        "options": [
+            "A. Owners\n",
+            "B. Management\n",
+            "C. Employees\n",
+            "D. Government\n"
+        ],
+        "correct_answer_index": [
+            3
+        ],
+        "learning_outcomes": [
+            "Explain conceptual framework of accounting including GAAP."
+        ],
+        "unit_numbers": [
+            1
+        ],
+        "audience": "Undergraduate",
+        "token_usage": {
+            "completion_tokens": 541,
+            "prompt_tokens": 11389,
+            "total_tokens": 11930
+        },
+        "model_used": "gpt-4-32k",
+        "validated_answer": "D",
+        "justification_correctness": "According to the course content, the government is an external user of accounting information. The text mentions that the government wants to know if the business has paid all taxes, fees, and other obligations. Thus, the government uses accounting information to assess the business's compliance with tax and other financial regulations.",
+        "enhanced": [
+            {
+                "question": "Which of the following best describes the function of accounting?",
+                "options": [
+                    "Documenting, classifying, summarising financial transactions and interpreting the outcomes",
+                    "Recording business transactions for the benefit of the government",
+                    "Resolving misunderstandings or rectifying errors",
+                    "Providing resources, products, and services to businesses"
+                ],
+                "correct_answer_index": [
+                    0
+                ],
+                "hardness": 2,
+                "justification_opt": [
+                    "This is the definition of accounting as provided by the American Institute of Certified Public Accountants in the course content."
+                ],
+                "justification_btl": "The question requires the understanding of the definition and functions of accounting as provided in the course content.",
+                "btl": "Understanding",
+                "token_usage": {
+                    "completion_tokens": 146,
+                    "prompt_tokens": 232,
+                    "total_tokens": 379
+                },
+                "model_used": "gpt-4-32k",
+                "section": "New_MBA_Accounting and Finance_01-1.1 INTRODUCTION.txt"
+            },
+            {
+                "question": "Who are the internal users of accounting information?",
+                "options": [
+                    "Owners",
+                    "Government",
+                    "Creditors",
+                    "Suppliers"
+                ],
+                "correct_answer_index": [
+                    0
+                ],
+                "hardness": 5,
+                "justification_opt": [
+                    "The course content mentions that business transactions must be recorded for the benefit of the owners, implying that they are the internal users of the accounting information."
+                ],
+                "justification_btl": "The question requires understanding of the course content to identify the internal users of accounting information.",
+                "btl": "Understanding",
+                "token_usage": {
+                    "completion_tokens": 146,
+                    "prompt_tokens": 232,
+                    "total_tokens": 379
+                },
+                "model_used": "gpt-4-32k",
+                "section": "New_MBA_Accounting and Finance_01-1.1 INTRODUCTION.txt"
+            },
+            {
+                "question": "What is the primary concern of creditors with respect to accounting information?",
+                "options": [
+                    "Whether the business has paid all taxes",
+                    "The solvency of the business",
+                    "The resources, products, and services provided by the business",
+                    "The classification of financial transactions"
+                ],
+                "correct_answer_index": [
+                    1
+                ],
+                "hardness": 8,
+                "justification_opt": [
+                    "The course content mentions that creditors want to know if the firm will be able to pay them later, implying that they are concerned with the solvency of the business."
+                ],
+                "justification_btl": "The question requires understanding of the course content to identify the concerns of the creditors, who are external users of accounting information.",
+                "btl": "Understanding",
+                "token_usage": {
+                    "completion_tokens": 146,
+                    "prompt_tokens": 232,
+                    "total_tokens": 379
+                },
+                "model_used": "gpt-4-32k",
+                "section": "New_MBA_Accounting and Finance_01-1.1 INTRODUCTION.txt"
+            }
+        ]
+    },
+    {
+        "current_btl": "Understanding",
+        "proposed_btl": "Remembering",
+        "rating": 5,
+        "justification_rating": "The MCQ is clear and unambiguous, and it tests a basic but important piece of knowledge in the conceptual framework of accounting. However, it does not test the student's ability to explain the conceptual framework of accounting including GAAP, which is the learning outcome.",
+        "question": "Which of the following is not the external user of accounting information?",
+        "options": [
+            "A. Government\n",
+            "B. Management\n",
+            "C. Investors\n",
+            "D. Creditors\n"
+        ],
+        "correct_answer_index": [
+            1
+        ],
+        "learning_outcomes": [
+            "Explain conceptual framework of accounting including GAAP."
+        ],
+        "unit_numbers": [
+            1
+        ],
+        "audience": "Undergraduate",
+        "token_usage": {
+            "completion_tokens": 938,
+            "prompt_tokens": 11405,
+            "total_tokens": 12343
+        },
+        "model_used": "gpt-4-32k",
+        "validated_answer": "B",
+        "justification_correctness": "The course content mentions that business transactions must be recorded for the benefit of the owners and other interested parties, including those who provide resources, products, and services to businesses, governments, and society at large. This includes creditors and the government. However, it does not mention management as an external user of accounting information. Therefore, the option 'Management' is the correct answer as it is not an external user of accounting information.",
+        "enhanced": [
+            {
+                "question": "Which of the following is a function of accounting?",
+                "options": [
+                    "Interpreting",
+                    "Predicting",
+                    "Investing",
+                    "Budgeting"
+                ],
+                "correct_answer_index": [
+                    0
+                ],
+                "hardness": 2,
+                "justification_opt": [
+                    "According to the course content, interpreting is one of the outcomes of the accounting process."
+                ],
+                "justification_btl": "This question tests the understanding of the functions of accounting as described in the course content.",
+                "btl": "Understanding",
+                "token_usage": {
+                    "completion_tokens": 126,
+                    "prompt_tokens": 232,
+                    "total_tokens": 359
+                },
+                "model_used": "gpt-4-32k",
+                "section": "New_MBA_Accounting and Finance_01-1.1 INTRODUCTION.txt"
+            },
+            {
+                "question": "Who among the following is likely to be an external user of accounting information?",
+                "options": [
+                    "Company's manager",
+                    "Company's employee",
+                    "Government",
+                    "Company's owner"
+                ],
+                "correct_answer_index": [
+                    2
+                ],
+                "hardness": 5,
+                "justification_opt": [
+                    "As per the course content, the government is an external user of accounting information as it wants to know if the business has paid all taxes, fees, and other obligations."
+                ],
+                "justification_btl": "This question requires understanding of the different types of users of accounting information as outlined in the course content.",
+                "btl": "Understanding",
+                "token_usage": {
+                    "completion_tokens": 126,
+                    "prompt_tokens": 232,
+                    "total_tokens": 359
+                },
+                "model_used": "gpt-4-32k",
+                "section": "New_MBA_Accounting and Finance_01-1.1 INTRODUCTION.txt"
+            },
+            {
+                "question": "What is the purpose of recording business transactions according to Prof. R.R. Gupta?",
+                "options": [
+                    "To resolve future disagreements",
+                    "To predict future profits",
+                    "To calculate tax",
+                    "To manage employees"
+                ],
+                "correct_answer_index": [
+                    0
+                ],
+                "hardness": 8,
+                "justification_opt": [
+                    "According to Prof. R.R. Gupta, business transactions must be recorded to serve as evidence in resolving future disagreements or rectifying errors."
+                ],
+                "justification_btl": "This question tests the understanding of the purpose of recording business transactions as explained by Prof. R.R. Gupta in the course content.",
+                "btl": "Understanding",
+                "token_usage": {
+                    "completion_tokens": 126,
+                    "prompt_tokens": 232,
+                    "total_tokens": 359
+                },
+                "model_used": "gpt-4-32k",
+                "section": "New_MBA_Accounting and Finance_01-1.1 INTRODUCTION.txt"
+            }
+        ]
+    },
+    {
+        "current_btl": "Understanding",
+        "proposed_btl": "Remembering",
+        "rating": 6,
+        "justification_rating": "The question is asking to identify an internal user of accounting information, which is a simple recall from the study material. Hence, the BTL level is 'Remembering'. However, the question is rated 6 because it does not fully align with the learning outcome of explaining the conceptual framework of accounting including GAAP.",
+        "question": "Which of the following is the internal user of accounting information?",
+        "options": [
+            "A. Government\n",
+            "B. Investors\n",
+            "C. Owners\n",
+            "D. Creditors\n"
+        ],
+        "correct_answer_index": [
+            2
+        ],
+        "learning_outcomes": [
+            "Explain conceptual framework of accounting including GAAP."
+        ],
+        "unit_numbers": [
+            1
+        ],
+        "audience": "Undergraduate",
+        "token_usage": {
+            "completion_tokens": 570,
+            "prompt_tokens": 11397,
+            "total_tokens": 11967
+        },
+        "model_used": "gpt-4-32k",
+        "validated_answer": "C",
+        "justification_correctness": "The course content mentions that business transactions must be recorded for the benefit of the owners and other interested parties. This suggests that owners are internal users of accounting information, which aligns with option C.",
+        "enhanced": [
+            {
+                "question": "Which of the following best describes the function of accounting?",
+                "options": [
+                    "Documenting, classifying, summarising financial transactions and interpreting the outcomes",
+                    "Recording business transactions for the benefit of the government",
+                    "Resolving misunderstandings or rectifying errors",
+                    "Providing resources, products, and services to businesses, governments, and society"
+                ],
+                "correct_answer_index": [
+                    0
+                ],
+                "hardness": 2,
+                "justification_opt": [
+                    "This option is correct as it directly quotes the definition of accounting as per the American Institute of Certified Public Accountants from the course content."
+                ],
+                "justification_btl": "This question requires the understanding of the course content where the definition of accounting is explained.",
+                "btl": "Understanding",
+                "token_usage": {
+                    "completion_tokens": 156,
+                    "prompt_tokens": 232,
+                    "total_tokens": 389
+                },
+                "model_used": "gpt-4-32k",
+                "section": "New_MBA_Accounting and Finance_01-1.1 INTRODUCTION.txt"
+            },
+            {
+                "question": "Who is the primary beneficiary of the business transactions recorded in accounting?",
+                "options": [
+                    "The government",
+                    "The owners and other interested parties",
+                    "The creditors",
+                    "The suppliers"
+                ],
+                "correct_answer_index": [
+                    1
+                ],
+                "hardness": 5,
+                "justification_opt": [
+                    "This option is correct as per the course content which states that business transactions must be recorded for the benefit of the owners and other interested parties."
+                ],
+                "justification_btl": "This question requires the understanding of the course content where the beneficiaries of the recorded business transactions are mentioned.",
+                "btl": "Understanding",
+                "token_usage": {
+                    "completion_tokens": 156,
+                    "prompt_tokens": 232,
+                    "total_tokens": 389
+                },
+                "model_used": "gpt-4-32k",
+                "section": "New_MBA_Accounting and Finance_01-1.1 INTRODUCTION.txt"
+            },
+            {
+                "question": "What is the concern of creditors in relation to the business transactions recorded in accounting?",
+                "options": [
+                    "If the business has paid all taxes, fees, and other obligations",
+                    "If the firm will be able to pay them later",
+                    "If the business is providing resources, products, and services to them",
+                    "If the business is recording transactions for their benefit"
+                ],
+                "correct_answer_index": [
+                    1
+                ],
+                "hardness": 8,
+                "justification_opt": [
+                    "This option is correct as per the course content which states that creditors want to know if the firm will be able to pay them later."
+                ],
+                "justification_btl": "This question requires the understanding of the course content where the concerns of the creditors regarding the recorded business transactions are mentioned.",
+                "btl": "Understanding",
+                "token_usage": {
+                    "completion_tokens": 156,
+                    "prompt_tokens": 232,
+                    "total_tokens": 389
+                },
+                "model_used": "gpt-4-32k",
+                "section": "New_MBA_Accounting and Finance_01-1.1 INTRODUCTION.txt"
+            }
+        ]
+    },
+    {
+        "current_btl": "Understanding",
+        "proposed_btl": "Remembering",
+        "rating": 6,
+        "justification_rating": "The question is asking to recall who the internal users of accounting information are, which is a 'Remembering' level task according to Bloom's Taxonomy. However, the question is not directly related to the learning outcome of explaining the conceptual framework of accounting including GAAP. Therefore, the rating is 6 as it partially meets the learning outcome by testing the basic knowledge about accounting information users.",
+        "question": "Which of the following is not the internal user of accounting information?",
+        "options": [
+            "A. Owners\n",
+            "B. Management\n",
+            "C. Employees\n",
+            "D. Investors\n"
+        ],
+        "correct_answer_index": [
+            3
+        ],
+        "learning_outcomes": [
+            "Explain conceptual framework of accounting including GAAP."
+        ],
+        "unit_numbers": [
+            1
+        ],
+        "audience": "Undergraduate",
+        "token_usage": {
+            "completion_tokens": 694,
+            "prompt_tokens": 11397,
+            "total_tokens": 12091
+        },
+        "model_used": "gpt-4-32k",
+        "validated_answer": "D",
+        "justification_correctness": "The course content does not provide specific information about the internal users of accounting information. Therefore, based on the provided course content, it cannot be determined which of the options (Owners, Management, Employees, Investors) is not an internal user of accounting information.",
+        "enhanced": [
+            {
+                "question": "Which of the following is a function of accounting?",
+                "options": [
+                    "Interpreting",
+                    "Predicting",
+                    "Investing",
+                    "Negotiating"
+                ],
+                "correct_answer_index": [
+                    0
+                ],
+                "hardness": 2,
+                "justification_opt": [
+                    "Interpreting is mentioned as a function of accounting in the course content."
+                ],
+                "justification_btl": "The question requires the student to understand the functions of accounting as described in the course content.",
+                "btl": "Understanding",
+                "token_usage": {
+                    "completion_tokens": 127,
+                    "prompt_tokens": 232,
+                    "total_tokens": 359
+                },
+                "model_used": "gpt-4-32k",
+                "section": "New_MBA_Accounting and Finance_01-1.1 INTRODUCTION.txt"
+            },
+            {
+                "question": "Who is interested in the recording of business transactions according to the course content?",
+                "options": [
+                    "Owners and other interested parties",
+                    "Customers",
+                    "Competitors",
+                    "None of the above"
+                ],
+                "correct_answer_index": [
+                    0
+                ],
+                "hardness": 5,
+                "justification_opt": [
+                    "The course content mentions that business transactions must be recorded for the benefit of the owners and other interested parties."
+                ],
+                "justification_btl": "The question requires the student to understand who the interested parties are in the context of accounting, as described in the course content.",
+                "btl": "Understanding",
+                "token_usage": {
+                    "completion_tokens": 127,
+                    "prompt_tokens": 232,
+                    "total_tokens": 359
+                },
+                "model_used": "gpt-4-32k",
+                "section": "New_MBA_Accounting and Finance_01-1.1 INTRODUCTION.txt"
+            },
+            {
+                "question": "What does the government want to know from the business transactions?",
+                "options": [
+                    "If the business is profitable",
+                    "If the business has paid all taxes, fees, and other obligations",
+                    "The number of employees in the business",
+                    "The business's marketing strategies"
+                ],
+                "correct_answer_index": [
+                    1
+                ],
+                "hardness": 8,
+                "justification_opt": [
+                    "The course content mentions that the government wants to know if the business has paid all taxes, fees, and other obligations."
+                ],
+                "justification_btl": "The question requires the student to understand the role of the government in the context of accounting, as described in the course content.",
+                "btl": "Understanding",
+                "token_usage": {
+                    "completion_tokens": 127,
+                    "prompt_tokens": 232,
+                    "total_tokens": 359
+                },
+                "model_used": "gpt-4-32k",
+                "section": "New_MBA_Accounting and Finance_01-1.1 INTRODUCTION.txt"
+            }
+        ]
+    }
+]

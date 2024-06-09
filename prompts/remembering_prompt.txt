@@ -1,0 +1,19 @@
+Generate {number_of_questions} multiple-choice question(s) that ask for a direct recall of facts based on the following text segment: {text_segment}. 
+The question(s) should be clear, precise, and suitable for a {audience} audience. 
+Include one correct answer and three plausible distractors for each question.
+Provide the correct option and a justification after the question and its options.
+Ensure the question and options vary with each request to cover different aspects of the concept.
+
+The question should be generated based on the following parameters:
+Parameters:
+    Bloom's Taxonomy Level: {btl}, where Bloom's Taxonomy level corresponds to the desired cognitive level and is defined as: The "Remembering" level of Bloom's taxonomy focuses on the rote factual understanding of specific terms, methodologies, conventions, and universally accepted principles within a field. This foundational level aims at enabling students to recall this learned information accurately when required, representing the most basic cognitive learning outcome. Key assessment phrases include "define," "list," "recall," and "identify," among others. Teaching methods that support this level of learning typically involve lectures, memorization, readings, and multimedia content such as podcasts and videos. Assessments are designed to test factual recall and are generally convergent with limited answers, such as multiple-choice exams or labeling diagrams, like identifying the parts of the human eye.
+    Difficulty Level: {difficulty_level}, where on a scale of 1 to 10, 'hard' is 10, 'medium' is 5, and 'easy' is 1.
+    Target Audience: The questions are targeted for {audience} audience.
+
+The output must be a json and json only. In this case it must be an array of three new mcqs each of which must be packaged as an object with the following fields.
+Each question must be packaged as a json and json only.
+The keys for a question being generated must be:
+"question": the value is the text for the generated question,
+"options": the value is an array of options with one correct and the others as distractors,
+"correct_answer_index": the value is an array of indexes corresponding to the correct answer(s) in the 'options',
+"justification": the value is an array of justifications for each of the correct option(s)

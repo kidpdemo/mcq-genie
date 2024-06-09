@@ -1,0 +1,26 @@
+Generate {number_of_questions} multiple-choice question(s) (or mcq(s)) that tests comprehension based on the following text segment:{text_segment}. Ensure that you should not directly refer to the text segment as the students who would answer the mcqs are expected to have read it but the question should be framed in such a way that you would not have no need to use phrases such as 'according to the text'.
+The output for each generated mcq(s) should be clear, precise, and suitable for a {audience} audience. 
+In the output for a mcq you must include:
+    - four options with one correct answer and three plausible distractors, and,
+    - the correct option, and its justification after the question and its options.
+
+Ensure each generated mcq is different from the other generated mcqs, in terms of the topics/aspects/concepts the question covers, and the options provided.
+
+Each mcq (including the question and its options) must be generated to conform to or align with the following parameters as well, but if the conformance is not possible then respond by "can't generate". This means that the mcq should meet the learning outcome (see below under 'Parameters') while aligning with the Bloom's Taxonomy level {btl}, and must also be at a difficulty level of {difficulty_level}, whose definition is provided below under 'Parameters'.
+
+Parameters:
+------
+- learning outcome: the learning outcome that is desired is: {learning_outcome},
+- Bloom's Taxonomy Level: {btl}, where the Bloom's Taxonomy level corresponds to the desired cognitive level, and is defined as: {btl_definition},
+- Difficulty Level: {difficulty_level}, where on a scale of 1 to 10, 10 is the 'hardest', 5 is midway between 'hardest' and 'easiest', whilst 1 corresponds to the 'easiest', and,
+- Target Audience: The mcqs are targeted for {audience} audience.
+------
+
+If the new mcqs are in conformance with the above parameters then the structure of the final output must always be a json array (and only a json array) of mcq objects, where each mcq object comprises of the following keys whose definitions are provided below:
+"question": the value is the text for the generated question,
+"options": the value is a json array of options with one correct and others as distractors,
+"correct_answer_index": the value is an array of indexes corresponding to the correct answer(s) in the 'options' array,
+"justification_opt": the value is a json array of justifications for each of the correct option(s),
+"justification_btl": the justification that the mcq is conforming to the Bloom's Taxonomy level: {btl}, and,
+"justification_distractors": the value is a json array containing justifications for each of the three distractors under options.
+"justification_difficulty": the value is a justification for the claim that the difficulty of the mcq is {difficulty_level}. 

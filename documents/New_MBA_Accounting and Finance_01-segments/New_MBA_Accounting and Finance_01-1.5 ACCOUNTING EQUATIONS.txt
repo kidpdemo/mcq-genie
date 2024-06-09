@@ -1,0 +1,67 @@
+The accounting equation is regarded as the bedrock of the double-entry accounting system. The total assets of a corporation are equal to the sum of the company’s liabilities and shareholders’ equity, as shown on its balance sheet.
+
+The accounting equation assures that the balance sheet remains “balanced” based on this double-entry approach, and that each entry made on the debit side has a corresponding entry (or coverage) on the credit side.
+
+The accounting equation aids in determining if a company’s business operations are accurately reflected in its books and accounts. The following are some examples of items found on a balance sheet:
+
+Assets
+
+Cash and cash equivalents, as well as liquid assets such as Treasury bills and certificates of deposit, are examples of assets. The amount of money owing to the company by its consumers for the sale of its product and service is known as account receivables. Inventory is likewise seen as a valuable asset.
+
+Liabilities
+
+Liabilities are the amounts that a firm owes or must pay in order to stay in business. Rent, taxes, utilities, salaries, wages, and dividends payable are all liabilities, including long-term debt.
+
+Shareholders’ Equity
+
+A company’s entire assets minus its total liabilities equals its shareholders’ equity. The amount of money that would be returned to shareholders if all of the company’s assets were liquidated and all of the debt was paid off is known as shareholders’ equity.
+
+9
+
+JGI
+
+JDAE EMED-TOI- BEUNNIVERSITY
+
+Accounting and Finance
+
+The sum of total earnings that were not paid to shareholders as dividends is known as retained earnings, and it is a component of shareholders’ equity. Consider retained earnings to be savings because they represent a total of profits that have been preserved, set aside, or kept for future use.
+
+Accounting Equation Formula and Calculation
+
+Assets = (Liabilities + Owner’s Equity)
+
+The balance sheet holds the basis of the accounting equation:
+
+ Locate the company’s total assets on the balance sheet for the period.
+
+ Total all liabilities, which should be a separate listing on the balance sheet.
+
+ Locate total shareholder’s equity and add the number to total liabilities.
+
+ Total assets will equal the sum of liabilities and total equity.
+
+1.6
+
+INTRODUCTION TO INDIAN GAAP, IND AS AND IFRS
+
+GAAP
+
+Over time, businesses would like to know how they are performing in contrast to their peers. In the same way, there would be common owners of numerous businesses. Accounting principles are the rules of action that are used to record, classify, and summarise the transactions of a corporation. If financial statements are not made using these standards, they will have a poor acceptability and will be difficult to comprehend, making comparison impossible and untrustworthy. As a result, accountants urge that common accounting ideas and standards be established so that the aforementioned challenges and problems do not arise; they are referred to as Generally Accepted Accounting Principles (GAAP).
+
+Ind AS
+
+Financial statements are used by a variety of people, including investors, creditors, the government, consumers, and business owners. They base a lot of their economic judgments on financial statements. If financial statements are not adequately regulated, there is a risk that they will mislead and present a skewed view of the firm instead of a genuine and fair picture of the business. It is critical to regulate the accounting process so that these statements are transparent, properly disclosed, consistent, and reliable. In addition, adequate accounting disclosure is necessary. Accounting standards are developed on a national and worldwide level for this purpose. Accounting standards, in fact, codify the commonly accepted accounting concepts. Accounting standards provide the rules and procedures that must be followed while preparing financial statements and annual reports. The International Accounting Standard Committee (IASC) has issued the International Standards on a global scale. Leading professional bodies from the United Kingdom, the United States, Australia, France, and Canada are represented on this committee. India is also a member of this committee. India has also prepared its own accounting standards, which are prepared by the Institute of Chartered Accountant of India (ICAI).
+
+IFRS
+
+The International Financial Reporting Standards (IFRS) are a set of principles that ensure financial statements are consistent, transparent, and comparable all throughout the world. The International Accounting Standards Board (IASB) publishes the International Financial Reporting Standards (IFRS) (IASB). They define how businesses must keep and report their accounts, as well as the sorts of
+
+10
+
+UNIT 01: Introduction to Financial Accounting
+
+JGI
+
+JDAE EMED-TOI- BEUNNIVERSITY
+
+transactions and other financial events that must be reported. The International Financial Reporting Standards (IFRS) were created to develop a common accounting language so that businesses and their financial statements could be consistent and dependable from one company to the next and from one country to the next.

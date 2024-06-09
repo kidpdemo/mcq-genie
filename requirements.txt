@@ -3,3 +3,12 @@ numpy
 pandas
 pydeck
 streamlit
+langchain
+langchain-community
+langchain-core
+langchain-openai
+python-dotenv
+openai
+langchain_anthropic
+openpyxl
+pypdf

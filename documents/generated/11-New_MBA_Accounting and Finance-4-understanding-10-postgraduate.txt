@@ -1,0 +1,122 @@
+[
+    {
+        "question": "Which of the following statements best describes the purpose of a balance sheet?",
+        "options": [
+            "To show the revenues and expenses of a company during a particular period.",
+            "To summarize and present the financial position of an organization on any given date.",
+            "To record all the transactions of a company in chronological order.",
+            "To provide a detailed account of the company's cash inflows and outflows."
+        ],
+        "correct_answer_index": [
+            1
+        ],
+        "justification_opt": [
+            "The balance sheet summarizes and presents the financial position of an organization on any given date, showing its assets, liabilities, and owner's equity."
+        ],
+        "justification_btl": "This question requires understanding the purpose and components of a balance sheet, which aligns with the 'Understanding' level of Bloom's taxonomy.",
+        "justification_distractors": [
+            "This describes the purpose of a profit and loss statement, not a balance sheet.",
+            "This describes the purpose of a journal, not a balance sheet.",
+            "This describes the purpose of a cash flow statement, not a balance sheet."
+        ],
+        "justification_difficulty": "The difficulty level is 10 because it requires distinguishing between different financial statements and understanding their specific purposes.",
+        "course": "New_MBA_Accounting and Finance",
+        "course_code": "23VMB0C103",
+        "unit_numbers": [
+            4
+        ],
+        "btl": "understanding",
+        "difficulty": 10,
+        "audience": "postgraduate",
+        "section": "New_MBA_Accounting and Finance_04.pdf.txt",
+        "model_used": "gpt-4o-mg",
+        "learning_outcomes": [
+            "Develop the skill of preparing the Statement of P&L and Balance sheet."
+        ],
+        "usage": {
+            "completion_tokens": 252,
+            "prompt_tokens": 2987,
+            "total_tokens": 3240
+        }
+    },
+    {
+        "question": "What is the primary objective of the profit and loss account?",
+        "options": [
+            "To show the financial position of the company at the end of a fiscal year.",
+            "To indicate the revenues and expenses of a company during a particular period.",
+            "To list the assets and liabilities of a company.",
+            "To provide a summary of cash inflows and outflows."
+        ],
+        "correct_answer_index": [
+            1
+        ],
+        "justification_opt": [
+            "The primary objective of the profit and loss account is to indicate the revenues and expenses of a company during a particular period, showing whether the company has made or lost money."
+        ],
+        "justification_btl": "This question assesses the understanding of the purpose of the profit and loss account, which is a fundamental concept in financial statements.",
+        "justification_distractors": [
+            "This describes the purpose of a balance sheet, not a profit and loss account.",
+            "This describes the purpose of a balance sheet, not a profit and loss account.",
+            "This describes the purpose of a cash flow statement, not a profit and loss account."
+        ],
+        "justification_difficulty": "The difficulty level is 10 because it requires the ability to differentiate between various financial statements and their specific objectives.",
+        "course": "New_MBA_Accounting and Finance",
+        "course_code": "23VMB0C103",
+        "unit_numbers": [
+            4
+        ],
+        "btl": "understanding",
+        "difficulty": 10,
+        "audience": "postgraduate",
+        "section": "New_MBA_Accounting and Finance_04.pdf.txt",
+        "model_used": "gpt-4o-mg",
+        "learning_outcomes": [
+            "Develop the skill of preparing the Statement of P&L and Balance sheet."
+        ],
+        "usage": {
+            "completion_tokens": 252,
+            "prompt_tokens": 2987,
+            "total_tokens": 3240
+        }
+    },
+    {
+        "question": "Which of the following items is typically included on the debit side of a profit and loss account?",
+        "options": [
+            "Gross profit",
+            "Revenue from operations",
+            "Indirect expenses",
+            "Shareholders' equity"
+        ],
+        "correct_answer_index": [
+            2
+        ],
+        "justification_opt": [
+            "Indirect expenses are typically included on the debit side of a profit and loss account as they represent costs incurred by the business."
+        ],
+        "justification_btl": "This question tests the understanding of the components of the profit and loss account, specifically the classification of expenses.",
+        "justification_distractors": [
+            "Gross profit is typically included on the credit side of a profit and loss account.",
+            "Revenue from operations is typically included on the credit side of a profit and loss account.",
+            "Shareholders' equity is included in the balance sheet, not the profit and loss account."
+        ],
+        "justification_difficulty": "The difficulty level is 10 because it requires detailed knowledge of the structure and components of the profit and loss account.",
+        "course": "New_MBA_Accounting and Finance",
+        "course_code": "23VMB0C103",
+        "unit_numbers": [
+            4
+        ],
+        "btl": "understanding",
+        "difficulty": 10,
+        "audience": "postgraduate",
+        "section": "New_MBA_Accounting and Finance_04.pdf.txt",
+        "model_used": "gpt-4o-mg",
+        "learning_outcomes": [
+            "Develop the skill of preparing the Statement of P&L and Balance sheet."
+        ],
+        "usage": {
+            "completion_tokens": 252,
+            "prompt_tokens": 2987,
+            "total_tokens": 3240
+        }
+    }
+]

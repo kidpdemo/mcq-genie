@@ -1,0 +1,121 @@
+Accounting looks to many of us to be a systematic and procedural process. The visible part of accounting — record keeping and financial statement production – all too frequently connotes the use of a low-level talent in a job devoted to prosaic goals and devoid of challenge and inspiration. However, there is a vast body of theory (conceptual framework) in accounting. Philosophical goals, normative theories, interconnected concepts, exact definitions, and underlying assumptions, principles, and restrictions are all part of it. Many individuals are unaware of this theoretical background, but it assists to justify accounting as a true professional discipline. Thus, accountants philosophize, theorize, judge, create, and deliberate as a significant part of their professional activity. The principles of accounting are unlike the principles of the natural sciences and mathematics because
+
+ They can’t be derived from or proved by the laws of nature
+
+ They are not viewed as fundamental truths or axioms
+
+An accounting theory is not something that is discovered rather, it is created, developed or decreed on the basis of environmental factors, intuition, authority, and acceptability because the theoretical framework accounting is difficult to substantiate objectively or by experimentation, arguments concerning it can degenerate into quasi - religious dogmatism. As a result, the credibility of accounting rests upon its general recognition and acceptance by preparers, auditors, and users of financial statements. Given
+
+2
+
+UNIT 01: Introduction to Financial Accounting
+
+JGI
+
+JDAE EMED-TOI- BEUNNIVERSITY
+
+this, the purpose of this chapter is to examine the nature and usefulness of a conceptual framework for financial accounting, and discuss its components.
+
+1.2.1 Basic Terminology in Accounting
+
+The terms, which are generally used in the day-to-day business, are called accounting terminology. So, it is very much necessary to know all the terms properly. Some of the terms that are frequently used are:
+
+ Capital: It is the capital that the business owner has put into the company. It is also known as net worth or owners’ equity. It’s the sum of your assets minus your liabilities. In other terms, capital is the difference between assets and liabilities. Because a business is treated as a separate entity, the capital invested by the owner is treated as a liability for the company. This can be shown in an algebraic way as follows:
+
+Capital = Total Assets – Total Liabilities
+
+ Assets: Assets are valuable items or properties that a company uses in its operations. In other terms, an asset is everything that provides a benefit to the company. “Assets are future economic advantages, the rights that are owned or controlled by an organisation or individual,” according to Finny & Miller, whereas Kohler defines an asset as “any owned physical property (tangible) or right (intangible) having economic value to the owner.” Assets are defined as “physical goods or intangible rights controlled by an enterprise and having anticipated future advantages,” according to the Institute of Chartered Accountants of India. Thus, it is clear from the above definitions that an asset must have future economic benefit which must be controlled by an enterprise. The assets may be broadly classified as fixed assets and current assets:
+
+(i) Fixed assets are the assets which are purchased for the purpose of operating the business and not
+
+for resale such as land and building, plant and machinery and furniture, etc.
+
+(ii) Current assets are the assets which are kept for short-term for converting into cash or for resale
+
+such as unsold goods, debtors, bills receivable, bank balance, etc.
+
+ Liability: It can be described as current commitments that a commercial enterprise must meet at some point in the future. “Liabilities are debts, they are amounts owed to creditors,” according to Finny and Miller. In other words, liabilities refer to obligations that are not capital-related (contributed by the owner of the business). Liabilities are “probable future sacrifices of economic gains stemming from present commitments of a particular entity to transfer assets or perform services to other entities in the future as a result of previous transactions or events,” according to F.A.S.B. Stanford, 1980. According to Accounting Principles Board (APB), liabilities are defined as, “economic obligations of an enterprise that are recognized and measured in conformity with generally accepted accounting principles.” Thus, it is clear from the above definitions that liability is a legal obligation to pay for the transaction that has already taken place. Liabilities may be classified into three types namely: 1. Short-term liabilities are such obligations which are payable within one year. Examples are
+
+creditors, Bills payable, overdraft from a bank, etc.
+
+2. Long-term liabilities are such obligations which are payable after a period of one year such as debentures, bonds issued by the company, etc.
+
+3. Contingent liability is a liability which arises only on the happening of an uncertain event. If it happens, the contingent liability is there. If it does not happen, there is no liability. Such liabilities are not shown in the balance sheet, but are given as a foot note. Example of such liabilities are (i) Liability on account of bills discounted (ii) Claims against the fi rm not acknowledged as debts.
+
+3
+
+JGI
+
+JDAE EMED-TOI- BEUNNIVERSITY
+
+Accounting and Finance
+
+ Debtors: Debtors are those who owe money to a company after getting products or services on credit. In an enterprise’s balance sheet, the entire balance outstanding at the end of a specific date is shown as an asset. Account’s receivables are another term for debtors.
+
+ Creditors: The creditors are the persons to whom the fi rm owes for providing goods or services.
+
+ Revenue: Revenue is the amount of money earned by a company by selling a product or providing services to clients. Sales, commissions, interest, dividends, rent, and royalties are just a few examples. It is the amount that is added to the capital as a result of the operations of the firm.
+
+ Equity: Equity is, normally, ownership or percentage of ownership in a company or items of value.
+
+ Profit and Loss Statement: A written order from one person (the payor) to another, signed by the person giving it, instructing the person to whom it is addressed to pay a specified sum of money on demand or at a specified future date to either the payee or any person presenting the bill of exchange.
+
+
+
+Income: The financial gain (earned or unearned) accruing over a given period of time.
+
+ Expenditure: A payment or incurrence of an obligation to make a future payment for an asset or
+
+service rendered.
+
+ Profit and Loss A/c: The second section of Trading and Profit & Loss Account is Profit & Loss Account. The gross profit, which is the difference between sales and cost of sale, is shown in the trading account. As a result, gross profit cannot be treated as net profit when a businessperson wants to determine how much net profit, he made from operating operations during a certain time period. Profit and Loss Accounts are created for this reason, taking into account all of the business’s operational and non-operating profits and losses. All expenses and losses are declared on the debit (left hand side), and all incomes are disclosed on the credit (right hand side). The excess of credit side over debit side is called net profit while the excess of debit side over credit side shows net loss.
+
+ Goods: It is a general term used for the articles in which the business deals; that is, only those articles
+
+which are bought for resale for profit are known as Goods.
+
+ Drawings: It is the amount of money or the value of goods which the proprietor takes for his domestic
+
+or personal use. It is usually subtracted from capital.
+
+1.2.2 Users of Accounting Information
+
+There are two types of persons interested in financial statements:
+
+1.
+
+Internal users: These are:
+
+ Shareholders are interested to know the welfare of the business. They can know the operational
+
+results through such financial statements and the financial position of the business.
+
+ Management is interested to take important decisions relating to fixing up the selling prices and
+
+making future policies.
+
+ Trade unions and employees are interested to know the operational results because their bonus etc. is dependent on the profit earned by the business. Financial statements also help in their negotiations for wages/salaries.
+
+2. External users: The following are most important external users of financial statements:
+
+
+
+Investors: They want to know about a company’s earning capacity, which may be determined through financial documents. Financial statements can also be used to determine the business’s financial viability.
+
+4
+
+UNIT 01: Introduction to Financial Accounting
+
+JGI
+
+JDAE EMED-TOI- BEUNNIVERSITY
+
+ Creditors, Lenders of Money: The creditors and lenders of money etc. can also know the financial soundness through financial statement. They have to see two things (i) Regularity of income and (ii) solvency of the business so that their investment is risk free.
+
+ Government: The government is interested in drafting laws to regulate corporate activity, as well as taxation and other laws. Financial statements aid in the computation of national income figures, among other things.
+
+ Taxation authorities: Financial statements contain information about a company’s operating results as well as its financial situation. The amount of tax is determined by the tax authorities based on the financial statement. Other taxing authorities, such as sales tax, will find it quite useful.
+
+ Consumers: These groups are interested in getting the goods at reduced price. Therefore, they wish to know the establishment of a proper accounting control, which in turn will reduce to cost of production, in turn less price to be paid by the consumers. Researchers are also interested in accounting for interpretation.
+
+ Research Scholars: Accounting information, as a reflection of a company’s financial success, is invaluable to a researcher looking to investigate a company’s financial operations. To conduct research into a company’s financial operations, a research scholar will need detailed accounting information on purchases, sales, expenses, cost of materials used, current assets, current liabilities, fixed assets, long-term liabilities, and share-holders funds, all of which can be found in the company’s accounting records.
