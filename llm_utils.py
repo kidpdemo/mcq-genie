@@ -15,8 +15,8 @@ def get_model_to_use(seed):
     if "gpt-4-turbo" == MODEL_TO_USE.lower():
         #print("Returning : ", "gpt-4-turbo")
         llm = ChatOpenAI(
-            model="gpt-3.5-turbo",
-            # model=MODEL_TO_USE,
+            # model="gpt-3.5-turbo",
+            model=MODEL_TO_USE,
             temperature=1,
             max_tokens=4096,
             model_kwargs={
