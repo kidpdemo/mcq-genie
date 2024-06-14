@@ -79,7 +79,7 @@
         "Evaluating",
         "Creating"
     ],
-    "btl_at_which_to_generate_mcqs": "creating",
+    "btl_at_which_to_generate_mcqs": "evaluating",
     "difficulty_at_which_to_generate_mcqs": 10,
     "audience": "postgraduate",
     "number_of_mcqs_to_generate": 3,
