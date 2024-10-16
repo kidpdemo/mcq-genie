@@ -1004,7 +1004,7 @@ def run():
             ans = mcq_generate(c)
 
             st.subheader('MCQ Genie Output:', divider='rainbow')
-            #st.selectbox("Course", (ans[0]["course_code"] + " " + ans[0]["course"], ""), disabled=True, label_visibility="collapsed")
+            st.selectbox("Course", (ans[0]["course_code"] + " " + ans[0]["course"], ""), disabled=True, label_visibility="collapsed")
             st.selectbox("Selected Unit", (unit_option, ""), disabled=True, label_visibility="collapsed")
             st.selectbox("Learning Outcome", (lo, ""), disabled=True, label_visibility="collapsed")
 
