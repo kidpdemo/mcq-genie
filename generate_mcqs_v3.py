@@ -138,8 +138,9 @@ def mcq_generate(course_details):
                         token_usage = get_usage_details(unique_mcqs)
                         
                         unique_mcqs_json = json.loads(get_json_from_string(unique_mcqs.content))
-                        token_usage = {key: int(value / len(unique_mcqs_json)) for key, value in token_usage.items()}
-                        mcqs_updated_with_metadata = [{**mcq, **metadata, 'usage': token_usage} for mcq in unique_mcqs_json]
+                        #token_usage = {key: int(value / len(unique_mcqs_json)) for key, value in token_usage.items()}
+                        #mcqs_updated_with_metadata = [{**mcq, **metadata, 'usage': token_usage} for mcq in unique_mcqs_json]
+                        mcqs_updated_with_metadata = [{**mcq, **metadata} for mcq in unique_mcqs_json]
                         
                         #questions_returned = get_json_formatted_questions(unique_mcqs, metadata)
                         #questions_returned = json.loads(get_json_from_string(unique_mcqs))
